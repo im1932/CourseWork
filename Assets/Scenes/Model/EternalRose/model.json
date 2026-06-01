@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_1619",
+    "name": "Quantum",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_1620",
+    "name": "Vivid Prize",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_1621",
+    "name": "Atlantis",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1622",
+    "name": "Winter",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1623",
+    "name": "Fracture",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1624",
+    "name": "Glitchy Spell",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1625",
+    "name": "Thor-ny",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1626",
+    "name": "Inferno",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1627",
+    "name": "Stolen Bloom",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1628",
+    "name": "Golden Lock",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1629",
+    "name": "Paper Bloom",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1630",
+    "name": "Addams",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1631",
+    "name": "Ink Blaze",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1632",
+    "name": "Mystic Ink",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1633",
+    "name": "Smooch",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1634",
+    "name": "3D Glow",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1635",
+    "name": "Ice Artifact",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1636",
+    "name": "Halftone",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1637",
+    "name": "Vampire",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1638",
+    "name": "Pop Petal",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1639",
+    "name": "Rainglow",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1640",
+    "name": "Silver Flower",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1641",
+    "name": "Bronze Sparkle",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1642",
+    "name": "Sketchy",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1643",
+    "name": "Golden Shine",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_1644",
+    "name": "Opal Dream",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1645",
+    "name": "Poison Ivy",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1646",
+    "name": "Ember Spark",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1647",
+    "name": "Moonstone",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1648",
+    "name": "Lunar Charm",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1649",
+    "name": "Silent Bloom",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1650",
+    "name": "Mirage",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1651",
+    "name": "Aurora Veil",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1652",
+    "name": "Phantom Glow",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1653",
+    "name": "Nightfall",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_1654",
+    "name": "Jade Bloom",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1655",
+    "name": "Cobalt Magic",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1656",
+    "name": "Fireflies",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1657",
+    "name": "Purple Bloom",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1658",
+    "name": "Gentle Magic",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1659",
+    "name": "Celestial Bud",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1660",
+    "name": "Solar Flare",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1661",
+    "name": "Sunset Jewel",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1662",
+    "name": "Twilight Mist",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1663",
+    "name": "Lilac Relic",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1664",
+    "name": "Gilded Petal",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1665",
+    "name": "Midnight Glow",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1666",
+    "name": "Prism",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1667",
+    "name": "Fallout",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1668",
+    "name": "Mystic Frost",
+    "rarityPermille": 25
+  }
+]

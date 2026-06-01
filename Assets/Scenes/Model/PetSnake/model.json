@@ -1,0 +1,302 @@
+[
+  {
+    "id": "model_4700",
+    "name": "Portal",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_4701",
+    "name": "Banana",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4702",
+    "name": "Spooky",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4703",
+    "name": "Sherlock",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_4704",
+    "name": "Sunflower",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_4705",
+    "name": "Dragon",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4706",
+    "name": "Autumn",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4707",
+    "name": "Confused",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4708",
+    "name": "Dobby",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4709",
+    "name": "Dracula",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4710",
+    "name": "Flushed Away",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4711",
+    "name": "Goofy Twins",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4712",
+    "name": "Party Popper",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4713",
+    "name": "Rainy Day",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4714",
+    "name": "Soap Bubble",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4715",
+    "name": "Spicy Wings",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4716",
+    "name": "The Deceiver",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4717",
+    "name": "Yaaaaaay!",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4718",
+    "name": "Zombie",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4719",
+    "name": "Beer Mamba",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4720",
+    "name": "Champagne",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4721",
+    "name": "Coffee!",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4722",
+    "name": "Fast Food",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4723",
+    "name": "Hisssmas",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4724",
+    "name": "Nimbus",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4725",
+    "name": "Snakey Mouse",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4726",
+    "name": "Sweet Dreams",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4727",
+    "name": "Deadline",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4728",
+    "name": "Domination",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4729",
+    "name": "Hooded",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4730",
+    "name": "Mistletoe",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4731",
+    "name": "Water Snake",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4732",
+    "name": "Cherry Bomb",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4733",
+    "name": "Crayon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4734",
+    "name": "Durov's Cap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4735",
+    "name": "Neko-San",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4736",
+    "name": "Poopsicle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4737",
+    "name": "Pure Gold",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4738",
+    "name": "Libertarian",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_4739",
+    "name": "Black Mamba",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4740",
+    "name": "Dalmatian",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4741",
+    "name": "Froggy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4742",
+    "name": "Jungle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4743",
+    "name": "King Cobra",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4744",
+    "name": "Luminous",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4745",
+    "name": "Pink Bunny",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4746",
+    "name": "Pink Leo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4747",
+    "name": "Rainbow",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4748",
+    "name": "Sketchy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4749",
+    "name": "Wiggly",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4750",
+    "name": "Albino",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4751",
+    "name": "Santa's Helper",
+    "rarityPermille": 45
+  },
+  {
+    "id": "model_4752",
+    "name": "Tempest",
+    "rarityPermille": 45
+  },
+  {
+    "id": "model_4753",
+    "name": "Venomous",
+    "rarityPermille": 45
+  },
+  {
+    "id": "model_4754",
+    "name": "Cold-Blooded",
+    "rarityPermille": 50
+  },
+  {
+    "id": "model_4755",
+    "name": "Lava Viper",
+    "rarityPermille": 50
+  },
+  {
+    "id": "model_4756",
+    "name": "Lollipop",
+    "rarityPermille": 50
+  },
+  {
+    "id": "model_4757",
+    "name": "Mojito",
+    "rarityPermille": 50
+  },
+  {
+    "id": "model_4758",
+    "name": "Rainforest",
+    "rarityPermille": 50
+  },
+  {
+    "id": "model_4759",
+    "name": "Sour Bites",
+    "rarityPermille": 50
+  }
+]

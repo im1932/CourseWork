@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_638",
+    "name": "Batwing",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_639",
+    "name": "Cambridge",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_640",
+    "name": "Dark Lord",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_641",
+    "name": "Dracarys",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_642",
+    "name": "Farfalle",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_643",
+    "name": "Firefly",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_644",
+    "name": "Heritage",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_645",
+    "name": "Prism",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_646",
+    "name": "Singularity",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_647",
+    "name": "Tie Fighter",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_648",
+    "name": "Velvet Gold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_649",
+    "name": "Baby Yoda",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_650",
+    "name": "Bus Guys",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_651",
+    "name": "Chebu",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_652",
+    "name": "Doge Gem",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_653",
+    "name": "Durov's Dog",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_654",
+    "name": "The Badger",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_655",
+    "name": "The Lion",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_656",
+    "name": "The Raven",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_657",
+    "name": "The Serpent",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_658",
+    "name": "Tortuga",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_659",
+    "name": "Union Jack",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_660",
+    "name": "Vampire",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_661",
+    "name": "Creator",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_662",
+    "name": "Despicable",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_663",
+    "name": "Gamepad",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_664",
+    "name": "Sailor Moon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_665",
+    "name": "Spider Sense",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_666",
+    "name": "Utyan",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_667",
+    "name": "Blue Morpho",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_668",
+    "name": "Elephant",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_669",
+    "name": "Mistletoe",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_670",
+    "name": "Modern Art",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_671",
+    "name": "Mondrian",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_672",
+    "name": "Squid Tie",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_673",
+    "name": "Billiards",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_674",
+    "name": "Bumblebee",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_675",
+    "name": "Canada",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_676",
+    "name": "Dribble",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_677",
+    "name": "Football",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_678",
+    "name": "Irish Knot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_679",
+    "name": "Ladybug",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_680",
+    "name": "Strawberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_681",
+    "name": "Volleyball",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_682",
+    "name": "Cherries",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_683",
+    "name": "Eggplants",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_684",
+    "name": "Cupid's Bow",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_685",
+    "name": "Red Rose",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_686",
+    "name": "Bordeaux",
+    "rarityPermille": 50
+  },
+  {
+    "id": "model_687",
+    "name": "Classic",
+    "rarityPermille": 50
+  }
+]

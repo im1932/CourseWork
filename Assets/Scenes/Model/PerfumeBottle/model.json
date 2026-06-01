@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4650",
+    "name": "Blizzard",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_4651",
+    "name": "Flame Kiss",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_4652",
+    "name": "Electric Aura",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_4653",
+    "name": "Crimson Veil",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4654",
+    "name": "Dynamight",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4655",
+    "name": "Golden Elixir",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4656",
+    "name": "Rosé Thorn",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4657",
+    "name": "Silver Essence",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4658",
+    "name": "Misty Smoke",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4659",
+    "name": "Prism Bubble",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_4660",
+    "name": "Aurora Joy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4661",
+    "name": "Venom Mist",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4662",
+    "name": "Dairy Dew",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4663",
+    "name": "Dark Essence",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4664",
+    "name": "Sketch Shade",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4665",
+    "name": "LoveSpritz",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4666",
+    "name": "Mono Delight",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4667",
+    "name": "Madmoiselle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4668",
+    "name": "№5 L'eau",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4669",
+    "name": "Eau De Parfum",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4670",
+    "name": "Noir",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4671",
+    "name": "№19",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4672",
+    "name": "Inkspire Red",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4673",
+    "name": "Cartoon Sky",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4674",
+    "name": "Jade Script",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4675",
+    "name": "Sunny Doodle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4676",
+    "name": "Jade Steel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4677",
+    "name": "Luminous",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4678",
+    "name": "Ebony Rose",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4679",
+    "name": "Cobalt Alloy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4680",
+    "name": "Grape Juice",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4681",
+    "name": "Ruby Steel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4682",
+    "name": "Violet Veil",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4683",
+    "name": "Golden Alloy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4684",
+    "name": "Blush Petal",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4685",
+    "name": "Twilight Bliss",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4686",
+    "name": "Serene Mist",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4687",
+    "name": "Glow Verde",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4688",
+    "name": "Plum Cloud",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4689",
+    "name": "Candy Luxe",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4690",
+    "name": "Scarlet Kiss",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4691",
+    "name": "Grape Splash",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4692",
+    "name": "Juicy Bliss",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4693",
+    "name": "Azure Plum",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4694",
+    "name": "Cotton Candy",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4695",
+    "name": "Solar Eclipse",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4696",
+    "name": "Millet Fields",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4697",
+    "name": "Orchard Glow",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4698",
+    "name": "Crimson Sky",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_4699",
+    "name": "Pure Essence",
+    "rarityPermille": 40
+  }
+]

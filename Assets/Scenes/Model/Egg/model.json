@@ -1,0 +1,312 @@
+[
+  {
+    "id": "model_1477",
+    "name": "Baby Chick",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1478",
+    "name": "Baby Turtle",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1479",
+    "name": "Choco Bunny",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1480",
+    "name": "Cryptid",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1481",
+    "name": "Early Bird",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1482",
+    "name": "Easter Bunny",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1483",
+    "name": "Jurassic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1484",
+    "name": "Little Dino",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1485",
+    "name": "Little Doge",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1486",
+    "name": "Red Whelp",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1487",
+    "name": "Sea Turtle",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1488",
+    "name": "Unicorn",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1489",
+    "name": "Cactus",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1490",
+    "name": "Chocolate",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1491",
+    "name": "Deep Freeze",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1492",
+    "name": "Dogel Mogel",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1493",
+    "name": "Egghead",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1494",
+    "name": "Faberge",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1495",
+    "name": "Koshchei",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1496",
+    "name": "Meowling",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1497",
+    "name": "Pastel Candy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1498",
+    "name": "Pearl",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1499",
+    "name": "Starry Gift",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1500",
+    "name": "Dragon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1501",
+    "name": "Eggmoji",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1502",
+    "name": "Foliage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1503",
+    "name": "Ice Cream",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1504",
+    "name": "Pure Gold",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1505",
+    "name": "Stained Glass",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1506",
+    "name": "Treasure Map",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1507",
+    "name": "Boiled Pepe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1508",
+    "name": "Chicken",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1509",
+    "name": "Creeper",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1510",
+    "name": "Eggburger",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1511",
+    "name": "Eggsecutive",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1512",
+    "name": "Fine Silver",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1513",
+    "name": "Fish Pod",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1514",
+    "name": "Free Flight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1515",
+    "name": "Jupiter",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1516",
+    "name": "Ladybird",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1517",
+    "name": "Magic Key",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1518",
+    "name": "Omeletron",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1519",
+    "name": "OS Shell",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1520",
+    "name": "Scrambull",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1521",
+    "name": "Stamper",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1522",
+    "name": "3D Render",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1523",
+    "name": "Ball of Steel",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1524",
+    "name": "Brick Wall",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1525",
+    "name": "Bronze",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1526",
+    "name": "Crown Prince",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1527",
+    "name": "Flower Bed",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1528",
+    "name": "Flowers",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1529",
+    "name": "Frosted",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1530",
+    "name": "Gzhel",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1531",
+    "name": "Khokhloma",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1532",
+    "name": "Matryoshka",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1533",
+    "name": "Meadow",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1534",
+    "name": "Moon Watch",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1535",
+    "name": "Mr. Benedict",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1536",
+    "name": "Porcelain",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1537",
+    "name": "Protein Lamp",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1538",
+    "name": "Purple Bird",
+    "rarityPermille": 25
+  }
+]

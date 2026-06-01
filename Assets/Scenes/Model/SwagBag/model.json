@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6311",
+    "name": "Cashback",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6312",
+    "name": "Cookie Dude",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6313",
+    "name": "Gin & Jewels",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6314",
+    "name": "Happy Herbs",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6315",
+    "name": "Missionary",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6316",
+    "name": "Snoop Life",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6317",
+    "name": "Blind Bag",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6318",
+    "name": "Darkness",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6319",
+    "name": "Golden Nugs",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6320",
+    "name": "Leopard",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6321",
+    "name": "P.I.M.P.",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6322",
+    "name": "The Last Meal",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6323",
+    "name": "Doll Buttons",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6324",
+    "name": "Snoop S",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6325",
+    "name": "Stack Pack",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6326",
+    "name": "April 20th",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6327",
+    "name": "Aviators",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6328",
+    "name": "Baggy Bag",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6329",
+    "name": "Boiling Hot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6330",
+    "name": "Bulk Order",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6331",
+    "name": "Candy Shop",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6332",
+    "name": "Doggy Doggs",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6333",
+    "name": "Doggystyle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6334",
+    "name": "Fish Hat",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6335",
+    "name": "Money Bag",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6336",
+    "name": "Muffins",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6337",
+    "name": "Platinum 8",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6338",
+    "name": "Shuffle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6339",
+    "name": "Take It Easy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6340",
+    "name": "Walk Of Fame",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6341",
+    "name": "West Toast",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6342",
+    "name": "Bark & Tag",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6343",
+    "name": "Crook To Cook",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6344",
+    "name": "Purple Smoke",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6345",
+    "name": "Rastafari",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6346",
+    "name": "Serious Dude",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6347",
+    "name": "Tag Bag",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6348",
+    "name": "Choco Doggs",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6349",
+    "name": "Choco Kush",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6350",
+    "name": "Dogg Treats",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6351",
+    "name": "Dogg's Loot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6352",
+    "name": "Gin and Juice",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6353",
+    "name": "Gummies",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6354",
+    "name": "Hop Corn",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6355",
+    "name": "Lollipops",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6356",
+    "name": "Platinum Drip",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6357",
+    "name": "Smokefest",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6358",
+    "name": "Snoopcoins",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6359",
+    "name": "Spicy Onion",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6360",
+    "name": "Lemon Pepper",
+    "rarityPermille": 35
+  }
+]

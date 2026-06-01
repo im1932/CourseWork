@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_2768",
+    "name": "Bitcoins",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2769",
+    "name": "Diamonds",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2770",
+    "name": "Golden Fleece",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2771",
+    "name": "Golden Vault",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2772",
+    "name": "Kraken",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2773",
+    "name": "Pika-Pika!",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2774",
+    "name": "Turtle Soup",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2775",
+    "name": "Sandbox",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2776",
+    "name": "Sponge Box",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2777",
+    "name": "Anti-Gravity",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2778",
+    "name": "Broth Pack",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2779",
+    "name": "Cable Mess",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2780",
+    "name": "Dragon Soup",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2781",
+    "name": "Family Jewels",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2782",
+    "name": "Giant Crab",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2783",
+    "name": "Gothic Dish",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2784",
+    "name": "Jade Dragon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2785",
+    "name": "Jelly Brain",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2786",
+    "name": "Octopus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2787",
+    "name": "Arcane Bowl",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2788",
+    "name": "Gold Chain",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2789",
+    "name": "Homemade",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2790",
+    "name": "Hotpot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2791",
+    "name": "Ramen Snack",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2792",
+    "name": "Red Lobster",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2793",
+    "name": "Seafood",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2794",
+    "name": "Spicy Wiener",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2795",
+    "name": "Squid Wok",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2796",
+    "name": "Abduction",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2797",
+    "name": "Bento",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2798",
+    "name": "Cat Food",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2799",
+    "name": "Classic Ramen",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2800",
+    "name": "Eyeballs",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2801",
+    "name": "Sacred Grove",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2802",
+    "name": "Samurai",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2803",
+    "name": "Sausage Duo",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2804",
+    "name": "Slurp-Slurp",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2805",
+    "name": "Bacon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2806",
+    "name": "Black Pasta",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2807",
+    "name": "Broccoli",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2808",
+    "name": "Chicken",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2809",
+    "name": "First Date",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2810",
+    "name": "Khinkali",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2811",
+    "name": "Mushroom",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2812",
+    "name": "Ratatouille",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2813",
+    "name": "Sewing Stew",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2814",
+    "name": "Shrimp",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2815",
+    "name": "Spicy Beef",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2816",
+    "name": "Sunny Loops",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2817",
+    "name": "Topokki",
+    "rarityPermille": 30
+  }
+]

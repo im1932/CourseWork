@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4390",
+    "name": "Still Alive",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_4391",
+    "name": "Suprematism",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4392",
+    "name": "Crypto Chips",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4393",
+    "name": "Cursed Apple",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4394",
+    "name": "Hollow Night",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4395",
+    "name": "Imperial",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4396",
+    "name": "Monster Cake",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4397",
+    "name": "Double King",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4398",
+    "name": "Luxury Taste",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4399",
+    "name": "Overlook",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4400",
+    "name": "Mad Hatter",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4401",
+    "name": "Purple Geode",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4402",
+    "name": "Solar System",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4403",
+    "name": "Starry Night",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4404",
+    "name": "Toxic Frog",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4405",
+    "name": "Wicked Pie",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4406",
+    "name": "Angel Cake",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4407",
+    "name": "Butterflies",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4408",
+    "name": "Checkmate",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4409",
+    "name": "Gemstones",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4410",
+    "name": "Harvest",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4411",
+    "name": "Meatcake",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4412",
+    "name": "Opal Cherry",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4413",
+    "name": "Rock Band",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4414",
+    "name": "Romance",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4415",
+    "name": "Scarlet Drip",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4416",
+    "name": "Sky Peacock",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4417",
+    "name": "Treasure",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4418",
+    "name": "Cheesecake",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4419",
+    "name": "Circus Show",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4420",
+    "name": "Fiesta Muerta",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4421",
+    "name": "Ice Cream",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4422",
+    "name": "Mermaid",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4423",
+    "name": "Pony Princess",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4424",
+    "name": "Purple Star",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4425",
+    "name": "Rose Bouquet",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4426",
+    "name": "Sugar Bricks",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4427",
+    "name": "Velvet Crown",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4428",
+    "name": "Bubble Jar",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4429",
+    "name": "Chocolate",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4430",
+    "name": "Film Noir",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4431",
+    "name": "Froggy Pond",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4432",
+    "name": "Glacier",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4433",
+    "name": "Gummy Bears",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4434",
+    "name": "Honey Cake",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4435",
+    "name": "Italian Pie",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4436",
+    "name": "Meringue",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4437",
+    "name": "Perfect Match",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4438",
+    "name": "Razzle Dazzle",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4439",
+    "name": "Sweet Music",
+    "rarityPermille": 30
+  }
+]

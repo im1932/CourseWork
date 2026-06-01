@@ -1,0 +1,277 @@
+[
+  {
+    "id": "model_431",
+    "name": "Creator",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_432",
+    "name": "Game Boy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_433",
+    "name": "Gold Mine",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_434",
+    "name": "Jelly Year",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_435",
+    "name": "The Nether",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_436",
+    "name": "Balloons",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_437",
+    "name": "Cheshire Cat",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_438",
+    "name": "King of Pop",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_439",
+    "name": "Sir Chaplin",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_440",
+    "name": "The Hobbit",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_441",
+    "name": "Frida Kahlo",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_442",
+    "name": "Original Cola",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_443",
+    "name": "Sherlock",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_444",
+    "name": "Sputnik-1",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_445",
+    "name": "Telegram",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_446",
+    "name": "Toon Family",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_447",
+    "name": "Zombie Film",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_448",
+    "name": "A New Hope",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_449",
+    "name": "AC-DC",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_450",
+    "name": "Big Brother",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_451",
+    "name": "Covid-19",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_452",
+    "name": "Da Vinci",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_453",
+    "name": "Einstein",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_454",
+    "name": "First Flight",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_455",
+    "name": "First Website",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_456",
+    "name": "Mauveine",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_457",
+    "name": "Qing Dynasty",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_458",
+    "name": "Salvador Dali",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_459",
+    "name": "Van Gogh",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_460",
+    "name": "War and Peace",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_461",
+    "name": "YouTubes",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_462",
+    "name": "Bikini Bottom",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_463",
+    "name": "Christmas Carol",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_464",
+    "name": "Columbus",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_465",
+    "name": "Fallout",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_466",
+    "name": "Frankenstein",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_467",
+    "name": "Industrial",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_468",
+    "name": "Night Bat",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_469",
+    "name": "Nostradamus",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_470",
+    "name": "Nuclein",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_471",
+    "name": "Pavel Durov",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_472",
+    "name": "Periodic Table",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_473",
+    "name": "Picasso",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_474",
+    "name": "Spider Sense",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_475",
+    "name": "Steve Jobs",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_476",
+    "name": "Wizard Boy",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_477",
+    "name": "2048",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_478",
+    "name": "Bitcoin",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_479",
+    "name": "Cyberpunk",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_480",
+    "name": "Emo Music",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_481",
+    "name": "Freddy",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_482",
+    "name": "Matrix",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_483",
+    "name": "Pokeball",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_484",
+    "name": "Retrowave",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_485",
+    "name": "Walking Dead",
+    "rarityPermille": 29
+  }
+]

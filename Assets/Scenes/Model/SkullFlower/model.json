@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_5461",
+    "name": "Black Cat",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5462",
+    "name": "Ghost Rider",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5463",
+    "name": "Tim Burton",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5464",
+    "name": "Leopard",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5465",
+    "name": "Soft Puff",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5466",
+    "name": "Pamplona",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5467",
+    "name": "Calavera",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5468",
+    "name": "Chromium",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5469",
+    "name": "Sand Goldbud",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5470",
+    "name": "Princess",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5471",
+    "name": "Health Risk",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5472",
+    "name": "Cobweb",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5473",
+    "name": "Cocoon",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5474",
+    "name": "Blue Bull",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5475",
+    "name": "Technicolor",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5476",
+    "name": "Graffiti",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5477",
+    "name": "Glowing Goth",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5478",
+    "name": "Jack Sparrow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5479",
+    "name": "Dark Carnival",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5480",
+    "name": "Joyful Duck",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5481",
+    "name": "Secret Sprout",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5482",
+    "name": "Newspaper",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5483",
+    "name": "Hypercolor",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5484",
+    "name": "Neon Pink",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5485",
+    "name": "Citrus Twist",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5486",
+    "name": "Vector",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5487",
+    "name": "Marigold",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5488",
+    "name": "Sun Dazzle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5489",
+    "name": "Sunset",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5490",
+    "name": "Luau Lily",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5491",
+    "name": "Neon Green",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5492",
+    "name": "Poinsettia",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5493",
+    "name": "Silversage",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5494",
+    "name": "Peony",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5495",
+    "name": "White Rose",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5496",
+    "name": "Wreath",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5497",
+    "name": "Blue Iris",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5498",
+    "name": "Nightshade",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5499",
+    "name": "Black Dahlia",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5500",
+    "name": "Dewdrop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5501",
+    "name": "Pink Caprice",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5502",
+    "name": "Royal Azure",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5503",
+    "name": "Daisy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5504",
+    "name": "Mystic",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5505",
+    "name": "Sunburst",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5506",
+    "name": "Early Green",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5507",
+    "name": "Gothic",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5508",
+    "name": "Azalea",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5509",
+    "name": "Frozen Violet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5510",
+    "name": "Carnation",
+    "rarityPermille": 30
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3488",
+    "name": "Tree Frog",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3489",
+    "name": "Brewtoad",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3490",
+    "name": "Puddles",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3491",
+    "name": "Honeyhop",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3492",
+    "name": "Melty Butter",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3493",
+    "name": "Lucifrog",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3494",
+    "name": "Rocky Hopper",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3495",
+    "name": "Zodiak Croak",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3496",
+    "name": "Count Croakula",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3497",
+    "name": "Happy Pepe",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3498",
+    "name": "Lilie Pond",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3499",
+    "name": "Sweet Dream",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3500",
+    "name": "Frogmaid",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3501",
+    "name": "Icefrog",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3502",
+    "name": "Lava Leap",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3503",
+    "name": "Trixie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3504",
+    "name": "Tesla Frog",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3505",
+    "name": "Pond Fairy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3506",
+    "name": "Toadstool",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3507",
+    "name": "Desert Frog",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3508",
+    "name": "Cupid",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3509",
+    "name": "Boingo",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3510",
+    "name": "Hopberry",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3511",
+    "name": "Ms. Toad",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3512",
+    "name": "Prince Ribbit",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3513",
+    "name": "Silver",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3514",
+    "name": "Bronze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3515",
+    "name": "Starry Night",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3516",
+    "name": "Ectofrog",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3517",
+    "name": "Poison",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3518",
+    "name": "Minty Bloom",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3519",
+    "name": "Sarutoad",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3520",
+    "name": "Void Hopper",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3521",
+    "name": "Ramune",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3522",
+    "name": "Lemon Drop",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3523",
+    "name": "Ectobloom",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3524",
+    "name": "Duskhopper",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3525",
+    "name": "Melon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3526",
+    "name": "Frogtart",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3527",
+    "name": "Banana Pox",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3528",
+    "name": "Lily Pond",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3529",
+    "name": "Toadberry",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3530",
+    "name": "Frogwave",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3531",
+    "name": "Sky Leaper",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3532",
+    "name": "Peach",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3533",
+    "name": "Sea Breeze",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3534",
+    "name": "Lemon Juice",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3535",
+    "name": "Cranberry",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3536",
+    "name": "Tide Pod",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3537",
+    "name": "Brownie",
+    "rarityPermille": 40
+  }
+]

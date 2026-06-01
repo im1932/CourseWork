@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4290",
+    "name": "Battle Royale",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4291",
+    "name": "Jetpack",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4292",
+    "name": "Net Worth",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4293",
+    "name": "Pepe Unleashed",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4294",
+    "name": "Proton Pack",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4295",
+    "name": "Golden Dragon",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4296",
+    "name": "Jolly Roger",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4297",
+    "name": "Lady Arcana",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4298",
+    "name": "Laika Dog",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4299",
+    "name": "Moon Power",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4300",
+    "name": "Nezuko",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4301",
+    "name": "Travel Duck",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4302",
+    "name": "Void Beast",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4303",
+    "name": "Crystal Scarab",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4304",
+    "name": "Infernal Goat",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4305",
+    "name": "Rare Drop",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4306",
+    "name": "Ruby Heart",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4307",
+    "name": "VIP Pass",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4308",
+    "name": "Bank Vault",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4309",
+    "name": "Emo Phase",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4310",
+    "name": "Fluffy Monster",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4311",
+    "name": "Plush Shark",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4312",
+    "name": "Road Rebel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4313",
+    "name": "Turtle Shell",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4314",
+    "name": "Aquarium",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4315",
+    "name": "Davy Jones",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4316",
+    "name": "Fallout",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4317",
+    "name": "Fashionista",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4318",
+    "name": "Fast Courier",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4319",
+    "name": "Fire Show",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4320",
+    "name": "Gingerbread",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4321",
+    "name": "Grand Slam",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4322",
+    "name": "Master Angler",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4323",
+    "name": "Movie Night",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4324",
+    "name": "Paladin",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4325",
+    "name": "Retro Wave",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4326",
+    "name": "Rock and Roll",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4327",
+    "name": "Rodeo King",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4328",
+    "name": "Striker",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4329",
+    "name": "Wanderer",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4330",
+    "name": "Angel Wings",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4331",
+    "name": "Bloom Pack",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4332",
+    "name": "Burger Bag",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4333",
+    "name": "Cat Pack",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4334",
+    "name": "Croc Sack",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4335",
+    "name": "Goth Gir",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4336",
+    "name": "Love Letters",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4337",
+    "name": "Space Cat",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4338",
+    "name": "Star Pupil",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4339",
+    "name": "Street Art",
+    "rarityPermille": 30
+  }
+]

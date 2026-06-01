@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6261",
+    "name": "Bitcoin",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6262",
+    "name": "Mission Uranus",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6263",
+    "name": "To The Moon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6264",
+    "name": "Black Wing",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6265",
+    "name": "Gunship",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6266",
+    "name": "Jewels",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6267",
+    "name": "Mega Death",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6268",
+    "name": "Normandy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6269",
+    "name": "Nostromo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6270",
+    "name": "Space Bot",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6271",
+    "name": "Space Veggie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6272",
+    "name": "Telegram",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6273",
+    "name": "Chrome",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6274",
+    "name": "Knowledge",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6275",
+    "name": "Pepelatz",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6276",
+    "name": "Planet Express",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6277",
+    "name": "Police Box",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6278",
+    "name": "Submarine",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6279",
+    "name": "Alien Pizza",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6280",
+    "name": "Baby Carrot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6281",
+    "name": "Clever Bird",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6282",
+    "name": "Doomsday",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6283",
+    "name": "Fishing Cat",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6284",
+    "name": "Laika",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6285",
+    "name": "Little Journey",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6286",
+    "name": "Pencil",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6287",
+    "name": "Squirrel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6288",
+    "name": "Worm Gun",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6289",
+    "name": "Banana",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6290",
+    "name": "Cardboard",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6291",
+    "name": "Checkered",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6292",
+    "name": "First Step",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6293",
+    "name": "Flower Power",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6294",
+    "name": "Jet Bike",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6295",
+    "name": "Lava Lamp",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6296",
+    "name": "Malfunction",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6297",
+    "name": "Rocket Plush",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6298",
+    "name": "Silver Ride",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6299",
+    "name": "Soap Bubbles",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6300",
+    "name": "Astro Peach",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6301",
+    "name": "Fireworks",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6302",
+    "name": "Green Jelly",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6303",
+    "name": "Hornet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6304",
+    "name": "Lollipop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6305",
+    "name": "Neon Fuel",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6306",
+    "name": "Popsicle",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6307",
+    "name": "Ruby Sparkle",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6308",
+    "name": "Sky Ghost",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6309",
+    "name": "Unicorn",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6310",
+    "name": "Vintage Toy",
+    "rarityPermille": 30
+  }
+]

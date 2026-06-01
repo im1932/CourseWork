@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3670",
+    "name": "Love Bubbles",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3671",
+    "name": "Vivid Foam",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3672",
+    "name": "Blood Burner",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3673",
+    "name": "Mistletoe",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3674",
+    "name": "Pure Lavender",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3675",
+    "name": "North Pole",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3676",
+    "name": "Moonlight",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3677",
+    "name": "Phantom",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3678",
+    "name": "Harvest",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3679",
+    "name": "Iceberg",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3680",
+    "name": "Cyberpunk",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3681",
+    "name": "Waikiki",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3682",
+    "name": "Silverstone",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3683",
+    "name": "Gouda Wax",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3684",
+    "name": "Bronzed Ember",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3685",
+    "name": "Golden Glow",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3686",
+    "name": "Rose Garden",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3687",
+    "name": "Cloud",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3688",
+    "name": "Blue Vapor",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3689",
+    "name": "Celebrity",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3690",
+    "name": "Gothic Tears",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3691",
+    "name": "Surprise",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3692",
+    "name": "Noir & Blanc",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3693",
+    "name": "Vibrant Trio",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3694",
+    "name": "White Wax",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3695",
+    "name": "Midnight Rose",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3696",
+    "name": "Twilight",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3697",
+    "name": "Timber Glow",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3698",
+    "name": "Gray Smoke",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3699",
+    "name": "Porcelain",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3700",
+    "name": "Passion",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3701",
+    "name": "Arabian Night",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3702",
+    "name": "Celadon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3703",
+    "name": "Nectarine",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3704",
+    "name": "Silver Temple",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3705",
+    "name": "Gentle Wind",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3706",
+    "name": "Dreamscape",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3707",
+    "name": "Setting Sun",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3708",
+    "name": "Crystal Dream",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3709",
+    "name": "Tropical Rain",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3710",
+    "name": "Peach Perfume",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3711",
+    "name": "Coral Reef",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3712",
+    "name": "Mulberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3713",
+    "name": "Serenity",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3714",
+    "name": "Ocean Breeze",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3715",
+    "name": "Mykonos",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3716",
+    "name": "Afterglow",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3717",
+    "name": "Apricot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3718",
+    "name": "Herbal Bliss",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3719",
+    "name": "Zen Garden",
+    "rarityPermille": 30
+  }
+]

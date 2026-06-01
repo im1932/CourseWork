@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_2278",
+    "name": "Cyberpunk",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2279",
+    "name": "Dynamo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2280",
+    "name": "Equalizer",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2281",
+    "name": "Frozen Aegis",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2282",
+    "name": "Hard Rock",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2283",
+    "name": "Pickelhaube",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2284",
+    "name": "Punk Skull",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2285",
+    "name": "Bounty Hunter",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2286",
+    "name": "Chainsaw",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2287",
+    "name": "Inferno",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2288",
+    "name": "King Leonidas",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2289",
+    "name": "Maya Warrior",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2290",
+    "name": "Nekonidas",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2291",
+    "name": "Neon Legion",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2292",
+    "name": "Unicorn",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2293",
+    "name": "Atlantis",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2294",
+    "name": "Biker Warrior",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2295",
+    "name": "Black Thorn",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2296",
+    "name": "Blue Parrot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2297",
+    "name": "Galea Alba",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2298",
+    "name": "Giraffe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2299",
+    "name": "Happy Frog",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2300",
+    "name": "King Midas",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2301",
+    "name": "Ladybug",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2302",
+    "name": "Pale Guard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2303",
+    "name": "Pancake",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2304",
+    "name": "Praetorian",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2305",
+    "name": "Quackus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2306",
+    "name": "Skeleton",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2307",
+    "name": "Son of Ares",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2308",
+    "name": "Steampunk",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2309",
+    "name": "Watermelon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2310",
+    "name": "Aphrodite",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2311",
+    "name": "Bengal Tiger",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2312",
+    "name": "Centurion",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2313",
+    "name": "Chieftain",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2314",
+    "name": "Gladiator",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2315",
+    "name": "Hard Hat",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2316",
+    "name": "Hippotigris",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2317",
+    "name": "Liberty",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2318",
+    "name": "Mercurial",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2319",
+    "name": "Milk Legend",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2320",
+    "name": "Mythic Green",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2321",
+    "name": "Old Leather",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2322",
+    "name": "Phoenix",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2323",
+    "name": "Spartan",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2324",
+    "name": "Aegean Sea",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2325",
+    "name": "Ancient Gold",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2326",
+    "name": "Athena",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2327",
+    "name": "Desert Camo",
+    "rarityPermille": 30
+  }
+]

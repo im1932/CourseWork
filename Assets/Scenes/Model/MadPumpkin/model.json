@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3990",
+    "name": "Creepy Po",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3991",
+    "name": "Dark Dipsy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3992",
+    "name": "Kinky-Winky",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3993",
+    "name": "Oh-Laa-Laa",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3994",
+    "name": "Disco Ball",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3995",
+    "name": "Frostbite",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3996",
+    "name": "Jigsaw",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3997",
+    "name": "Johnny Bravo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3998",
+    "name": "Khinkali Boi",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3999",
+    "name": "Laugh Potion",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4000",
+    "name": "Mummy Troll",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4001",
+    "name": "The Joker",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4002",
+    "name": "The Mask",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4003",
+    "name": "Don Lemon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4004",
+    "name": "Heat Stroke",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4005",
+    "name": "Bee Movie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4006",
+    "name": "Cheshire Cat",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4007",
+    "name": "Chuckle-ate",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4008",
+    "name": "Daredevil",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4009",
+    "name": "Dark Humor",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4010",
+    "name": "Dark Ritual",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4011",
+    "name": "Krusty",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4012",
+    "name": "Le Mime",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4013",
+    "name": "Little Sketchy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4014",
+    "name": "Mandarin",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4015",
+    "name": "Pump King",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4016",
+    "name": "Purple Imp",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4017",
+    "name": "Red Demon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4018",
+    "name": "Robotic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4019",
+    "name": "Solaris",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4020",
+    "name": "Spotlight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4021",
+    "name": "Squashbuckler",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4022",
+    "name": "The Mocker",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4023",
+    "name": "Uranus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4024",
+    "name": "Copperfield",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4025",
+    "name": "Cucurbita",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4026",
+    "name": "Evil Grin",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4027",
+    "name": "Flat Joke",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4028",
+    "name": "Golden Boy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4029",
+    "name": "Green Grins",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4030",
+    "name": "Ha-Harvest",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4031",
+    "name": "Hollow Gold",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4032",
+    "name": "Joke-O'-Lantern",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4033",
+    "name": "Let It Snow",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4034",
+    "name": "Ornament",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4035",
+    "name": "Plutonium",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4036",
+    "name": "Shamrock",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4037",
+    "name": "Silver Surfer",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4038",
+    "name": "Unripe",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4039",
+    "name": "Watermelon",
+    "rarityPermille": 30
+  }
+]

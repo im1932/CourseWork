@@ -1,0 +1,402 @@
+[
+  {
+    "id": "model_2328",
+    "name": "Amortentia",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2329",
+    "name": "Fire Storm",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2330",
+    "name": "Felix Felicis",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2331",
+    "name": "Pikabrew",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2332",
+    "name": "Defensive",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2333",
+    "name": "Gust of Wind",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2334",
+    "name": "Coldbrew",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2335",
+    "name": "Beholder",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2336",
+    "name": "Bubble Bath",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2337",
+    "name": "Halloween Brew",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2338",
+    "name": "Hypnosis",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2339",
+    "name": "Tornado",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2340",
+    "name": "Fine Wine",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2341",
+    "name": "Digital Sap",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2342",
+    "name": "Sunset",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2343",
+    "name": "Rainbow Pearl",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2344",
+    "name": "Daiquiri",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2345",
+    "name": "Choco Cloud",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2346",
+    "name": "Death Star",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2347",
+    "name": "Quicksilver",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2348",
+    "name": "Blueprint",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2349",
+    "name": "Holiday Spirit",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2350",
+    "name": "Malibu",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2351",
+    "name": "Ice Citrus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2352",
+    "name": "Neon",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2353",
+    "name": "Peachy Fume",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2354",
+    "name": "Peppermint",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2355",
+    "name": "Citrus Bubbles",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2356",
+    "name": "Strike",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2357",
+    "name": "Inky",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2358",
+    "name": "Melon Brew",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2359",
+    "name": "Cherry Bomb",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2360",
+    "name": "Matrix",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2361",
+    "name": "Starlight",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2362",
+    "name": "Desert Friend",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2363",
+    "name": "Lava",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2364",
+    "name": "Code Red",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2365",
+    "name": "Backstroke",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2366",
+    "name": "Movie Night",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2367",
+    "name": "Mad Eye",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2368",
+    "name": "Banana Split",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2369",
+    "name": "Firefly",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2370",
+    "name": "Minty Fresh",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2371",
+    "name": "Gummy Worm",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2372",
+    "name": "Purple Haze",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2373",
+    "name": "Greenwitch",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2374",
+    "name": "Heat Map",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2375",
+    "name": "Soft Coral",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2376",
+    "name": "Golden Glow",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2377",
+    "name": "Petalwine",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2378",
+    "name": "Spectral Dew",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2379",
+    "name": "Ruby Ocean",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2380",
+    "name": "Red Shift",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2381",
+    "name": "Butterbeer",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2382",
+    "name": "Fairy Fluff",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2383",
+    "name": "Night Mixture",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2384",
+    "name": "Moonlight",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2385",
+    "name": "Violet Veil",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2386",
+    "name": "Burned Love",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2387",
+    "name": "Aurora",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2388",
+    "name": "Honeydew",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2389",
+    "name": "Red Mirage",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2390",
+    "name": "Burnt Roses",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2391",
+    "name": "Burnt Petals",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2392",
+    "name": "Sangria",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2393",
+    "name": "Vermilion",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2394",
+    "name": "Skywash",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2395",
+    "name": "Jade Grog",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2396",
+    "name": "Indigo Storm",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2397",
+    "name": "Citrus",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2398",
+    "name": "Scarlet Sun",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2399",
+    "name": "Full Moon",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2400",
+    "name": "Skygold",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2401",
+    "name": "Blue Inferno",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2402",
+    "name": "Rusty",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2403",
+    "name": "Potpourri",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2404",
+    "name": "Fairy",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2405",
+    "name": "Amethyst",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2406",
+    "name": "Orchid Volt",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2407",
+    "name": "Witchy",
+    "rarityPermille": 30
+  }
+]

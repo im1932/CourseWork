@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_6161",
+    "name": "Alien Script",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6162",
+    "name": "Clown",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6163",
+    "name": "Mon Amour",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6164",
+    "name": "Peachless",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6165",
+    "name": "Pepe Diary",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6166",
+    "name": "Toilet Paper",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6167",
+    "name": "Cursed Tome",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6168",
+    "name": "Enigma",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6169",
+    "name": "Grimoire",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6170",
+    "name": "Inferno",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6171",
+    "name": "Ink Splatter",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6172",
+    "name": "Spellbook",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6173",
+    "name": "Brainstorm",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6174",
+    "name": "Color Switch",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6175",
+    "name": "Error Log",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6176",
+    "name": "Florist",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6177",
+    "name": "Girlboss",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6178",
+    "name": "Golden Star",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6179",
+    "name": "Hippie",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6180",
+    "name": "Hologram",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6181",
+    "name": "Le Club",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6182",
+    "name": "Leopard",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6183",
+    "name": "Love Affair",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6184",
+    "name": "Mermaid",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6185",
+    "name": "Metallic",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6186",
+    "name": "Neon Grid",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6187",
+    "name": "North Pole",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6188",
+    "name": "Pearlescent",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6189",
+    "name": "Phoenix",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6190",
+    "name": "Princess",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6191",
+    "name": "Smoothie",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6192",
+    "name": "Springfield",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6193",
+    "name": "Swatch",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6194",
+    "name": "Telegram",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6195",
+    "name": "Tiger",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6196",
+    "name": "Trade Ledger",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6197",
+    "name": "True Love",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6198",
+    "name": "Twin Stars",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_6199",
+    "name": "Anemone",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6200",
+    "name": "Chronicles",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6201",
+    "name": "Executive",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6202",
+    "name": "King Arthur",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6203",
+    "name": "Lord Byron",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6204",
+    "name": "Novelist",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6205",
+    "name": "Paper Plane",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6206",
+    "name": "Paw Pads",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6207",
+    "name": "Positive",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6208",
+    "name": "Snow Globe",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6209",
+    "name": "Starry Night",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6210",
+    "name": "Superstar",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6211",
+    "name": "Blue Jeans",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6212",
+    "name": "Candy Pink",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6213",
+    "name": "Central Park",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6214",
+    "name": "Cheerleader",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6215",
+    "name": "CГґte d'Azur",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6216",
+    "name": "Coyote",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6217",
+    "name": "Crimson",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6218",
+    "name": "Cyprus",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6219",
+    "name": "Daily Blues",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6220",
+    "name": "Daybook",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6221",
+    "name": "Death Note",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6222",
+    "name": "Faculty",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6223",
+    "name": "Fashion Doll",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6224",
+    "name": "Hazelnut",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6225",
+    "name": "Hipster",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6226",
+    "name": "Hot Pink",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6227",
+    "name": "Indigo",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6228",
+    "name": "Joker's Notes",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6229",
+    "name": "Leather",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6230",
+    "name": "Lemonade",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6231",
+    "name": "Marakuja",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6232",
+    "name": "Marmalade",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6233",
+    "name": "Matcha",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6234",
+    "name": "Matte Black",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6235",
+    "name": "Meadow",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6236",
+    "name": "Monarch",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6237",
+    "name": "Mustard",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6238",
+    "name": "Negative",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6239",
+    "name": "Newmarket",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6240",
+    "name": "Nightpad",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6241",
+    "name": "Oak Tree",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6242",
+    "name": "Ocean Wave",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6243",
+    "name": "Rainbow",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6244",
+    "name": "Ranger",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6245",
+    "name": "Red Cover",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6246",
+    "name": "Savoy Blue",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6247",
+    "name": "Skies Above",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6248",
+    "name": "Snow White",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6249",
+    "name": "Sterling",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6250",
+    "name": "Sunflower",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6251",
+    "name": "Tangerine",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6252",
+    "name": "The Cutie",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6253",
+    "name": "Timber",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6254",
+    "name": "Tobacco",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6255",
+    "name": "Tropical",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6256",
+    "name": "Tutti Frutti",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6257",
+    "name": "Vice City",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6258",
+    "name": "Vineyard",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6259",
+    "name": "Walnut",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6260",
+    "name": "Watermelon",
+    "rarityPermille": 13
+  }
+]

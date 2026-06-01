@@ -1,0 +1,302 @@
+[
+  {
+    "id": "model_2708",
+    "name": "Like Button",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2709",
+    "name": "Press F",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2710",
+    "name": "Quad Damage",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2711",
+    "name": "Submit Button",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2712",
+    "name": "Verification",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2713",
+    "name": "Ban Hammer",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2714",
+    "name": "Champion",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2715",
+    "name": "Gold Star",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2716",
+    "name": "Major",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2717",
+    "name": "Money Printer",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2718",
+    "name": "Purrfect Key",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2719",
+    "name": "Ronaldo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2720",
+    "name": "Astrobot",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2721",
+    "name": "Blockchain",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2722",
+    "name": "Continue",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2723",
+    "name": "Creeper",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2724",
+    "name": "Doomsday",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2725",
+    "name": "Earth",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2726",
+    "name": "End Game",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2727",
+    "name": "Helipad",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2728",
+    "name": "Incredible",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2729",
+    "name": "Joker",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2730",
+    "name": "Matrix",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2731",
+    "name": "Ninja",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2732",
+    "name": "Nom-Nom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2733",
+    "name": "Red Dice",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2734",
+    "name": "Search Engine",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2735",
+    "name": "Switch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2736",
+    "name": "The King",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2737",
+    "name": "Typewriter",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2738",
+    "name": "X-Ray",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2739",
+    "name": "Angel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2740",
+    "name": "Bitcoin",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2741",
+    "name": "Black Hole",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2742",
+    "name": "Countdown",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2743",
+    "name": "Euro",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2744",
+    "name": "Hot Grill",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2745",
+    "name": "Infinity",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2746",
+    "name": "Jackpot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2747",
+    "name": "LOL",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2748",
+    "name": "Love Button",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2749",
+    "name": "Magic 8 Ball",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2750",
+    "name": "Phosphorus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2751",
+    "name": "Play Button",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2752",
+    "name": "Raido Rune",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2753",
+    "name": "Scared Cat",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2754",
+    "name": "Snoop Dogg",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2755",
+    "name": "Telegram",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2756",
+    "name": "Underwood",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2757",
+    "name": "Utya",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2758",
+    "name": "Volcano",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2759",
+    "name": "Zombie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2760",
+    "name": "Chill Key",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2761",
+    "name": "Coffee",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2762",
+    "name": "Ctrl+Pi",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2763",
+    "name": "Hashtag",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2764",
+    "name": "Parking Lot",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2765",
+    "name": "Swimming Pool",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2766",
+    "name": "V For Vegan",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2767",
+    "name": "Woodland",
+    "rarityPermille": 25
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "model_151",
+    "name": "Gold Bar",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_152",
+    "name": "Gold Block",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_153",
+    "name": "USBrick",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_154",
+    "name": "Cash Roll",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_155",
+    "name": "Cherry Ruby",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_156",
+    "name": "Diamond",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_157",
+    "name": "Duck Bath",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_158",
+    "name": "El Dorado",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_159",
+    "name": "Fifth Element",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_160",
+    "name": "Gemstones",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_161",
+    "name": "Jewelry Box",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_162",
+    "name": "Oriental",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_163",
+    "name": "Pearl",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_164",
+    "name": "Treasure",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_165",
+    "name": "Bomb Planted",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_166",
+    "name": "Brick 3310",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_167",
+    "name": "Cheesecake",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_168",
+    "name": "Emerald",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_169",
+    "name": "Escher's Cube",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_170",
+    "name": "Fashion Bag",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_171",
+    "name": "Fight Club",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_172",
+    "name": "Ghost Trap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_173",
+    "name": "Grand Piano",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_174",
+    "name": "Grass Block",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_175",
+    "name": "Ice Mammoth",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_176",
+    "name": "Infinity Box",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_177",
+    "name": "Luggage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_178",
+    "name": "Nuclear Waste",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_179",
+    "name": "Pyramid",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_180",
+    "name": "Red Caviar",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_181",
+    "name": "Safe Box",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_182",
+    "name": "Scorpion",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_183",
+    "name": "Silver",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_184",
+    "name": "Switch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_185",
+    "name": "TON Ledger",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_186",
+    "name": "Art Nouveau",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_187",
+    "name": "Buzzy Bee",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_188",
+    "name": "Chessboard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_189",
+    "name": "Foosball",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_190",
+    "name": "Game Console",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_191",
+    "name": "Keyboard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_192",
+    "name": "Mimic Chest",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_193",
+    "name": "Molten Core",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_194",
+    "name": "Oranges",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_195",
+    "name": "Poker Chips",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_196",
+    "name": "Pro Gamer",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_197",
+    "name": "Retro Player",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_198",
+    "name": "Sardines",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_199",
+    "name": "Toxic Ooze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_200",
+    "name": "VHS Tape",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_201",
+    "name": "Watermelon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_202",
+    "name": "Big Cubus",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_203",
+    "name": "Chocolate",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_204",
+    "name": "Delicate Wash",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_205",
+    "name": "Firestarter",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_206",
+    "name": "Floppa Plush",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_207",
+    "name": "Harlequin",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_208",
+    "name": "Concrete",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_209",
+    "name": "Domino",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_210",
+    "name": "Sandstone",
+    "rarityPermille": 30
+  }
+]

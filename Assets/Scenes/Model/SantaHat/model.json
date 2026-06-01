@@ -1,0 +1,352 @@
+[
+  {
+    "id": "model_5241",
+    "name": "Jingle Volts",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5242",
+    "name": "Fireball",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5243",
+    "name": "Sweet Cane",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5244",
+    "name": "Let It Go",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5245",
+    "name": "Rave",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5246",
+    "name": "KFC",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5247",
+    "name": "Creamy",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5248",
+    "name": "Yule Hat",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5249",
+    "name": "Magic Love",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5250",
+    "name": "Telecap",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5251",
+    "name": "All-Star",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5252",
+    "name": "Jingle Bells",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5253",
+    "name": "Festive",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5254",
+    "name": "Bubbly",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5255",
+    "name": "Lollipop",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5256",
+    "name": "Royal Gleam",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5257",
+    "name": "Sweet Tooth",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5258",
+    "name": "Rave-1",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5259",
+    "name": "RGBling",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5260",
+    "name": "Zesty",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5261",
+    "name": "Nighttime",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5262",
+    "name": "Inky White",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5263",
+    "name": "Cold Limeade",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5264",
+    "name": "Thin Ice",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5265",
+    "name": "Monosnow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5266",
+    "name": "Panda Puff",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5267",
+    "name": "Night Sky",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5268",
+    "name": "Minty Fresh",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5269",
+    "name": "Night Cap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5270",
+    "name": "Mistletoe",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5271",
+    "name": "Sleepy Claus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5272",
+    "name": "Black Drops",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5273",
+    "name": "Blueberry Mint",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5274",
+    "name": "Pinkie Cap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5275",
+    "name": "Mother Frost",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5276",
+    "name": "Polar Glow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5277",
+    "name": "80s TV",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5278",
+    "name": "Pure Chill",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5279",
+    "name": "Dreamy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5280",
+    "name": "Cold Vapor",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5281",
+    "name": "The Grinch",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5282",
+    "name": "Frosted Sun",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5283",
+    "name": "Icicle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5284",
+    "name": "Candy Coral",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5285",
+    "name": "Cold Slushy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5286",
+    "name": "Warm Sky",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5287",
+    "name": "Below Zero",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5288",
+    "name": "HearthвЂ™s Fire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5289",
+    "name": "Lemon Sorbet",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5290",
+    "name": "Aurora Borealis",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5291",
+    "name": "Ice Cap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5292",
+    "name": "Cherry Ice",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5293",
+    "name": "Sunrise",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5294",
+    "name": "Citrus Flakes",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5295",
+    "name": "Warm Winter",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5296",
+    "name": "Peachy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5297",
+    "name": "Lagoon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5298",
+    "name": "Santa Claus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5299",
+    "name": "Sunset",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5300",
+    "name": "Dandelion",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5301",
+    "name": "Holiday Spirit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5302",
+    "name": "Berry Frosty",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5303",
+    "name": "Warm Light",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5304",
+    "name": "Evergreen",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5305",
+    "name": "Sweet Night",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5306",
+    "name": "Whipped Lime",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5307",
+    "name": "Golden Tide",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5308",
+    "name": "Cheery Vibe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5309",
+    "name": "Cold Autumn",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5310",
+    "name": "Minted Rose",
+    "rarityPermille": 20
+  }
+]

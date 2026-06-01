@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3382",
+    "name": "Bull Run",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3383",
+    "name": "Pepe Bag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3384",
+    "name": "Pure Gold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3385",
+    "name": "Spider-Dog",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3386",
+    "name": "Gem Stash",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3387",
+    "name": "Imp Simp",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3388",
+    "name": "Neko Love",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3389",
+    "name": "Ninja Turtles",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3390",
+    "name": "Professor",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3391",
+    "name": "Rebel Kit",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3392",
+    "name": "Silver",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3393",
+    "name": "Steve's Pet",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3394",
+    "name": "Telegram",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3395",
+    "name": "Frankenstein",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3396",
+    "name": "Furry Dogarin",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3397",
+    "name": "Mia Bunny",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3398",
+    "name": "Ollie Squirrel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3399",
+    "name": "Pacman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3400",
+    "name": "Sad Clown",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3401",
+    "name": "Sailor Moon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3402",
+    "name": "Antarctica",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3403",
+    "name": "Cinema Night",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3404",
+    "name": "Ed Opossum",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3405",
+    "name": "One Piece",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3406",
+    "name": "Tiger Cub",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3407",
+    "name": "Axolotl Sven",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3408",
+    "name": "Bronze",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3409",
+    "name": "Candy Basket",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3410",
+    "name": "Dalmatian",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3411",
+    "name": "Ginger",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3412",
+    "name": "Harry",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3413",
+    "name": "Love Letter",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3414",
+    "name": "Pool Party",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3415",
+    "name": "Quack Pack",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3416",
+    "name": "Shepherd Dog",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3417",
+    "name": "Streamer",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3418",
+    "name": "Teddy Bears",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3419",
+    "name": "The Big Bang",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3420",
+    "name": "Biscuit",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3421",
+    "name": "Charming",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3422",
+    "name": "Honey Bear",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3423",
+    "name": "Ladypug",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3424",
+    "name": "Lovesick",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3425",
+    "name": "Patchwork",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3426",
+    "name": "Plush Panda",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3427",
+    "name": "Prize Cake",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3428",
+    "name": "Rose Pink",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3429",
+    "name": "Safari",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3430",
+    "name": "Strawberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3431",
+    "name": "Watermelon",
+    "rarityPermille": 30
+  }
+]

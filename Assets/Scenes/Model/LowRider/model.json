@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3790",
+    "name": "DeLorean",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3791",
+    "name": "Gigahorse",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3792",
+    "name": "Telegram Bus",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3793",
+    "name": "Blood Ruby",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3794",
+    "name": "First Class",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3795",
+    "name": "Gold Rush",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3796",
+    "name": "Golden Bike",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3797",
+    "name": "High Flyer",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3798",
+    "name": "Lava-Forged",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3799",
+    "name": "Soul Plane",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3800",
+    "name": "Bombay",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3801",
+    "name": "Doggyland Bus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3802",
+    "name": "Dry Eyes",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3803",
+    "name": "Grid Runner",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3804",
+    "name": "Helicopter",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3805",
+    "name": "LA Noir",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3806",
+    "name": "Mothership",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3807",
+    "name": "Road Ape",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3808",
+    "name": "Silent Hill",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3809",
+    "name": "Sticker Gang",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3810",
+    "name": "Toy Car",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3811",
+    "name": "Tricycle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3812",
+    "name": "War Rig",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3813",
+    "name": "Alpine Gold",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3814",
+    "name": "Dark Roast",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3815",
+    "name": "Green DeVille",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3816",
+    "name": "Hippie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3817",
+    "name": "Jade Emperor",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3818",
+    "name": "Blizzard",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3819",
+    "name": "Flamingo",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3820",
+    "name": "Grasshopper",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3821",
+    "name": "Money Rider",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3822",
+    "name": "Neon Phantom",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3823",
+    "name": "Paparazzi",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3824",
+    "name": "Ultramarine",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3825",
+    "name": "Vape Wave",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3826",
+    "name": "Bass Drop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3827",
+    "name": "Blaze",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3828",
+    "name": "Brown Sugar",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3829",
+    "name": "Chevy 1964",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3830",
+    "name": "DeVille 1968",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3831",
+    "name": "Disco Rider",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3832",
+    "name": "Dribble",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3833",
+    "name": "Drop It!",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3834",
+    "name": "Let Me Ride",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3835",
+    "name": "Lovemobile",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3836",
+    "name": "Malibu",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3837",
+    "name": "Neon Nitro",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3838",
+    "name": "Silver Angel",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3839",
+    "name": "Speedboat",
+    "rarityPermille": 30
+  }
+]

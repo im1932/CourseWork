@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4090",
+    "name": "Best Muscles",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4091",
+    "name": "Colossus",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4092",
+    "name": "Icebreaker",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4093",
+    "name": "Champion",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4094",
+    "name": "Crystal Fist",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4095",
+    "name": "Gladiator",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4096",
+    "name": "Infinity",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4097",
+    "name": "Jade Titan",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4098",
+    "name": "Night Bat",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4099",
+    "name": "Overlord",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4100",
+    "name": "Predator",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4101",
+    "name": "Bicep Curls",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4102",
+    "name": "Cratos",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4103",
+    "name": "Dragonborn",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4104",
+    "name": "Gem Brawler",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4105",
+    "name": "Genie",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4106",
+    "name": "Gymhotep",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4107",
+    "name": "Magma Man",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4108",
+    "name": "Silver Knight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4109",
+    "name": "We Can Do It!",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4110",
+    "name": "Bone Warrior",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4111",
+    "name": "Ex Machina",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4112",
+    "name": "Frostbite",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4113",
+    "name": "Gold Dragon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4114",
+    "name": "Liberator",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4115",
+    "name": "Paladin",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4116",
+    "name": "Petrified",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4117",
+    "name": "Valhalla",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4118",
+    "name": "Body Builder",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4119",
+    "name": "Heavy Metal",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4120",
+    "name": "Heisenberg",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4121",
+    "name": "Hercules",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4122",
+    "name": "Homer",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4123",
+    "name": "Paramedic",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4124",
+    "name": "Pizza Pump",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4125",
+    "name": "Salted Flex",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4126",
+    "name": "Werewolf",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4127",
+    "name": "Xeno Grip",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4128",
+    "name": "Cat Power",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4129",
+    "name": "Crab Crusher",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4130",
+    "name": "Fatality",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4131",
+    "name": "Frankenstein",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4132",
+    "name": "Iron Hook",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4133",
+    "name": "Knockout",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4134",
+    "name": "Poor Yorick",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4135",
+    "name": "Popeye",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4136",
+    "name": "Robocop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4137",
+    "name": "Snake Charmer",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4138",
+    "name": "Squeaker",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4139",
+    "name": "T800",
+    "rarityPermille": 30
+  }
+]

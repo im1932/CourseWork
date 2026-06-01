@@ -1,0 +1,257 @@
+[
+  {
+    "id": "model_4990",
+    "name": "Fiscal Hawk",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4991",
+    "name": "Frozen Gold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4992",
+    "name": "Royal Pavo",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4993",
+    "name": "Thunderbird",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4994",
+    "name": "Zombie Rider",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4995",
+    "name": "Dark Knight",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4996",
+    "name": "Dark Prince",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4997",
+    "name": "Hot Chick",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4998",
+    "name": "Lucifer",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4999",
+    "name": "Rose Fairy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5000",
+    "name": "Ruby Dodo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5001",
+    "name": "Wave Glider",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5002",
+    "name": "Apex Drone",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5003",
+    "name": "Aurora Moth",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5004",
+    "name": "Black Hawk",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5005",
+    "name": "Dragon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5006",
+    "name": "Fire Rooster",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5007",
+    "name": "Gargoyle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5008",
+    "name": "Gilded Heron",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5009",
+    "name": "Golden Falcon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5010",
+    "name": "Manticore",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5011",
+    "name": "Shadow Raven",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5012",
+    "name": "Sphinx",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5013",
+    "name": "Treasure",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5014",
+    "name": "Winged Victory",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5015",
+    "name": "Bat King",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5016",
+    "name": "Battlewing",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5017",
+    "name": "Crystal Swift",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5018",
+    "name": "Diamond Owl",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5019",
+    "name": "Hippogriff",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5020",
+    "name": "Icarus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5021",
+    "name": "Necromancer",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5022",
+    "name": "Prehistoric",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5023",
+    "name": "Chickadee",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5024",
+    "name": "Garnet Koel",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5025",
+    "name": "Kakapo",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5026",
+    "name": "Pegasus",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5027",
+    "name": "Silver Spike",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5028",
+    "name": "Silver Wings",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5029",
+    "name": "The Emperor",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5030",
+    "name": "Copper Quack",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5031",
+    "name": "Pigeon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5032",
+    "name": "Red Vulture",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5033",
+    "name": "Amber Toucan",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5034",
+    "name": "Azure Spark",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5035",
+    "name": "Crystal Swan",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5036",
+    "name": "Jade Jay",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5037",
+    "name": "Noble Puffin",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5038",
+    "name": "Pelican",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5039",
+    "name": "Phoenix",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5040",
+    "name": "Paradise",
+    "rarityPermille": 40
+  }
+]

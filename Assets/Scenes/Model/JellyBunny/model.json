@@ -1,0 +1,497 @@
+[
+  {
+    "id": "model_2982",
+    "name": "Sticky Red",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2983",
+    "name": "Noble",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2984",
+    "name": "Tropic Twist",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2985",
+    "name": "Blue Swirl",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2986",
+    "name": "Green Melt",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2987",
+    "name": "Indigo Fruit",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2988",
+    "name": "Lime Gelight",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2989",
+    "name": "Gentle Touch",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2990",
+    "name": "Tender Pink",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2991",
+    "name": "Barbie",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2992",
+    "name": "Melted Ice",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2993",
+    "name": "Pomegranate",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2994",
+    "name": "Frosted",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2995",
+    "name": "Grass Gel",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2996",
+    "name": "Smoothy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2997",
+    "name": "Violet Joy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2998",
+    "name": "Soft Flavor",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2999",
+    "name": "Blue Glaze",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3000",
+    "name": "Skyberry",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3001",
+    "name": "Burnt Cream",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3002",
+    "name": "Violetta",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3003",
+    "name": "Mint Fudge",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3004",
+    "name": "Kiwi Kuddle",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3005",
+    "name": "Auburn",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3006",
+    "name": "Ballet Slipper",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3007",
+    "name": "Seaweed",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3008",
+    "name": "Grape Glaze",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3009",
+    "name": "Juicy Blue",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3010",
+    "name": "Avocado Awe",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3011",
+    "name": "Light Creme",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3012",
+    "name": "Red Sponge",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3013",
+    "name": "Juicy Mint",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3014",
+    "name": "Winter",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3015",
+    "name": "Chilly",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3016",
+    "name": "Spring Day",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3017",
+    "name": "Pudding",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3018",
+    "name": "Guava Gel",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3019",
+    "name": "Squishy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3020",
+    "name": "Deep Dive",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3021",
+    "name": "Violet Swirl",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3022",
+    "name": "Artificial",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3023",
+    "name": "Pinkie Pie",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3024",
+    "name": "Vanilla",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3025",
+    "name": "Firefruit",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3026",
+    "name": "Orchid",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3027",
+    "name": "Magic Mint",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3028",
+    "name": "Light Wobble",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3029",
+    "name": "Matcha Magic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3030",
+    "name": "Violet Wobble",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3031",
+    "name": "Outline",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3032",
+    "name": "Cycloppy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3033",
+    "name": "Thug Life",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3034",
+    "name": "Vampire",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3035",
+    "name": "Quicksilver",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3036",
+    "name": "Sugar Kill",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3037",
+    "name": "Fruity",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3038",
+    "name": "Radioactive",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3039",
+    "name": "Jellien",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3040",
+    "name": "Snowman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3041",
+    "name": "Liquid Metal",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3042",
+    "name": "Party Hard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3043",
+    "name": "Snail Gel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3044",
+    "name": "Dad Joke",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3045",
+    "name": "Sir Wobbleton",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3046",
+    "name": "Jingle Jells",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3047",
+    "name": "Dr. Jelly",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3048",
+    "name": "Reindeer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3049",
+    "name": "Jellyfish",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3050",
+    "name": "Mutated",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3051",
+    "name": "Tortoise",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3052",
+    "name": "Meat Jelly",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3053",
+    "name": "Ninjell",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3054",
+    "name": "Pale Squish",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3055",
+    "name": "Diver",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3056",
+    "name": "Ghost",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3057",
+    "name": "Majestic",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3058",
+    "name": "Jelly Tune",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3059",
+    "name": "Zombie",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3060",
+    "name": "Kawaii",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3061",
+    "name": "Mushroom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3062",
+    "name": "Spreadable",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3063",
+    "name": "Space Gel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3064",
+    "name": "Corporate",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3065",
+    "name": "Gelatin Girl",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3066",
+    "name": "First Bite",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3067",
+    "name": "Jaxy-Boy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3068",
+    "name": "Stiches",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3069",
+    "name": "Sad Clown",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3070",
+    "name": "Jevil",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3071",
+    "name": "Pirate",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3072",
+    "name": "Commando",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3073",
+    "name": "Mummy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3074",
+    "name": "Engineer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3075",
+    "name": "Electric",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3076",
+    "name": "Ballistics Gel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3077",
+    "name": "Red Hot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3078",
+    "name": "Spooky",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3079",
+    "name": "Chili Pepper",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3080",
+    "name": "Smelly",
+    "rarityPermille": 20
+  }
+]

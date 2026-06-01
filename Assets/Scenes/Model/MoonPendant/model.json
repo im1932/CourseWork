@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4340",
+    "name": "Jade Vines",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4341",
+    "name": "Obsidian",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4342",
+    "name": "Princess",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4343",
+    "name": "Silver Tree",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4344",
+    "name": "Starry Night",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4345",
+    "name": "Azurite",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4346",
+    "name": "Harmony",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4347",
+    "name": "Rosethorn",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4348",
+    "name": "Eternal Rose",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4349",
+    "name": "Frosted Green",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4350",
+    "name": "Moon Tears",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4351",
+    "name": "Rosewood",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4352",
+    "name": "Serenity",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4353",
+    "name": "Shiny Sparks",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4354",
+    "name": "Silver Lace",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4355",
+    "name": "Sovereign",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4356",
+    "name": "Starlit Silver",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4357",
+    "name": "Twilight Wish",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4358",
+    "name": "Calm Sunset",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4359",
+    "name": "Carved Gold",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4360",
+    "name": "Dawn Mirror",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4361",
+    "name": "Eclipse",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4362",
+    "name": "Golden Palace",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4363",
+    "name": "Lunar Orbit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4364",
+    "name": "Mirage",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4365",
+    "name": "Pearl Rose",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4366",
+    "name": "Precious Pearl",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4367",
+    "name": "Royal Purple",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4368",
+    "name": "Sand Dune",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4369",
+    "name": "Sea Jewel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4370",
+    "name": "Stained Glass",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4371",
+    "name": "Circle Glare",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4372",
+    "name": "Diamond Tear",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4373",
+    "name": "Glass Rainbow",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4374",
+    "name": "Gratitude",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4375",
+    "name": "Little Star",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4376",
+    "name": "Sapphires",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4377",
+    "name": "Silver Blue",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4378",
+    "name": "Amethyst",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4379",
+    "name": "Copper Alloy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4380",
+    "name": "Desert Night",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4381",
+    "name": "Emerald",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4382",
+    "name": "Frozen Light",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4383",
+    "name": "Golden Moon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4384",
+    "name": "Liquid Gold",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4385",
+    "name": "Ruby Core",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4386",
+    "name": "Silver Moon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4387",
+    "name": "Stellar Grace",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4388",
+    "name": "Sunset Rose",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4389",
+    "name": "Titanium",
+    "rarityPermille": 30
+  }
+]

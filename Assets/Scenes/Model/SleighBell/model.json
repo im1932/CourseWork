@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_5561",
+    "name": "Darth Vader",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5562",
+    "name": "Disco Blast",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5563",
+    "name": "Stellar Map",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5564",
+    "name": "Stuart",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5565",
+    "name": "Last Player",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5566",
+    "name": "Confetti",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5567",
+    "name": "Dead Space",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5568",
+    "name": "Dark Orb",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5569",
+    "name": "Ghost Fog",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5570",
+    "name": "Tinker Bell",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5571",
+    "name": "Blizzard",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5572",
+    "name": "Beehive",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5573",
+    "name": "Soap Bubble",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5574",
+    "name": "Line Art",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5575",
+    "name": "PokГ© Bell",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5576",
+    "name": "Dracula",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5577",
+    "name": "Fireball",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5578",
+    "name": "Piranha Plant",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5579",
+    "name": "Cowbell",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5580",
+    "name": "Cherry",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5581",
+    "name": "Golden Dusk",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5582",
+    "name": "Mortabella",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5583",
+    "name": "Moon Ride",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5584",
+    "name": "Holy Grenade",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5585",
+    "name": "Night Club",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5586",
+    "name": "Arctic Igloo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5587",
+    "name": "Obsidian Oak",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5588",
+    "name": "Golden Zebra",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5589",
+    "name": "Spetsnaz",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5590",
+    "name": "Police Siren",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5591",
+    "name": "Iron Mint",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5592",
+    "name": "Candy Cane",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5593",
+    "name": "Black Silver",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5594",
+    "name": "Faint Pearl",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5595",
+    "name": "Satin Brass",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5596",
+    "name": "Pistachio",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5597",
+    "name": "Rose Gold",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5598",
+    "name": "Joker",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5599",
+    "name": "Deutschland",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5600",
+    "name": "Raspberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5601",
+    "name": "Copper Rose",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5602",
+    "name": "Sparkles",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5603",
+    "name": "Candy Cloud",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5604",
+    "name": "Deep Echo",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5605",
+    "name": "Bronze",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5606",
+    "name": "Purple Gold",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5607",
+    "name": "Argentum",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5608",
+    "name": "Truffle",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5609",
+    "name": "Green Light",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5610",
+    "name": "Fairycore",
+    "rarityPermille": 50
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "model_6886",
+    "name": "Spectral Smoke",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6887",
+    "name": "The Shocker",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6888",
+    "name": "Saturn V",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6889",
+    "name": "Short Fuse",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6890",
+    "name": "El Classico",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6891",
+    "name": "Ice Cold",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6892",
+    "name": "Super Swirls",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6893",
+    "name": "Far Out",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_6894",
+    "name": "Psychonaut",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6895",
+    "name": "Oil Baron",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6896",
+    "name": "Pink Plume",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6897",
+    "name": "Jazz Cigarette",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6898",
+    "name": "The Gentleman",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6899",
+    "name": "Silver Fox",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6900",
+    "name": "Rainbow Road",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6901",
+    "name": "Centurion",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6902",
+    "name": "Ashtray",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6903",
+    "name": "Dark Clouds",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6904",
+    "name": "Thermal",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6905",
+    "name": "Gray Matter",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6906",
+    "name": "High Tide",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6907",
+    "name": "Pink Panther",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6908",
+    "name": "Black Plume",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6909",
+    "name": "Pearl Puff",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6910",
+    "name": "Green Goblin",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6911",
+    "name": "Mellow Yellow",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6912",
+    "name": "Green Gas",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6913",
+    "name": "Cobalt",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6914",
+    "name": "Seeing Red",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6915",
+    "name": "Sunset Orange",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6916",
+    "name": "Warm Glow",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6917",
+    "name": "Silver Bullet",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6918",
+    "name": "Foundry",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6919",
+    "name": "Pickle Rick",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6920",
+    "name": "Purple Haze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6921",
+    "name": "Long Draw",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6922",
+    "name": "Golden Hour",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6923",
+    "name": "Secret Santa",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6924",
+    "name": "Cool Blue",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6925",
+    "name": "Blue Hue",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6926",
+    "name": "Desert Night",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6927",
+    "name": "Saturation",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6928",
+    "name": "Blue Ghoul",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6929",
+    "name": "Aquaviolet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6930",
+    "name": "Pink Ghost",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6931",
+    "name": "Mirror Finish",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6932",
+    "name": "Rudolph",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6933",
+    "name": "Stained Glass",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6934",
+    "name": "Purple Patron",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6935",
+    "name": "Rose Wrapper",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6936",
+    "name": "Vaporwave",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6937",
+    "name": "Subtle Purple",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6938",
+    "name": "Pink Tint",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6939",
+    "name": "Premium Blend",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_6940",
+    "name": "Red Devil",
+    "rarityPermille": 40
+  }
+]

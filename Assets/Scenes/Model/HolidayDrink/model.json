@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_2408",
+    "name": "Gold Dust",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2409",
+    "name": "Cyber Mix",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_2410",
+    "name": "Brain Gum",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2411",
+    "name": "Depresso",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2412",
+    "name": "Honolulu",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2413",
+    "name": "Ogre Latte",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2414",
+    "name": "Pumpkin Juice",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2415",
+    "name": "Mermaid",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2416",
+    "name": "Darkside",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2417",
+    "name": "Fish Basket",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2418",
+    "name": "Lizard Blood",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2419",
+    "name": "Milky Way",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2420",
+    "name": "Emo Drip",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2421",
+    "name": "Leprechaun",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2422",
+    "name": "Checkmate",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2423",
+    "name": "Toxic Waste",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2424",
+    "name": "Area 51",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2425",
+    "name": "Blue Taser",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2426",
+    "name": "Bowser Brew",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2427",
+    "name": "Mr. Freeze",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2428",
+    "name": "Crystal Shot",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2429",
+    "name": "Cubism",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2430",
+    "name": "Fire Chariot",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2431",
+    "name": "Flaming B-52",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2432",
+    "name": "Love Potion",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2433",
+    "name": "Lucid Roast",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2434",
+    "name": "Candyman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2435",
+    "name": "Stickers",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2436",
+    "name": "Berry Pixel",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2437",
+    "name": "Peach Latte",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2438",
+    "name": "Low Poly",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_2439",
+    "name": "Kiwi Box",
+    "rarityPermille": 19
+  },
+  {
+    "id": "model_2440",
+    "name": "Orange Ghost",
+    "rarityPermille": 24
+  },
+  {
+    "id": "model_2441",
+    "name": "Hot Fuchsia",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_2442",
+    "name": "Cotton Candy",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_2443",
+    "name": "Honeyfire",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2444",
+    "name": "Ginger Joker",
+    "rarityPermille": 31
+  },
+  {
+    "id": "model_2445",
+    "name": "Matcha",
+    "rarityPermille": 32
+  },
+  {
+    "id": "model_2446",
+    "name": "Hibiscus Tea",
+    "rarityPermille": 33
+  },
+  {
+    "id": "model_2447",
+    "name": "Lavender Tea",
+    "rarityPermille": 34
+  },
+  {
+    "id": "model_2448",
+    "name": "Moonberry",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_2449",
+    "name": "Marigold",
+    "rarityPermille": 36
+  },
+  {
+    "id": "model_2450",
+    "name": "Citrus",
+    "rarityPermille": 37
+  },
+  {
+    "id": "model_2451",
+    "name": "Bubblegum",
+    "rarityPermille": 39
+  },
+  {
+    "id": "model_2452",
+    "name": "Choco Mint",
+    "rarityPermille": 45
+  },
+  {
+    "id": "model_2453",
+    "name": "Black Russian",
+    "rarityPermille": 47
+  },
+  {
+    "id": "model_2454",
+    "name": "Rose Velvet",
+    "rarityPermille": 48
+  },
+  {
+    "id": "model_2455",
+    "name": "Banana Split",
+    "rarityPermille": 49
+  },
+  {
+    "id": "model_2456",
+    "name": "Mango Blast",
+    "rarityPermille": 49
+  },
+  {
+    "id": "model_2457",
+    "name": "Apple Mousse",
+    "rarityPermille": 50
+  }
+]

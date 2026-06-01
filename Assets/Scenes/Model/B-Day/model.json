@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_261",
+    "name": "On Fire",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_262",
+    "name": "Shocker",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_263",
+    "name": "Final Boss",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_264",
+    "name": "Kaboom!",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_265",
+    "name": "Pixel Wish",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_266",
+    "name": "Cherrific",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_267",
+    "name": "Small Gifts",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_268",
+    "name": "Payday",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_269",
+    "name": "Winter Fun",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_270",
+    "name": "Melted Butter",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_271",
+    "name": "Crunchy",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_272",
+    "name": "Duck Attack",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_273",
+    "name": "Bubbly",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_274",
+    "name": "Eggcellent",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_275",
+    "name": "Happy Meows",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_276",
+    "name": "Purr Magic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_277",
+    "name": "Mouse Brunch",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_278",
+    "name": "Valentine",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_279",
+    "name": "You Rock!",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_280",
+    "name": "Party Hard",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_281",
+    "name": "Stay Cool",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_282",
+    "name": "Neon Lights",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_283",
+    "name": "Neon Sign",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_284",
+    "name": "Crazy Frog",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_285",
+    "name": "Backyard",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_286",
+    "name": "Broadway",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_287",
+    "name": "Glitch",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_288",
+    "name": "Firecracker",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_289",
+    "name": "Red Ribbon",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_290",
+    "name": "Forecast",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_291",
+    "name": "Superstar",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_292",
+    "name": "Wait a Minute",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_293",
+    "name": "Anniversary",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_294",
+    "name": "Sparkler",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_295",
+    "name": "Festive Day",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_296",
+    "name": "Donut Cream",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_297",
+    "name": "Jelly Bubble",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_298",
+    "name": "Jelly Desert",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_299",
+    "name": "Silver Year",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_300",
+    "name": "Golden Age",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_301",
+    "name": "Black Ink",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_302",
+    "name": "Poltergeist",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_303",
+    "name": "Old Cartoon",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_304",
+    "name": "Rainbow",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_305",
+    "name": "Shine On",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_306",
+    "name": "Steel Strong",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_307",
+    "name": "Pop Tart",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_308",
+    "name": "Bronze Age",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_309",
+    "name": "Choco Wax",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_310",
+    "name": "Pop Art",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_311",
+    "name": "Blue Caramel",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_312",
+    "name": "Magic Powers",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_313",
+    "name": "Dream Big",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_314",
+    "name": "Starry Night",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_315",
+    "name": "Jage Crystal",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_316",
+    "name": "Juicy Ginger",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_317",
+    "name": "Rose Mint",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_318",
+    "name": "Princess",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_319",
+    "name": "Wicked",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_320",
+    "name": "Fresh Mint",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_321",
+    "name": "Citrus Candy",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_322",
+    "name": "Glittery Day",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_323",
+    "name": "Warm Wick",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_324",
+    "name": "Peachy",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_325",
+    "name": "Pastel Spark",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_326",
+    "name": "Icy Pink",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_327",
+    "name": "Multicolor",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_328",
+    "name": "Pear Cocktail",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_329",
+    "name": "Pinky Dream",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_330",
+    "name": "Lolipop",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_331",
+    "name": "Tender Flame",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_332",
+    "name": "Midnight",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_333",
+    "name": "Tropicana",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_334",
+    "name": "Happy Flame",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_335",
+    "name": "Orange Mood",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_336",
+    "name": "Twilight Beam",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_337",
+    "name": "Forever Young",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_338",
+    "name": "Confetti",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_339",
+    "name": "Icicle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_340",
+    "name": "Candy Message",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_341",
+    "name": "Golden Hour",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_342",
+    "name": "Festive",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_343",
+    "name": "Be Awesome!",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_344",
+    "name": "Sweet Glaze",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_345",
+    "name": "Moon Wish",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_346",
+    "name": "Ice Crackle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_347",
+    "name": "Cheers",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_348",
+    "name": "Wax Glow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_349",
+    "name": "Tropic Dream",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_350",
+    "name": "Wee Hours",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_351",
+    "name": "Cotton Candy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_352",
+    "name": "Eternal Glow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_353",
+    "name": "Spring Meadow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_354",
+    "name": "Stardust",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_355",
+    "name": "Shine Bright",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_356",
+    "name": "Sugar Party",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_357",
+    "name": "Bright Side",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_358",
+    "name": "Summer Walk",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_359",
+    "name": "Best Wishes",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_360",
+    "name": "Winter Noon",
+    "rarityPermille": 15
+  }
+]

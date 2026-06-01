@@ -1,0 +1,352 @@
+[
+  {
+    "id": "model_3720",
+    "name": "Angel Wings",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3721",
+    "name": "Astral Guide",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3722",
+    "name": "Banana",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3723",
+    "name": "Beholder",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3724",
+    "name": "Bloodlust",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3725",
+    "name": "Dragon Soul",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3726",
+    "name": "Durov Duck",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3727",
+    "name": "Emo Tears",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3728",
+    "name": "Energy Drink",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3729",
+    "name": "Espresso",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3730",
+    "name": "Eye-lixir",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3731",
+    "name": "First Kiss",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3732",
+    "name": "Healing Potion",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3733",
+    "name": "Ice Queen",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3734",
+    "name": "Jinx Tonic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3735",
+    "name": "Lucky Charm",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3736",
+    "name": "Molten Gold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3737",
+    "name": "No Signal",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3738",
+    "name": "Nurgle's Rot",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3739",
+    "name": "Pickle Rick",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3740",
+    "name": "Star Power",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3741",
+    "name": "Unicorn Tears",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3742",
+    "name": "Whole Milk",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3743",
+    "name": "Beauty Brew",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3744",
+    "name": "Bubble Gum",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3745",
+    "name": "Clubs",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3746",
+    "name": "Diamonds",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3747",
+    "name": "Gothic Cola",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3748",
+    "name": "Hearts",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3749",
+    "name": "Kiwi Juice",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3750",
+    "name": "Spades",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3751",
+    "name": "Tropicano",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3752",
+    "name": "Bubble Bath",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3753",
+    "name": "Crime Scene",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3754",
+    "name": "Fine Mead",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3755",
+    "name": "First Aid",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3756",
+    "name": "Flat Pink",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3757",
+    "name": "Fragrant Oil",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3758",
+    "name": "Golden Mire",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3759",
+    "name": "Laxative",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3760",
+    "name": "Paint Bottle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3761",
+    "name": "Peach Nectar",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3762",
+    "name": "Ruby Essence",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3763",
+    "name": "Surreal",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3764",
+    "name": "White Ink",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3765",
+    "name": "Cherry Wine",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3766",
+    "name": "Milkshake",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3767",
+    "name": "Mouthwash",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3768",
+    "name": "Poison Flask",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3769",
+    "name": "Romeo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3770",
+    "name": "Aerogel",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3771",
+    "name": "Berry Bomb",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3772",
+    "name": "Copper Sulfate",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3773",
+    "name": "Fairy Pollen",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3774",
+    "name": "Formic Acid",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3775",
+    "name": "Gold Rush",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3776",
+    "name": "Juliet",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3777",
+    "name": "Liquid Pearl",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3778",
+    "name": "Mystic Dew",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3779",
+    "name": "Ocean Glow",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3780",
+    "name": "Old Rum",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3781",
+    "name": "Royal Spritz",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3782",
+    "name": "Rusty Water",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3783",
+    "name": "Sea Salt",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3784",
+    "name": "Seeker's Wish",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3785",
+    "name": "Sour Cider",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3786",
+    "name": "Starry Night",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3787",
+    "name": "Sugar Ponies",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3788",
+    "name": "Sunset Serum",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3789",
+    "name": "Toxic Waste",
+    "rarityPermille": 25
+  }
+]

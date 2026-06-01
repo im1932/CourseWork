@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_2068",
+    "name": "Shamrock",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2069",
+    "name": "Sparkles",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2070",
+    "name": "Snowflake",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2071",
+    "name": "Lucifer",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_2072",
+    "name": "Bombastic",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_2073",
+    "name": "You Tried...",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2074",
+    "name": "Insane",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2075",
+    "name": "This Is Fine",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2076",
+    "name": "Skeleton",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2077",
+    "name": "Short Circuit",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_2078",
+    "name": "Spotlight",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2079",
+    "name": "Honolulu",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2080",
+    "name": "Chromie",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2081",
+    "name": "Champion",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2082",
+    "name": "Iridium",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2083",
+    "name": "Gold Star",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2084",
+    "name": "Aurora",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_2085",
+    "name": "Sheriff",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2086",
+    "name": "Magma",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2087",
+    "name": "Europe",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2088",
+    "name": "Commando",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2089",
+    "name": "Zero Gravity",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2090",
+    "name": "Patrick",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2091",
+    "name": "Advice Dog",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2092",
+    "name": "United States",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2093",
+    "name": "Comrade",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2094",
+    "name": "Flame Boy",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2095",
+    "name": "Catalan",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2096",
+    "name": "Circus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2097",
+    "name": "Christmas",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2098",
+    "name": "Forza Juve",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2099",
+    "name": "Astro Bot",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2100",
+    "name": "Super Star",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2101",
+    "name": "Explicit",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2102",
+    "name": "Minion",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2103",
+    "name": "Rock Star",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2104",
+    "name": "Black Hole",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2105",
+    "name": "Gingerbread",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2106",
+    "name": "Rainbow",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2107",
+    "name": "Venice",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2108",
+    "name": "Petit Louis",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2109",
+    "name": "Sweden",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2110",
+    "name": "Seeing Stars",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2111",
+    "name": "Cucumber",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2112",
+    "name": "Lilac Split",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2113",
+    "name": "Play Button",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2114",
+    "name": "Premium",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2115",
+    "name": "Pretty Angel",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2116",
+    "name": "Telegram",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2117",
+    "name": "Snowman",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2118",
+    "name": "Connecting",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2119",
+    "name": "Hollywood",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2120",
+    "name": "Switch",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2121",
+    "name": "Sour Cherry",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2122",
+    "name": "Surf Sand",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2123",
+    "name": "Playlist",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2124",
+    "name": "Beach Ball",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2125",
+    "name": "Gray Sage",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2126",
+    "name": "Tarnished",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2127",
+    "name": "Like Button",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2128",
+    "name": "Rainbows",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2129",
+    "name": "Azure Lagoon",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2130",
+    "name": "Eclipse",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2131",
+    "name": "Hot Spring",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2132",
+    "name": "Fusion",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2133",
+    "name": "Cosmic Blue",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2134",
+    "name": "Verified",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2135",
+    "name": "Poached Egg",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2136",
+    "name": "Crystalline",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2137",
+    "name": "Samurai",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2138",
+    "name": "Pajamas",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2139",
+    "name": "Starline",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2140",
+    "name": "Pink Wink",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2141",
+    "name": "Harlequin",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2142",
+    "name": "Red Dwarf",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2143",
+    "name": "Polka Dot",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2144",
+    "name": "Scarlet Joy",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2145",
+    "name": "Bright Geode",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2146",
+    "name": "Ultraviolet",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2147",
+    "name": "Flicker",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2148",
+    "name": "Solar Flair",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2149",
+    "name": "Pinkman",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2150",
+    "name": "Color Point",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2151",
+    "name": "Thread",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2152",
+    "name": "Sea Glass",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2153",
+    "name": "Peacock",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2154",
+    "name": "Red Costume",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2155",
+    "name": "Greench",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2156",
+    "name": "Spotty",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2157",
+    "name": "Purple Pants",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2158",
+    "name": "Purple Suit",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2159",
+    "name": "РЎarambola",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2160",
+    "name": "Glacier",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2161",
+    "name": "Honeydew",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2162",
+    "name": "Milkshake",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2163",
+    "name": "Eggshell",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2164",
+    "name": "Tropicana",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2165",
+    "name": "Limonello",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2166",
+    "name": "Bubble Gum",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2167",
+    "name": "Passionfruit",
+    "rarityPermille": 15
+  }
+]

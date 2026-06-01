@@ -1,0 +1,262 @@
+[
+  {
+    "id": "model_586",
+    "name": "Death Note",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_587",
+    "name": "The Ledger",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_588",
+    "name": "Token Vault",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_589",
+    "name": "Evidence",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_590",
+    "name": "Journal 1",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_591",
+    "name": "Kamasutra",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_592",
+    "name": "Rebel Dog",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_593",
+    "name": "Tom's Diary",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_594",
+    "name": "Dragon Age",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_595",
+    "name": "Fahrenheit 451",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_596",
+    "name": "Fairy Tales",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_597",
+    "name": "Froges",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_598",
+    "name": "Lovecraft",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_599",
+    "name": "Monster Book",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_600",
+    "name": "Astrology",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_601",
+    "name": "Billy Milligan",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_602",
+    "name": "E-Reader",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_603",
+    "name": "Hitchhiker",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_604",
+    "name": "Liberty Scroll",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_605",
+    "name": "Metro",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_606",
+    "name": "Wisdom Scroll",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_607",
+    "name": "Big Brother",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_608",
+    "name": "Burn Book",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_609",
+    "name": "Crazy Book",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_610",
+    "name": "Crystal Tome",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_611",
+    "name": "Lord of Flies",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_612",
+    "name": "Mystique",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_613",
+    "name": "Rocket Sceince",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_614",
+    "name": "Secret Chapter",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_615",
+    "name": "Songbook",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_616",
+    "name": "Tiny Kingdom",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_617",
+    "name": "Ulysses",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_618",
+    "name": "Unfinished",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_619",
+    "name": "Anatomy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_620",
+    "name": "Animator",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_621",
+    "name": "Divine Comedy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_622",
+    "name": "Love Story",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_623",
+    "name": "Pirate Tales",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_624",
+    "name": "Secret Files",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_625",
+    "name": "Unipedia",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_626",
+    "name": "Voodoo",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_627",
+    "name": "Chemistry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_628",
+    "name": "Clay Tablets",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_629",
+    "name": "Ice Nine",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_630",
+    "name": "Shakespeare",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_631",
+    "name": "Academic",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_632",
+    "name": "Alphabet",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_633",
+    "name": "Animal Friends",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_634",
+    "name": "Cookbook",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_635",
+    "name": "Geometry",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_636",
+    "name": "Herbarium",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_637",
+    "name": "Paleontology",
+    "rarityPermille": 35
+  }
+]

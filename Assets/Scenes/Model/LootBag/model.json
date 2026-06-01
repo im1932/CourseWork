@@ -1,0 +1,402 @@
+[
+  {
+    "id": "model_3590",
+    "name": "Ardente",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3591",
+    "name": "Black Purrse",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3592",
+    "name": "Bouquet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3593",
+    "name": "Circus",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3594",
+    "name": "City Life",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3595",
+    "name": "Conductor",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3596",
+    "name": "Crypto Byte",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3597",
+    "name": "Crypto Punk",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3598",
+    "name": "Fluorescent",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3599",
+    "name": "Glacier",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3600",
+    "name": "Instabag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3601",
+    "name": "Liberty",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3602",
+    "name": "Lust Beat",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3603",
+    "name": "Miranda",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3604",
+    "name": "Money Bag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3605",
+    "name": "Nightmare",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3606",
+    "name": "Panthera",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3607",
+    "name": "Pendragon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3608",
+    "name": "Pepe Bag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3609",
+    "name": "Poison Dart",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3610",
+    "name": "Priestly",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3611",
+    "name": "Riot Pack",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3612",
+    "name": "Scrooge",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3613",
+    "name": "Secret Toys",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3614",
+    "name": "Travel Bag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3615",
+    "name": "Woof Pack",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3616",
+    "name": "Boulevard",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3617",
+    "name": "Contour",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3618",
+    "name": "Dark Arches",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3619",
+    "name": "Faubourg",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3620",
+    "name": "Highway",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3621",
+    "name": "Metro Trench",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3622",
+    "name": "Night City",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3623",
+    "name": "Pink Pulsar",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3624",
+    "name": "Road Trip",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3625",
+    "name": "Aero Swift",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3626",
+    "name": "Anemone",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3627",
+    "name": "Aqua Atoll",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3628",
+    "name": "Biscuit",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3629",
+    "name": "Cherry Croc",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3630",
+    "name": "Courchevel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3631",
+    "name": "Grizzly",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3632",
+    "name": "Jade Serpent",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3633",
+    "name": "Jaune Poussin",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3634",
+    "name": "Menthol",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3635",
+    "name": "Orange Croc",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3636",
+    "name": "Reptile Noir",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3637",
+    "name": "Rose Tyrien",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3638",
+    "name": "Rouge Royale",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3639",
+    "name": "Satin Beige",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3640",
+    "name": "Silver Gator",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3641",
+    "name": "Soft Suede",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3642",
+    "name": "Steel Agate",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3643",
+    "name": "Sunrise Bands",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3644",
+    "name": "Sunset Stripes",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3645",
+    "name": "Tropical",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3646",
+    "name": "Verso Blue",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3647",
+    "name": "Vert d'Eau",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3648",
+    "name": "White Pony",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3649",
+    "name": "Academic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3650",
+    "name": "Argylle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3651",
+    "name": "Black Ascot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3652",
+    "name": "Bleu Officier",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3653",
+    "name": "Burgun Bag",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3654",
+    "name": "Cargo Citron",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3655",
+    "name": "Cherry Red",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3656",
+    "name": "Chrome Clutch",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3657",
+    "name": "Cortado",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3658",
+    "name": "Jaune Citrone",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3659",
+    "name": "Matte Mint",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3660",
+    "name": "Ombre",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3661",
+    "name": "Potamus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3662",
+    "name": "Racing Stripes",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3663",
+    "name": "Riviera",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3664",
+    "name": "Sakura",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3665",
+    "name": "Studded Green",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3666",
+    "name": "Tangerine",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3667",
+    "name": "Tressage",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3668",
+    "name": "Vertigo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3669",
+    "name": "Zip Pocket",
+    "rarityPermille": 20
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6786",
+    "name": "Dark Lord",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6787",
+    "name": "Gold Leaf",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6788",
+    "name": "Red Dragon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6789",
+    "name": "Tralashark",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6790",
+    "name": "Frappuccino",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6791",
+    "name": "Punk Rock",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6792",
+    "name": "Royal",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6793",
+    "name": "Bumblebee",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6794",
+    "name": "Crystal",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6795",
+    "name": "Love Glazed",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6796",
+    "name": "Mega Scoop",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6797",
+    "name": "Raspberry",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6798",
+    "name": "Rock Solid",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6799",
+    "name": "Sub-Zero",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6800",
+    "name": "Sundae Drive",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6801",
+    "name": "Viceroy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6802",
+    "name": "Bite Me",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6803",
+    "name": "Cavendish",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6804",
+    "name": "Champion Cup",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6805",
+    "name": "Chilly Bones",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6806",
+    "name": "Choco Cone",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6807",
+    "name": "Gelato Rose",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6808",
+    "name": "Gummy Bear",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6809",
+    "name": "Porcelain",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6810",
+    "name": "Queen's Gambit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6811",
+    "name": "Scoopzilla",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6812",
+    "name": "Star Buddy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6813",
+    "name": "Stay Chill",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6814",
+    "name": "Taiyaki",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6815",
+    "name": "Ube Cream",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6816",
+    "name": "Vanilla",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6817",
+    "name": "Vanilla Brick",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6818",
+    "name": "Vintage Bunny",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6819",
+    "name": "Wafflesaurus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6820",
+    "name": "Cold Paws",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6821",
+    "name": "Dark Sparkle",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6822",
+    "name": "Iceman",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6823",
+    "name": "Mermaid",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6824",
+    "name": "Sushi",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6825",
+    "name": "Bamboo Ice",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6826",
+    "name": "Berry Shake",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6827",
+    "name": "Birthday",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6828",
+    "name": "Cherry On Top",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6829",
+    "name": "Circus",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6830",
+    "name": "Classic",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6831",
+    "name": "Disco Funk",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6832",
+    "name": "Dreamland",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6833",
+    "name": "Pine Cone",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6834",
+    "name": "Pumpkin Spice",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6835",
+    "name": "Unicone",
+    "rarityPermille": 30
+  }
+]

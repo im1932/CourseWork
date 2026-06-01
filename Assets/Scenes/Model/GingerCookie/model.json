@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_1968",
+    "name": "Universe",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_1969",
+    "name": "Sugar Star",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1970",
+    "name": "Telegram",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1971",
+    "name": "Frostbite",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1972",
+    "name": "Tied Up",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1973",
+    "name": "Brand New",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1974",
+    "name": "Pika Pika",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1975",
+    "name": "Golden Boy",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1976",
+    "name": "Hello Cookie",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1977",
+    "name": "Rose Gold",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1978",
+    "name": "Pun-Cake",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1979",
+    "name": "White Gold",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1980",
+    "name": "Platinum",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1981",
+    "name": "Cookie Claus",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1982",
+    "name": "Headless",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1983",
+    "name": "Shortbread",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1984",
+    "name": "Sprinkles",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1985",
+    "name": "Paprika",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1986",
+    "name": "Beach Party",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1987",
+    "name": "Dracula",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1988",
+    "name": "Lebkuchen",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1989",
+    "name": "Eve",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1990",
+    "name": "Galleta",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1991",
+    "name": "Bronze",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1992",
+    "name": "Black Beard",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1993",
+    "name": "Bone AppГ©tit",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1994",
+    "name": "Cop Cake",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1995",
+    "name": "Adam",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1996",
+    "name": "Pepe Pryanik",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1997",
+    "name": "Jolly Roger",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1998",
+    "name": "Shanker",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_1999",
+    "name": "Le Biscuit",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2000",
+    "name": "Silver",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2001",
+    "name": "Amaretto",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2002",
+    "name": "Santa Claus",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2003",
+    "name": "Candy Cane",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2004",
+    "name": "Berry Button",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2005",
+    "name": "Crunched",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2006",
+    "name": "Coffee Break",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2007",
+    "name": "Hazel Bezel",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2008",
+    "name": "Ginger Geek",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2009",
+    "name": "Melonius",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_2010",
+    "name": "Reel Cookie",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2011",
+    "name": "Red Scarf",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2012",
+    "name": "Herb Garden",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_2013",
+    "name": "Dandy Candy",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2014",
+    "name": "Lil Ginger",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2015",
+    "name": "Choco Swirl",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2016",
+    "name": "Bavarian",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2017",
+    "name": "Sweetheart",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2018",
+    "name": "Mint Fringe",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_2019",
+    "name": "Cooking...",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_2020",
+    "name": "Pink Molasses",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2021",
+    "name": "Bio Glow",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2022",
+    "name": "Toblerone",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2023",
+    "name": "Madagascar",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2024",
+    "name": "Choco Glazed",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2025",
+    "name": "Brownie",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2026",
+    "name": "Raspberry",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2027",
+    "name": "Royal Sundae",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2028",
+    "name": "Unicorn",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2029",
+    "name": "Cocoa Powder",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2030",
+    "name": "Red Velvet",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2031",
+    "name": "Dark Almond",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_2032",
+    "name": "Eskimo",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_2033",
+    "name": "Matrix",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_2034",
+    "name": "Opposite",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2035",
+    "name": "Faint Blush",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2036",
+    "name": "Waffle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2037",
+    "name": "Glowberry",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2038",
+    "name": "Frosty",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2039",
+    "name": "Marshmallow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2040",
+    "name": "Template",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2041",
+    "name": "Johnny Ash",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2042",
+    "name": "Icing Sugar",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2043",
+    "name": "Banana Bread",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2044",
+    "name": "Gentleman",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2045",
+    "name": "Moon Dust",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2046",
+    "name": "Champagne",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2047",
+    "name": "Frozen Dough",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2048",
+    "name": "Cardamom",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2049",
+    "name": "Periwinkle",
+    "rarityPermille": 16
+  },
+  {
+    "id": "model_2050",
+    "name": "Hulking",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2051",
+    "name": "Ginger Grape",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2052",
+    "name": "Marzipan",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2053",
+    "name": "Truffle",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2054",
+    "name": "Mr. Biscuit",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2055",
+    "name": "Ice Latte",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2056",
+    "name": "Toffee",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2057",
+    "name": "Candy Bar",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2058",
+    "name": "Vanilla",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2059",
+    "name": "Cinnamon",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2060",
+    "name": "Snowman",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2061",
+    "name": "Cheesecake",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2062",
+    "name": "Pistachio",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2063",
+    "name": "Rubber Duck",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2064",
+    "name": "Strawberry",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2065",
+    "name": "Bordeaux",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2066",
+    "name": "Sunspot",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_2067",
+    "name": "Rose Water",
+    "rarityPermille": 17
+  }
+]

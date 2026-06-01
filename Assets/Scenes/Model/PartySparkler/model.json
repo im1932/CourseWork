@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_4550",
+    "name": "Power Line",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4551",
+    "name": "Mad Chemist",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4552",
+    "name": "Premium",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4553",
+    "name": "Bitcoin",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4554",
+    "name": "Star Time",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4555",
+    "name": "Superpower",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4556",
+    "name": "Dryad Wand",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4557",
+    "name": "Party Hard",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4558",
+    "name": "La Bomba",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4559",
+    "name": "Bumble",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4560",
+    "name": "Tri-Nitro",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4561",
+    "name": "Uranium",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4562",
+    "name": "Windy Day",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4563",
+    "name": "Fortune",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4564",
+    "name": "Pika Pika",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4565",
+    "name": "Privacy",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4566",
+    "name": "Druidic",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_4567",
+    "name": "Spearmint",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_4568",
+    "name": "Peppermint",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_4569",
+    "name": "Lady Serenity",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4570",
+    "name": "Bronze",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4571",
+    "name": "Safety First",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4572",
+    "name": "Blueberry",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4573",
+    "name": "4th of July",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4574",
+    "name": "Sailor Moon",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4575",
+    "name": "Crystal",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4576",
+    "name": "Candy Goth",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4577",
+    "name": "Lord Vader",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4578",
+    "name": "Assault",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4579",
+    "name": "Kenobi",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4580",
+    "name": "Glenda",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4581",
+    "name": "Blue Sparks",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4582",
+    "name": "Golden Gun",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4583",
+    "name": "Le Pepe",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4584",
+    "name": "Holographic",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4585",
+    "name": "Sparkly Eve",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4586",
+    "name": "Timebomb",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4587",
+    "name": "Running Hot",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4588",
+    "name": "Dynamite",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4589",
+    "name": "Neo Tokyo",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4590",
+    "name": "Sonic Blue",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4591",
+    "name": "Shimmer",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4592",
+    "name": "Birthday",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4593",
+    "name": "Chrome",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4594",
+    "name": "Yoshi Green",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4595",
+    "name": "Cupid Caster",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4596",
+    "name": "Carapace",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4597",
+    "name": "Al Capone",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4598",
+    "name": "Midas Party",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4599",
+    "name": "Chosen One",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4600",
+    "name": "Punk Caster",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4601",
+    "name": "Franky",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_4602",
+    "name": "Ruby Shine",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4603",
+    "name": "Marksman",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4604",
+    "name": "Teal Polish",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4605",
+    "name": "Polychrome",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4606",
+    "name": "Iris Shine",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4607",
+    "name": "Patina Chrome",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4608",
+    "name": "Copper",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4609",
+    "name": "Cobalt",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4610",
+    "name": "Green Shine",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4611",
+    "name": "Airsoft",
+    "rarityPermille": 11
+  },
+  {
+    "id": "model_4612",
+    "name": "Inverted",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4613",
+    "name": "Sour Gummy",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4614",
+    "name": "Molten Core",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4615",
+    "name": "Bright Flare",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4616",
+    "name": "Mint Powder",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4617",
+    "name": "Pink Pocky",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4618",
+    "name": "Luminous",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4619",
+    "name": "Phosphor",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4620",
+    "name": "Violet Rave",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4621",
+    "name": "Mint Stick",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4622",
+    "name": "Rainbow",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4623",
+    "name": "Blueshift",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4624",
+    "name": "Azurite",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4625",
+    "name": "Anemone",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4626",
+    "name": "Tutti Frutti",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4627",
+    "name": "Lime Time",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4628",
+    "name": "Punk Pink",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4629",
+    "name": "Red Hot",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4630",
+    "name": "Green Stripe",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4631",
+    "name": "Burnt End",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4632",
+    "name": "Hot Core",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4633",
+    "name": "Classic",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4634",
+    "name": "Cool Hue",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4635",
+    "name": "Mai Tai",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4636",
+    "name": "Hot Handle",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4637",
+    "name": "Ninja Turtle",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4638",
+    "name": "Iridescent",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4639",
+    "name": "Hellfire",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_4640",
+    "name": "Little Fairy",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4641",
+    "name": "Purple Rain",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4642",
+    "name": "Seafoam",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4643",
+    "name": "Neon Pink",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4644",
+    "name": "Red Burst",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4645",
+    "name": "Amethyst",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4646",
+    "name": "Bubblegum",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4647",
+    "name": "Cyan Sizzle",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4648",
+    "name": "Green Light",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_4649",
+    "name": "Indigo Dance",
+    "rarityPermille": 14
+  }
+]

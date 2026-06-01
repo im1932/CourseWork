@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_688",
+    "name": "Diamond",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_689",
+    "name": "Froggy",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_690",
+    "name": "Gold",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_691",
+    "name": "Lovely Ruby",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_692",
+    "name": "Choco Bear",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_693",
+    "name": "Electric",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_694",
+    "name": "Gothic",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_695",
+    "name": "Hackathon",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_696",
+    "name": "Honey Bee",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_697",
+    "name": "Lu Crystal",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_698",
+    "name": "Meltdown",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_699",
+    "name": "Mermaid",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_700",
+    "name": "Mr. Souffle",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_701",
+    "name": "Neon Sign",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_702",
+    "name": "Party Clown",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_703",
+    "name": "Party Time",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_704",
+    "name": "Shiba Inu",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_705",
+    "name": "Snowman",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_706",
+    "name": "Telegram",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_707",
+    "name": "Unicorn",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_708",
+    "name": "With Love",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_709",
+    "name": "Airy Souffle",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_710",
+    "name": "Bronze",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_711",
+    "name": "Cookie Bun",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_712",
+    "name": "Day and Night",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_713",
+    "name": "Frosted",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_714",
+    "name": "Ice Cream",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_715",
+    "name": "Meow Meow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_716",
+    "name": "Pink Bow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_717",
+    "name": "Sugar Glade",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_718",
+    "name": "Sweet Miracle",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_719",
+    "name": "Berry Tale",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_720",
+    "name": "Brave Tiger",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_721",
+    "name": "Citrus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_722",
+    "name": "Cutie",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_723",
+    "name": "Grandma's Pie",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_724",
+    "name": "Green Tea",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_725",
+    "name": "Little Sister",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_726",
+    "name": "Lollipop",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_727",
+    "name": "Silver",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_728",
+    "name": "Sour Apple",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_729",
+    "name": "Tiffani",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_730",
+    "name": "Velvet Rose",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_731",
+    "name": "Watermelon",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_732",
+    "name": "Young Chili",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_733",
+    "name": "Slime",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_734",
+    "name": "Valentine",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_735",
+    "name": "Berry Punch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_736",
+    "name": "Butterfly Tie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_737",
+    "name": "РЎhamomile",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_738",
+    "name": "Hulk",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_739",
+    "name": "Old Batman",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_740",
+    "name": "Spiderman",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_741",
+    "name": "Sunshine",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_742",
+    "name": "Wolverine",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_743",
+    "name": "Apple Fresh",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_744",
+    "name": "Berry Jam",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_745",
+    "name": "Blueberry",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_746",
+    "name": "Bubble Gum",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_747",
+    "name": "Chill-Out",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_748",
+    "name": "Chocolate",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_749",
+    "name": "Citrus Boom",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_750",
+    "name": "Clear Sky",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_751",
+    "name": "Cloud",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_752",
+    "name": "Cornflower",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_753",
+    "name": "Cotton Candy",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_754",
+    "name": "Dark Cherry",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_755",
+    "name": "Dragon Fruit",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_756",
+    "name": "Dreamer",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_757",
+    "name": "Droplet",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_758",
+    "name": "Eclair",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_759",
+    "name": "Gorgeous",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_760",
+    "name": "Grapefruit",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_761",
+    "name": "Iceberry",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_762",
+    "name": "Jellyfish",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_763",
+    "name": "Juicy Melon",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_764",
+    "name": "Key Lime",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_765",
+    "name": "Lava Cake",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_766",
+    "name": "Lavender Kiss",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_767",
+    "name": "Macaron",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_768",
+    "name": "Mandarin",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_769",
+    "name": "Matcha",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_770",
+    "name": "Orange Bliss",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_771",
+    "name": "Orchid",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_772",
+    "name": "Photonegative",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_773",
+    "name": "Red Alert",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_774",
+    "name": "Refreshing",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_775",
+    "name": "Sea Cruise",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_776",
+    "name": "Silent Film",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_777",
+    "name": "Softness",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_778",
+    "name": "Sour Drop",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_779",
+    "name": "Space Drive",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_780",
+    "name": "Sweet Grape",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_781",
+    "name": "Vanilla",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_782",
+    "name": "Winter Dessert",
+    "rarityPermille": 14
+  },
+  {
+    "id": "model_783",
+    "name": "Girlfriend",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_784",
+    "name": "Opera Ghost",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_785",
+    "name": "Cappuccino",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_786",
+    "name": "Classic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_787",
+    "name": "Latte",
+    "rarityPermille": 20
+  }
+]

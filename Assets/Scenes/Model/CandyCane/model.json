@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_788",
+    "name": "Hex Pot",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_789",
+    "name": "Weasley",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_790",
+    "name": "Mythic Candy",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_791",
+    "name": "Masterpiece",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_792",
+    "name": "Designer",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_793",
+    "name": "Honeycomb",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_794",
+    "name": "Toxic Treat",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_795",
+    "name": "Grinch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_796",
+    "name": "Oblina",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_797",
+    "name": "Discount",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_798",
+    "name": "Malfoy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_799",
+    "name": "Short Circuit",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_800",
+    "name": "Goldium",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_801",
+    "name": "Demonius",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_802",
+    "name": "Lovegood",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_803",
+    "name": "Argento",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_804",
+    "name": "Hologlow",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_805",
+    "name": "Neon Wave",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_806",
+    "name": "Old School",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_807",
+    "name": "Cherry Charm",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_808",
+    "name": "Nightmare",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_809",
+    "name": "Angelius",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_810",
+    "name": "Lazy Nap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_811",
+    "name": "Sticky Sweet",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_812",
+    "name": "Sweet Deal",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_813",
+    "name": "Silver Frost",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_814",
+    "name": "Golden Jelly",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_815",
+    "name": "Pink Mango",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_816",
+    "name": "Starry Cane",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_817",
+    "name": "Phantom",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_818",
+    "name": "Lime Twist",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_819",
+    "name": "Tropico",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_820",
+    "name": "Minty Mirth",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_821",
+    "name": "Final Offer",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_822",
+    "name": "Violet Berry",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_823",
+    "name": "Iceblink",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_824",
+    "name": "Peppy Pink",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_825",
+    "name": "Lovely Kiss",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_826",
+    "name": "Bronzy",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_827",
+    "name": "Polka Pop",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_828",
+    "name": "New Layer",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_829",
+    "name": "Sugar Crush",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_830",
+    "name": "Joker",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_831",
+    "name": "Negativus",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_832",
+    "name": "Colorfunk",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_833",
+    "name": "Phoenix",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_834",
+    "name": "Amber Glitter",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_835",
+    "name": "Blue Bliss",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_836",
+    "name": "Diggory",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_837",
+    "name": "Toxicane",
+    "rarityPermille": 26
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_1669",
+    "name": "Tesla Coil",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1670",
+    "name": "Morphing",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1671",
+    "name": "Seeing Stars",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1672",
+    "name": "Ice Sight",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1673",
+    "name": "Blue Flame",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1674",
+    "name": "Output Error",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1675",
+    "name": "Event Horizon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1676",
+    "name": "Jarvis",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1677",
+    "name": "First Sight",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1678",
+    "name": "Golden Gleam",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1679",
+    "name": "Transparency",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1680",
+    "name": "Starlight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1681",
+    "name": "Apex Predator",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1682",
+    "name": "Hypnosis",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1683",
+    "name": "Red Ring",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1684",
+    "name": "Inverted",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1685",
+    "name": "Monochrome",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1686",
+    "name": "Eye Bone",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1687",
+    "name": "Canceled",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1688",
+    "name": "Silver Glass",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1689",
+    "name": "Poison Plus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1690",
+    "name": "Concentric Circles",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1691",
+    "name": "True North",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1692",
+    "name": "HAL 9000",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1693",
+    "name": "Press Play",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1694",
+    "name": "Outbreak",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1695",
+    "name": "Monster Mash",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1696",
+    "name": "Deep Purple",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1697",
+    "name": "Visible Spectrum",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1698",
+    "name": "Blue Period",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1699",
+    "name": "Direct Current",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1700",
+    "name": "Bloodshot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1701",
+    "name": "Dragonborn",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1702",
+    "name": "Pink Eye",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1703",
+    "name": "Grayscale",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1704",
+    "name": "8 Ball",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1705",
+    "name": "Cirrus",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1706",
+    "name": "Do Not Disturb",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1707",
+    "name": "Succubus",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1708",
+    "name": "Green Lantern",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1709",
+    "name": "Dark Secret",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1710",
+    "name": "Blink",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1711",
+    "name": "Pale Palette",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1712",
+    "name": "Grinch Gaze",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1713",
+    "name": "Radioactive",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1714",
+    "name": "Periwinkle",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1715",
+    "name": "Submarine",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1716",
+    "name": "Cybernetic",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1717",
+    "name": "Solar Flare",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1718",
+    "name": "Baltic Amber",
+    "rarityPermille": 30
+  }
+]

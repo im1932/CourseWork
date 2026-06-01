@@ -1,0 +1,277 @@
+[
+  {
+    "id": "model_1422",
+    "name": "Asterix",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1423",
+    "name": "RGB Glitch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1424",
+    "name": "Artwork",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1425",
+    "name": "Cartoon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1426",
+    "name": "Fun Time",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1427",
+    "name": "Honey Bee",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1428",
+    "name": "Snowfall",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1429",
+    "name": "Captain",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1430",
+    "name": "Cotton Candy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1431",
+    "name": "Falcon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1432",
+    "name": "Toxic Guy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1433",
+    "name": "Neon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1434",
+    "name": "Voltage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1435",
+    "name": "Tron",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1436",
+    "name": "Jetspin",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1437",
+    "name": "Redrum",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1438",
+    "name": "Frosted Brew",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1439",
+    "name": "Bog Moss",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1440",
+    "name": "Duck Tales",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1441",
+    "name": "Krueger",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1442",
+    "name": "Sunrise",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1443",
+    "name": "Autumn",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1444",
+    "name": "Sea Sunset",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1445",
+    "name": "Corkwood",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1446",
+    "name": "Dipper",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1447",
+    "name": "Seabreeze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1448",
+    "name": "Nightshade",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1449",
+    "name": "Apple Slice",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1450",
+    "name": "Chicago Bulls",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1451",
+    "name": "Freshwave",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1452",
+    "name": "Pink Pop",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1453",
+    "name": "Ashen",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1454",
+    "name": "Goldrose",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1455",
+    "name": "Night Ivy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1456",
+    "name": "Negative",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1457",
+    "name": "Shadeux",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1458",
+    "name": "Creamsicle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1459",
+    "name": "Bluebird",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1460",
+    "name": "Shadow",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1461",
+    "name": "Ivory",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1462",
+    "name": "Pinkie Cap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1463",
+    "name": "Villager",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1464",
+    "name": "Aurora",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1465",
+    "name": "Sky High",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1466",
+    "name": "Sepium",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1467",
+    "name": "Mossy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1468",
+    "name": "Patriot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1469",
+    "name": "Jade",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1470",
+    "name": "Macintosh",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1471",
+    "name": "Duskwave",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1472",
+    "name": "Bordeaux",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1473",
+    "name": "Pokemon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1474",
+    "name": "Classic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1475",
+    "name": "Frosthorn",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1476",
+    "name": "Candy Shade",
+    "rarityPermille": 20
+  }
+]

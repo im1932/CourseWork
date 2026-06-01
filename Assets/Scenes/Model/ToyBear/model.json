@@ -1,0 +1,352 @@
+[
+  {
+    "id": "model_6571",
+    "name": "Golden Cub",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_6572",
+    "name": "Diamond",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6573",
+    "name": "Dark Knight",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6574",
+    "name": "Deadpool",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6575",
+    "name": "Ursa Major",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6576",
+    "name": "Blueprint",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6577",
+    "name": "Lunaris",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6578",
+    "name": "Matrix",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6579",
+    "name": "Copper",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_6580",
+    "name": "Lapis Lazuli",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_6581",
+    "name": "Wall Street",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_6582",
+    "name": "Chocolate",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_6583",
+    "name": "Dragon Ruby",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_6584",
+    "name": "Fazbear",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6585",
+    "name": "Pooh",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6586",
+    "name": "Kumamon",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6587",
+    "name": "Angel",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6588",
+    "name": "Rilakkuma",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6589",
+    "name": "The Devil",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6590",
+    "name": "Tiger",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6591",
+    "name": "Winnie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6592",
+    "name": "Teddy-800",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_6593",
+    "name": "Bumblebear",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_6594",
+    "name": "Checkmate",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_6595",
+    "name": "Bearly Visible",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_6596",
+    "name": "Alter Ego",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6597",
+    "name": "Cuddle",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6598",
+    "name": "Little Pepe",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6599",
+    "name": "Tricolor",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_6600",
+    "name": "Pajamas",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6601",
+    "name": "Matroskin",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6602",
+    "name": "Panda",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6603",
+    "name": "Los Muertos",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6604",
+    "name": "Cowboy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6605",
+    "name": "Cozy Boy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6606",
+    "name": "Contractor",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6607",
+    "name": "Panda Cow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6608",
+    "name": "Toady Bear",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6609",
+    "name": "Tuxedo",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6610",
+    "name": "Color Switch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6611",
+    "name": "Graduate",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6612",
+    "name": "Macchiato",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6613",
+    "name": "Wizard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6614",
+    "name": "Froggo",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6615",
+    "name": "Snowman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6616",
+    "name": "Zebra",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6617",
+    "name": "Polygon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6618",
+    "name": "Watermelon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6619",
+    "name": "Nurse",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_6620",
+    "name": "Polar Bear",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6621",
+    "name": "Night Cub",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6622",
+    "name": "Cotton",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6623",
+    "name": "Citrus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6624",
+    "name": "Viola Pansy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6625",
+    "name": "Noir Et Rose",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6626",
+    "name": "Pink Doodle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6627",
+    "name": "Blueberry",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6628",
+    "name": "Purple Heart",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6629",
+    "name": "El Rojo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6630",
+    "name": "Skittles",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6631",
+    "name": "Circus Bear",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6632",
+    "name": "Coral Reef",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6633",
+    "name": "Cherry",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6634",
+    "name": "Malibu",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6635",
+    "name": "Pineapple",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6636",
+    "name": "Red Velvet",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6637",
+    "name": "Blue Dandy",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6638",
+    "name": "Pink Cactus",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6639",
+    "name": "Carrot",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_6640",
+    "name": "Peanut",
+    "rarityPermille": 22
+  }
+]

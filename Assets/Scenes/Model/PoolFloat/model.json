@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4810",
+    "name": "Baywatch",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4811",
+    "name": "Luxury Yacht",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4812",
+    "name": "Nessie",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4813",
+    "name": "Going Merry",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4814",
+    "name": "Gzhel",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4815",
+    "name": "Khokhloma",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4816",
+    "name": "Kitsune",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4817",
+    "name": "Pool King",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4818",
+    "name": "Pool Pepe",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4819",
+    "name": "Stretching",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4820",
+    "name": "Anubis",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4821",
+    "name": "Cash Flow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4822",
+    "name": "Crypto Whale",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4823",
+    "name": "Homer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4824",
+    "name": "Hong Long",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4825",
+    "name": "Los Muertos",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4826",
+    "name": "Peach Shake",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4827",
+    "name": "Safari",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4828",
+    "name": "Skibidi",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4829",
+    "name": "Slick Track",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4830",
+    "name": "Water Scooter",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4831",
+    "name": "Water Tank",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4832",
+    "name": "Bald Eagle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4833",
+    "name": "Disco",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4834",
+    "name": "Leonardo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4835",
+    "name": "Motorboat",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4836",
+    "name": "Pigeon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4837",
+    "name": "Pool Party",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4838",
+    "name": "Stonks",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4839",
+    "name": "Duck Boss",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4840",
+    "name": "Giant Panda",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4841",
+    "name": "Mojito",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4842",
+    "name": "Pelican Decoy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4843",
+    "name": "Rescue Mission",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4844",
+    "name": "Royal Peacock",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4845",
+    "name": "Toucan",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4846",
+    "name": "Air Bunny",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4847",
+    "name": "Alpaca",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4848",
+    "name": "Balloon Dog",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4849",
+    "name": "Dark Swan",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4850",
+    "name": "Giraffe",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4851",
+    "name": "Golden Cobra",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4852",
+    "name": "Lizard",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4853",
+    "name": "Lucky Dragon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4854",
+    "name": "Palm Beach",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4855",
+    "name": "Private Jet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4856",
+    "name": "Quacky",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4857",
+    "name": "Sebastian",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4858",
+    "name": "Show Seal",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4859",
+    "name": "Unicorn",
+    "rarityPermille": 30
+  }
+]

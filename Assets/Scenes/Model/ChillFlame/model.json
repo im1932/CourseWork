@@ -1,0 +1,262 @@
+[
+  {
+    "id": "model_838",
+    "name": "Eye of Sauron",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_839",
+    "name": "Satis-fire",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_840",
+    "name": "Baba Yaga",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_841",
+    "name": "Dark Souls",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_842",
+    "name": "Skyrim",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_843",
+    "name": "Firebrand",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_844",
+    "name": "Flamethrower",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_845",
+    "name": "Ghost Rider",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_846",
+    "name": "Molotov",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_847",
+    "name": "Revolt",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_848",
+    "name": "Sochi",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_849",
+    "name": "Terraria",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_850",
+    "name": "The Match",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_851",
+    "name": "Camelot",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_852",
+    "name": "Desk Lamp",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_853",
+    "name": "Medieval",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_854",
+    "name": "Pixel Art",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_855",
+    "name": "Signal Flare",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_856",
+    "name": "Triumph",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_857",
+    "name": "Victory",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_858",
+    "name": "Dark Relic",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_859",
+    "name": "Elder Wand",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_860",
+    "name": "Sea Horse",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_861",
+    "name": "Bubble Prism",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_862",
+    "name": "Carousel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_863",
+    "name": "Flashlight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_864",
+    "name": "Ghost Light",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_865",
+    "name": "Balinese",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_866",
+    "name": "Bear Market",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_867",
+    "name": "Birthday Cake",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_868",
+    "name": "Bowl of Hygeia",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_869",
+    "name": "Bull Run",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_870",
+    "name": "Candelabra",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_871",
+    "name": "Druid Flame",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_872",
+    "name": "Dungeon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_873",
+    "name": "Eternal Flame",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_874",
+    "name": "Ionic Column",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_875",
+    "name": "Iron Rose",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_876",
+    "name": "Lava Lamp",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_877",
+    "name": "Lego",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_878",
+    "name": "Los Angeles",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_879",
+    "name": "Oil Lamp",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_880",
+    "name": "Olympia",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_881",
+    "name": "Oracle",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_882",
+    "name": "Paper Lantern",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_883",
+    "name": "Prometheus",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_884",
+    "name": "Royal Goblet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_885",
+    "name": "Spaceship",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_886",
+    "name": "Spark Plug",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_887",
+    "name": "Spring Grove",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_888",
+    "name": "Tiki Torch",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_889",
+    "name": "Tribal Totem",
+    "rarityPermille": 30
+  }
+]

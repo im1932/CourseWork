@@ -1,0 +1,252 @@
+[
+    {
+        "id":  "model_890",
+        "name":  "Emo Pin",
+        "rarityPermille":  5
+    },
+    {
+        "id":  "model_891",
+        "name":  "Kelly Green",
+        "rarityPermille":  5
+    },
+    {
+        "id":  "model_892",
+        "name":  "Moon Power",
+        "rarityPermille":  5
+    },
+    {
+        "id":  "model_893",
+        "name":  "Sakura",
+        "rarityPermille":  5
+    },
+    {
+        "id":  "model_894",
+        "name":  "Tama Gadget",
+        "rarityPermille":  5
+    },
+    {
+        "id":  "model_895",
+        "name":  "Butterfly",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_896",
+        "name":  "Cheese",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_897",
+        "name":  "Corrupted",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_898",
+        "name":  "Merrow",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_899",
+        "name":  "Pepperoni",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_900",
+        "name":  "Balloon",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_901",
+        "name":  "Berry Waffle",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_902",
+        "name":  "Crystal Hearts",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_903",
+        "name":  "Fabulous",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_904",
+        "name":  "Fortune Cookie",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_905",
+        "name":  "Fortune Meter",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_906",
+        "name":  "Four Wishes",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_907",
+        "name":  "Frutiger Aero",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_908",
+        "name":  "Golden Ale",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_909",
+        "name":  "Golden Ticket",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_910",
+        "name":  "Good Boy",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_911",
+        "name":  "Hot Brand",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_912",
+        "name":  "Ice Cream",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_913",
+        "name":  "Joystick",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_914",
+        "name":  "Kaleidoscope",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_915",
+        "name":  "Lava Lamp",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_916",
+        "name":  "Lollipop",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_917",
+        "name":  "Maple Leaf",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_918",
+        "name":  "Needlework",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_919",
+        "name":  "Orange Juice",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_920",
+        "name":  "Pinwheel",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_921",
+        "name":  "Purrfect Paw",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_922",
+        "name":  "Rose Quartz",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_923",
+        "name":  "Ruby Clover",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_924",
+        "name":  "Sangria",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_925",
+        "name":  "Soap Bubbles",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_926",
+        "name":  "Stained Glass",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_927",
+        "name":  "Star Princess",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_928",
+        "name":  "Vinyl Record",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_929",
+        "name":  "Watermelon",
+        "rarityPermille":  20
+    },
+    {
+        "id":  "model_930",
+        "name":  "Buy Low",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_931",
+        "name":  "Celtic Knot",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_932",
+        "name":  "Glass Rainbow",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_933",
+        "name":  "Matrix",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_934",
+        "name":  "Nebula",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_935",
+        "name":  "Peacock",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_936",
+        "name":  "Red Tartan",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_937",
+        "name":  "Sell High",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_938",
+        "name":  "Top Student",
+        "rarityPermille":  30
+    },
+    {
+        "id":  "model_939",
+        "name":  "Verdant Plaid",
+        "rarityPermille":  30
+    }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_5831",
+    "name": "Diamond Hands",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5832",
+    "name": "In Bloom",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5833",
+    "name": "Smitten",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5834",
+    "name": "Polaris",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5835",
+    "name": "Fortune",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5836",
+    "name": "Wet Clap",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5837",
+    "name": "Astronaut",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5838",
+    "name": "Fire Nation",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5839",
+    "name": "Static Shock",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5840",
+    "name": "Jelly Bears",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5841",
+    "name": "Water Bender",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5842",
+    "name": "Starburst",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5843",
+    "name": "Telegram",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5844",
+    "name": "Menthol",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5845",
+    "name": "Milkmaid",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5846",
+    "name": "Hive Five",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5847",
+    "name": "Pink Sparkle",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5848",
+    "name": "Woodman",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5849",
+    "name": "Star Power",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5850",
+    "name": "Narcissus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5851",
+    "name": "Blizzard",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5852",
+    "name": "Cheetah",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5853",
+    "name": "Arborist",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5854",
+    "name": "Shortcake",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5855",
+    "name": "Stripe Knot",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5856",
+    "name": "Dinosaurs",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5857",
+    "name": "Holly Hands",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5858",
+    "name": "Frost Fingers",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5859",
+    "name": "LED Lights",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5860",
+    "name": "Tartan Flake",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5861",
+    "name": "Twinkle",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5862",
+    "name": "Pingu",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5863",
+    "name": "Two Hearts",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5864",
+    "name": "Red Polka",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5865",
+    "name": "November",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5866",
+    "name": "Golden Pine",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5867",
+    "name": "Candy Cane",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5868",
+    "name": "Ruby Rhombus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5869",
+    "name": "Rudolph",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5870",
+    "name": "Grandma",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5871",
+    "name": "Kitten-Mittens",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5872",
+    "name": "Red Skater",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5873",
+    "name": "Amanita",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5874",
+    "name": "Santa Claus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5875",
+    "name": "Skellington",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5876",
+    "name": "Moulin Rouge",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5877",
+    "name": "Cute Bunnies",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5878",
+    "name": "SantaвЂ™s Gifts",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5879",
+    "name": "Fursona",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5880",
+    "name": "Ladybug",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5881",
+    "name": "Alpine Fern",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5882",
+    "name": "Aubergine",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5883",
+    "name": "Bright Lilac",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5884",
+    "name": "Mistletoe",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5885",
+    "name": "Iceland",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5886",
+    "name": "Frosty Pink",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5887",
+    "name": "Currant",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5888",
+    "name": "Cherry",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5889",
+    "name": "Evergreen",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5890",
+    "name": "Pistachio",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5891",
+    "name": "Honey Wine",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5892",
+    "name": "Pyrite",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5893",
+    "name": "Carnation",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5894",
+    "name": "Salmon",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5895",
+    "name": "Orchid",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5896",
+    "name": "Amethyst",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5897",
+    "name": "Periwinkle",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5898",
+    "name": "Raspberry",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5899",
+    "name": "Grape Soda",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5900",
+    "name": "New Year",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5901",
+    "name": "Mocha",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5902",
+    "name": "Seafoam",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5903",
+    "name": "Lipstick",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5904",
+    "name": "Pink Cuffs",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5905",
+    "name": "Gold Thread",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5906",
+    "name": "Flamingo",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5907",
+    "name": "Champagne",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5908",
+    "name": "White Pear",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5909",
+    "name": "Brown Suede",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5910",
+    "name": "Greenland",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5911",
+    "name": "Lapland",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5912",
+    "name": "Milk Tea",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5913",
+    "name": "Twilight",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5914",
+    "name": "Dark Grape",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5915",
+    "name": "Green Gloves",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5916",
+    "name": "Anemone",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5917",
+    "name": "Bechamel",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5918",
+    "name": "Heather",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5919",
+    "name": "Cedar",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5920",
+    "name": "Karelia",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5921",
+    "name": "Father Frost",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5922",
+    "name": "Daydream",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5923",
+    "name": "Sencha",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5924",
+    "name": "Mintens",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5925",
+    "name": "Burgundy",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5926",
+    "name": "The Riddler",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5927",
+    "name": "Norway",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5928",
+    "name": "Mauvelous",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5929",
+    "name": "Blueberry",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_5930",
+    "name": "Sequoia",
+    "rarityPermille": 13
+  }
+]

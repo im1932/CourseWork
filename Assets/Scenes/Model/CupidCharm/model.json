@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_1115",
+    "name": "Antique",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1116",
+    "name": "Cogwheel",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1117",
+    "name": "Dryad Heart",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1118",
+    "name": "Ice Glass",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1119",
+    "name": "Moon Prism",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1120",
+    "name": "Faerie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1121",
+    "name": "Golden Lace",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1122",
+    "name": "Gothic Core",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1123",
+    "name": "Pepe Love",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1124",
+    "name": "Sorceress",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1125",
+    "name": "Blossom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1126",
+    "name": "Cursed Room",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1127",
+    "name": "Jewels",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1128",
+    "name": "Lockpicking",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1129",
+    "name": "Mistress",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1130",
+    "name": "Puzzle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1131",
+    "name": "Titanic",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1132",
+    "name": "Broken Heart",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1133",
+    "name": "Burning Love",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1134",
+    "name": "Comics",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1135",
+    "name": "Cupid Pay",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1136",
+    "name": "Filigree",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1137",
+    "name": "Moulin Rouge",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1138",
+    "name": "Purple Glow",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1139",
+    "name": "Ribbons",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1140",
+    "name": "Surgery",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1141",
+    "name": "Vault",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1142",
+    "name": "Web Locket",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1143",
+    "name": "Azure Gem",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1144",
+    "name": "Cheetah",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1145",
+    "name": "Crystal Clear",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1146",
+    "name": "Emerald",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1147",
+    "name": "Gift Wrap",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1148",
+    "name": "Lindon",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1149",
+    "name": "Lorien",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1150",
+    "name": "Padlock",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1151",
+    "name": "Ruby Red",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1152",
+    "name": "Ruby Whisper",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1153",
+    "name": "Snow Queen",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1154",
+    "name": "Starlight",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1155",
+    "name": "Blood Gem",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1156",
+    "name": "Bubbles",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1157",
+    "name": "Gemstones",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1158",
+    "name": "Glamour",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1159",
+    "name": "Golden Grasp",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1160",
+    "name": "Obsidian",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1161",
+    "name": "Pink Glass",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1162",
+    "name": "Pink Zebra",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1163",
+    "name": "Soft Touch",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1164",
+    "name": "White Claws",
+    "rarityPermille": 30
+  }
+]

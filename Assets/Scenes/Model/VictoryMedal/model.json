@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6836",
+    "name": "Aegis",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6837",
+    "name": "First Finisher",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6838",
+    "name": "King Troll",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6839",
+    "name": "Noble Prize",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6840",
+    "name": "The Founder",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6841",
+    "name": "Crypto Whale",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6842",
+    "name": "Gem Holder",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6843",
+    "name": "Heartbreaker",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6844",
+    "name": "High Roller",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6845",
+    "name": "Master Gamer",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6846",
+    "name": "Master Of Luck",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6847",
+    "name": "Gold",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6848",
+    "name": "Good Boy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6849",
+    "name": "Illuminatus",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6850",
+    "name": "Queen Bee",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6851",
+    "name": "Crown of Grace",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6852",
+    "name": "Eternal Glory",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6853",
+    "name": "Grandmaster",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6854",
+    "name": "Heart of Steel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6855",
+    "name": "Telecrafter",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6856",
+    "name": "Brewmaster",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6857",
+    "name": "Clown",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6858",
+    "name": "Silver",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6859",
+    "name": "Ton Titan",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6860",
+    "name": "Crown Jewel",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6861",
+    "name": "Princess",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6862",
+    "name": "Viking",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6863",
+    "name": "Bronze",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6864",
+    "name": "Candy King",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6865",
+    "name": "Crystal Trophy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6866",
+    "name": "Dealmaker",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6867",
+    "name": "Dunk Master",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6868",
+    "name": "Finish Line",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6869",
+    "name": "Genius",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6870",
+    "name": "Glory Goal",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6871",
+    "name": "Golden Puck",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6872",
+    "name": "Great Athlete",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6873",
+    "name": "Heroic Honor",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6874",
+    "name": "Inventor",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6875",
+    "name": "Lifesaver",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6876",
+    "name": "Nice Try",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6877",
+    "name": "Pathfinder",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6878",
+    "name": "Racing Champ",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6879",
+    "name": "Radiant Order",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6880",
+    "name": "Rebel Award",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6881",
+    "name": "Sharpshooter",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6882",
+    "name": "Starbound",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6883",
+    "name": "Sweet Reward",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6884",
+    "name": "Top Swimmer",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6885",
+    "name": "Veteran",
+    "rarityPermille": 30
+  }
+]

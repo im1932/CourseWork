@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6991",
+    "name": "Champion",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6992",
+    "name": "Gospel Vibe",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6993",
+    "name": "Sapphire",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6994",
+    "name": "Snoopy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6995",
+    "name": "Cheeky Puppy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6996",
+    "name": "Crystal",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6997",
+    "name": "Fresh Smoke",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6998",
+    "name": "Gin and Juice",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6999",
+    "name": "Obsidian",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7000",
+    "name": "Sugar Bone",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7001",
+    "name": "Bible Of Love",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7002",
+    "name": "DeVille",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7003",
+    "name": "Doggfather",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7004",
+    "name": "Four-Twenty",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7005",
+    "name": "Most Wanted",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7006",
+    "name": "Real Dog",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7007",
+    "name": "All In",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7008",
+    "name": "Big Fan",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7009",
+    "name": "Dogg",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7010",
+    "name": "Double Cup",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7011",
+    "name": "Drop It",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7012",
+    "name": "Legal Crime",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7013",
+    "name": "Organic Height",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7014",
+    "name": "Ruby",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7015",
+    "name": "Shadow Flex",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7016",
+    "name": "Still D.R.E.",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7017",
+    "name": "Yippie Yo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7018",
+    "name": "Barcs A Locks",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7019",
+    "name": "Bow Wizzle",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7020",
+    "name": "Chill Out",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7021",
+    "name": "Chow Wow",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7022",
+    "name": "Doggystyle",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7023",
+    "name": "God Bless",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7024",
+    "name": "Groupie Luv",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7025",
+    "name": "Legacy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7026",
+    "name": "Masterpiece",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7027",
+    "name": "Signature",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7028",
+    "name": "Sugar Daddy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7029",
+    "name": "The Hard Way",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7030",
+    "name": "Tru Tank Doggs",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7031",
+    "name": "Wild Power",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7032",
+    "name": "Woofee",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7033",
+    "name": "Yap Yap",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7034",
+    "name": "Duality",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7035",
+    "name": "Emerald",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7036",
+    "name": "Gold Ruby",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7037",
+    "name": "Green Slime",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7038",
+    "name": "Paisley",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7039",
+    "name": "Swag Droid",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7040",
+    "name": "Undead",
+    "rarityPermille": 30
+  }
+]

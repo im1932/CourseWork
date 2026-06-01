@@ -1,0 +1,247 @@
+[
+  {
+    "id": "model_1919",
+    "name": "Aladdin",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1920",
+    "name": "Cat Spirit",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1921",
+    "name": "Lava Lamp",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1922",
+    "name": "Lightning",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1923",
+    "name": "Snow Globe",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1924",
+    "name": "Space Travel",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1925",
+    "name": "Tea Time",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1926",
+    "name": "Arctic Winds",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1927",
+    "name": "Goldfish",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1928",
+    "name": "Herbal Wind",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1929",
+    "name": "Liquid Cat",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1930",
+    "name": "Lost Souls",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1931",
+    "name": "Star Dust",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1932",
+    "name": "Sweet Desire",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1933",
+    "name": "Thunder",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1934",
+    "name": "Witch's Secret",
+    "rarityPermille": 13
+  },
+  {
+    "id": "model_1935",
+    "name": "Flammable",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1936",
+    "name": "Inflated",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1937",
+    "name": "Monstrous",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1938",
+    "name": "Piggy Bank",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1939",
+    "name": "To The Moon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1940",
+    "name": "Astral Planes",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1941",
+    "name": "Blue Neon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1942",
+    "name": "Crypto Dream",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1943",
+    "name": "Love Thirst",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1944",
+    "name": "Meowgical",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1945",
+    "name": "Night's Wish",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1946",
+    "name": "Star Power",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1947",
+    "name": "Arabian Night",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1948",
+    "name": "Blueprint",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1949",
+    "name": "Bronze Dust",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1950",
+    "name": "Copper Pot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1951",
+    "name": "Dark Silver",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1952",
+    "name": "Enigma",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1953",
+    "name": "Eternal Smoke",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1954",
+    "name": "Jade Lantern",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1955",
+    "name": "Lime Art",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1956",
+    "name": "Moonlight",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1957",
+    "name": "Mystic Aura",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1958",
+    "name": "Red Devil",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1959",
+    "name": "Red Sketch",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1960",
+    "name": "Sunset Rays",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1961",
+    "name": "Sunshine",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1962",
+    "name": "White Sprite",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1963",
+    "name": "Chrome",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_1964",
+    "name": "Gold Tarnish",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_1965",
+    "name": "Golden Flame",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_1966",
+    "name": "Persian Dawn",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_1967",
+    "name": "Sahara",
+    "rarityPermille": 35
+  }
+]

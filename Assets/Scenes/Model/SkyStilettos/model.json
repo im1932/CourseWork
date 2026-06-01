@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_5511",
+    "name": "Crypto Queen",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5512",
+    "name": "Fortuna",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5513",
+    "name": "Spidergirl",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5514",
+    "name": "Cinderella",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5515",
+    "name": "Diva",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5516",
+    "name": "Glossy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5517",
+    "name": "Hellcat",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5518",
+    "name": "Lost World",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5519",
+    "name": "Asmodea",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5520",
+    "name": "Cowgirl",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5521",
+    "name": "Fluffy Cloud",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5522",
+    "name": "Frozen",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5523",
+    "name": "Glam Doll",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5524",
+    "name": "Heartbeat",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5525",
+    "name": "Jester",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5526",
+    "name": "April",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5527",
+    "name": "Companion",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5528",
+    "name": "Fergie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5529",
+    "name": "Free Spirit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5530",
+    "name": "Good Fairy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5531",
+    "name": "Mermaid",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5532",
+    "name": "Pixie Dust",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5533",
+    "name": "Rebel",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5534",
+    "name": "Rosaria",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5535",
+    "name": "Serpent",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5536",
+    "name": "Snow White",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5537",
+    "name": "Tinker",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5538",
+    "name": "Vogue",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5539",
+    "name": "White Rose",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5540",
+    "name": "Wild Cherry",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5541",
+    "name": "Aurora",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5542",
+    "name": "Coquette",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5543",
+    "name": "Forget-Me-Not",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5544",
+    "name": "Graphium",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5545",
+    "name": "Heliconius",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5546",
+    "name": "Jasmine",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5547",
+    "name": "Mistress",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5548",
+    "name": "Mystery",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5549",
+    "name": "Phantom Blush",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5550",
+    "name": "Poison Ivy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5551",
+    "name": "Rendezvous",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5552",
+    "name": "Rosy Moth",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5553",
+    "name": "Shining Star",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5554",
+    "name": "Teardrops",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5555",
+    "name": "Diaethria",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5556",
+    "name": "Eooxy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5557",
+    "name": "Ladybug",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5558",
+    "name": "Leopard",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5559",
+    "name": "Machaon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5560",
+    "name": "Queen Bee",
+    "rarityPermille": 30
+  }
+]

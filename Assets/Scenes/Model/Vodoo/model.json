@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6941",
+    "name": "Scribble Stab",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_6942",
+    "name": "Disco Doll",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_6943",
+    "name": "Magma Ooze",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6944",
+    "name": "Cruella",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6945",
+    "name": "Jellousy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6946",
+    "name": "Ice Block",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6947",
+    "name": "Broken Hope",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6948",
+    "name": "Concept Art",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6949",
+    "name": "Shrek",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6950",
+    "name": "Bubbles",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6951",
+    "name": "Pumpkin",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6952",
+    "name": "Birthday Cake",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6953",
+    "name": "Salad Spell",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6954",
+    "name": "Medium Rare",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6955",
+    "name": "Toxicity",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6956",
+    "name": "Layer One",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6957",
+    "name": "Redemption",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6958",
+    "name": "Gingerbread",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6959",
+    "name": "Low Gravity",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6960",
+    "name": "Clear Water",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6961",
+    "name": "Revenge",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6962",
+    "name": "Pink Needle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6963",
+    "name": "Emo Curse",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6964",
+    "name": "Terminator",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6965",
+    "name": "Chromed Out",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6966",
+    "name": "Starry Night",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6967",
+    "name": "Fingerprint",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6968",
+    "name": "En Passant",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6969",
+    "name": "Vendetta",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6970",
+    "name": "Bumblebee",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6971",
+    "name": "Far Galaxy",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6972",
+    "name": "Twilight",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6973",
+    "name": "Mocha Man",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6974",
+    "name": "Pain Train",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6975",
+    "name": "Bitten Lip",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6976",
+    "name": "Blue Abyss",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_6977",
+    "name": "Red Checker",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6978",
+    "name": "Pure Hatred",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6979",
+    "name": "Textile",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6980",
+    "name": "Cold-Blooded",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6981",
+    "name": "Tan Gent",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6982",
+    "name": "Royal Gold",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6983",
+    "name": "Vengeance",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6984",
+    "name": "Painful Love",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6985",
+    "name": "Electrician",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6986",
+    "name": "Aqua Gem",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6987",
+    "name": "Horror Movie",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6988",
+    "name": "Dark Side",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6989",
+    "name": "Rebel Spirit",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_6990",
+    "name": "Malachite",
+    "rarityPermille": 35
+  }
+]

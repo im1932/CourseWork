@@ -1,0 +1,282 @@
+[
+  {
+    "id": "model_3432",
+    "name": "Legendary Item",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_3433",
+    "name": "Black Diamond",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_3434",
+    "name": "Champion Belt",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_3435",
+    "name": "Ring King",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_3436",
+    "name": "The Eagle",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_3437",
+    "name": "Fireball",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_3438",
+    "name": "Headgear",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_3439",
+    "name": "Modesty",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_3440",
+    "name": "29-0 Record",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3441",
+    "name": "Champion",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3442",
+    "name": "Dagger",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3443",
+    "name": "Jade Black",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3444",
+    "name": "Knockout",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3445",
+    "name": "Steel Chin",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3446",
+    "name": "Unbreakable",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3447",
+    "name": "Bloodstones",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3448",
+    "name": "Fighting Ring",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3449",
+    "name": "Madridista",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3450",
+    "name": "Monument",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3451",
+    "name": "Precious",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3452",
+    "name": "Ruby",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3453",
+    "name": "Spring Flowers",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3454",
+    "name": "Strelka",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3455",
+    "name": "Emerald",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3456",
+    "name": "Flying High",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3457",
+    "name": "Hat Toss",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3458",
+    "name": "Pile Of Hats",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3459",
+    "name": "Signature",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3460",
+    "name": "Golden Wool",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3461",
+    "name": "Highland Bard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3462",
+    "name": "Rage Mode",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3463",
+    "name": "Sapphire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3464",
+    "name": "Summer",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3465",
+    "name": "Autumn",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3466",
+    "name": "Titan Relics",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3467",
+    "name": "Boom Fists",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3468",
+    "name": "Breakfast",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3469",
+    "name": "Brown Fur",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3470",
+    "name": "Buffalo",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3471",
+    "name": "Chokha",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3472",
+    "name": "Dagestan",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3473",
+    "name": "Eagles MMA",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3474",
+    "name": "Family Table",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3475",
+    "name": "Feared Beard",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3476",
+    "name": "Honor",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3477",
+    "name": "Magic Carpet",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3478",
+    "name": "Papakha Swag",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3479",
+    "name": "Stealth",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3480",
+    "name": "Thunder",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3481",
+    "name": "Tradition",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3482",
+    "name": "Vineyard Crown",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3483",
+    "name": "Winged K",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3484",
+    "name": "Winter",
+    "rarityPermille": 29
+  },
+  {
+    "id": "model_3485",
+    "name": "Long Curls",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3486",
+    "name": "Silver Wings",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_3487",
+    "name": "Wise Elder",
+    "rarityPermille": 40
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "model_2818",
+    "name": "Elements",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2819",
+    "name": "Kryptonite",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2820",
+    "name": "Pink Floyd",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2821",
+    "name": "Sunbeam",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2822",
+    "name": "Jamaica",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2823",
+    "name": "Crystal Clear",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2824",
+    "name": "Energon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2825",
+    "name": "Solid Waste",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_2826",
+    "name": "Cryst-mas",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2827",
+    "name": "Prismatic",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2828",
+    "name": "Saltwater",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2829",
+    "name": "Fireworks",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2830",
+    "name": "Botanica",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2831",
+    "name": "Noir Manga",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2832",
+    "name": "Girl Power",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2833",
+    "name": "Anime Battle",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2834",
+    "name": "Orchestra",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2835",
+    "name": "King Midas",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2836",
+    "name": "Shocking Pink",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2837",
+    "name": "Nightstone",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2838",
+    "name": "Sapphire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2839",
+    "name": "Sakura",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2840",
+    "name": "Chaos Emerald",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2841",
+    "name": "Martini",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2842",
+    "name": "Ultraviolet",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2843",
+    "name": "Tiberium",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2844",
+    "name": "Paper Plane",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2845",
+    "name": "Barbie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2846",
+    "name": "Halloween",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2847",
+    "name": "Cupid Quartz",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2848",
+    "name": "Gold Gram",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2849",
+    "name": "Lustrous",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2850",
+    "name": "Bronzite",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2851",
+    "name": "Cartoon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2852",
+    "name": "Obsidian",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2853",
+    "name": "Solar Flare",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2854",
+    "name": "Gradient",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2855",
+    "name": "Ice Crystal",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2856",
+    "name": "Pink Sapphire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2857",
+    "name": "Live Wire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2858",
+    "name": "Time Stone",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2859",
+    "name": "Love Stones",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2860",
+    "name": "Garnet",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2861",
+    "name": "Sugilite",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2862",
+    "name": "Blue Zircon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2863",
+    "name": "Princess Cut",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2864",
+    "name": "Redwood",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2865",
+    "name": "Sweet Tooth",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2866",
+    "name": "Color Drain",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2867",
+    "name": "Solarium",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2868",
+    "name": "Blood Gem",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2869",
+    "name": "Amethyst",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2870",
+    "name": "Limestone",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2871",
+    "name": "Himalaya",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2872",
+    "name": "Honey Gold",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2873",
+    "name": "Star Forge",
+    "rarityPermille": 30
+  }
+]

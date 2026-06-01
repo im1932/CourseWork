@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3940",
+    "name": "Cable Mess",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3941",
+    "name": "Chamomile",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3942",
+    "name": "Lotus Garden",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3943",
+    "name": "Million Roses",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3944",
+    "name": "Butterflies",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3945",
+    "name": "Fast Food",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3946",
+    "name": "Happy Toys",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3947",
+    "name": "Peashooter",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3948",
+    "name": "Rafflesia",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3949",
+    "name": "Balloons",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3950",
+    "name": "Benjamins",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3951",
+    "name": "Catnip",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3952",
+    "name": "Chompy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3953",
+    "name": "Fisherman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3954",
+    "name": "Lobsters",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3955",
+    "name": "Love Potion",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3956",
+    "name": "Mushrooms",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3957",
+    "name": "Narcissus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3958",
+    "name": "Neon Sign",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3959",
+    "name": "Nucleus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3960",
+    "name": "Skull Flowers",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3961",
+    "name": "Snowrose",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3962",
+    "name": "Venus Flytrap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3963",
+    "name": "Artichoke",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3964",
+    "name": "Cabbage",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3965",
+    "name": "Cactus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3966",
+    "name": "Dandelions",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3967",
+    "name": "Mandrake",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3968",
+    "name": "Moonlight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3969",
+    "name": "Oculus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3970",
+    "name": "Wildfire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3971",
+    "name": "Garden Roses",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3972",
+    "name": "Tulips",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3973",
+    "name": "Berries",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3974",
+    "name": "Carrots",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3975",
+    "name": "Cotton",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3976",
+    "name": "Crocodile",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3977",
+    "name": "Donuts",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3978",
+    "name": "Fishbowl Vase",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3979",
+    "name": "Frida Planter",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3980",
+    "name": "Golden Petals",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3981",
+    "name": "Harvest",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3982",
+    "name": "Lavender",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3983",
+    "name": "Maple Leaves",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3984",
+    "name": "Missing Shoe",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3985",
+    "name": "Oak Crown",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3986",
+    "name": "Purple Lilac",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3987",
+    "name": "Silvershade",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3988",
+    "name": "Sunflowers",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3989",
+    "name": "Yarn Balls",
+    "rarityPermille": 30
+  }
+]

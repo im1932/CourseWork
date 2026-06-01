@@ -1,0 +1,402 @@
+[
+  {
+    "id": "model_4860",
+    "name": "Spanked",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4861",
+    "name": "Cherry Secret",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4862",
+    "name": "Smelting",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4863",
+    "name": "Caramel Red",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4864",
+    "name": "Shocking",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_4865",
+    "name": "Gleam Bite",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4866",
+    "name": "Blizzard",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4867",
+    "name": "Impeached",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4868",
+    "name": "Angelic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4869",
+    "name": "Spoiled",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4870",
+    "name": "Xmas Lights",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4871",
+    "name": "Bubbling Blue",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4872",
+    "name": "Saint Nickel",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4873",
+    "name": "Rich Green",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4874",
+    "name": "Mushroom",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4875",
+    "name": "Premium",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4876",
+    "name": "Pink Cupid",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4877",
+    "name": "Crypto Orange",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4878",
+    "name": "Jelly Bubble",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4879",
+    "name": "Yin Yang",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4880",
+    "name": "Jelly Stars",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4881",
+    "name": "Tonfruit",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4882",
+    "name": "Glass Heart",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4883",
+    "name": "Bumblebee",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4884",
+    "name": "Morningstar",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4885",
+    "name": "Cutout",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4886",
+    "name": "Cherry Season",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4887",
+    "name": "999 Karat",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4888",
+    "name": "Smooch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4889",
+    "name": "Airy Bright",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4890",
+    "name": "Ladybug",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4891",
+    "name": "Soap Bubble",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4892",
+    "name": "Purple Glow",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4893",
+    "name": "Morning Haze",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4894",
+    "name": "Iron Blush",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4895",
+    "name": "Smooth Touch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4896",
+    "name": "Faded Silver",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4897",
+    "name": "Golden Shine",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4898",
+    "name": "Christmas",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4899",
+    "name": "Ruby Red",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4900",
+    "name": "Twilight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4901",
+    "name": "Polaris",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4902",
+    "name": "Neo-Chrome",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4903",
+    "name": "Terra Firma",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4904",
+    "name": "Ruby Slice",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4905",
+    "name": "Bright Amber",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4906",
+    "name": "Bismuth",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4907",
+    "name": "Iridescent",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4908",
+    "name": "Malachite",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4909",
+    "name": "Fuzzy Lilac",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4910",
+    "name": "Sunset",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4911",
+    "name": "Stardust",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4912",
+    "name": "Elegance",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4913",
+    "name": "Juicy Tones",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4914",
+    "name": "Clear Sky",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4915",
+    "name": "Peach Black",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4916",
+    "name": "Heirloom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4917",
+    "name": "Pure Peach",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4918",
+    "name": "Cold Iron",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4919",
+    "name": "Moss Posh",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4920",
+    "name": "Bright Coral",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4921",
+    "name": "Honey Gold",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4922",
+    "name": "Party-Ready",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4923",
+    "name": "Bronze",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4924",
+    "name": "Cutie Pink",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4925",
+    "name": "Cozy Warmth",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4926",
+    "name": "Glossy Pink",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4927",
+    "name": "Dreamer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4928",
+    "name": "Juicy Orange",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4929",
+    "name": "Mardi Gras",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4930",
+    "name": "Berry Pit",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4931",
+    "name": "Ripe Green",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4932",
+    "name": "Lush Green",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4933",
+    "name": "Ripe Pink",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4934",
+    "name": "Neptune",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4935",
+    "name": "Rosegold",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4936",
+    "name": "Pyrite",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4937",
+    "name": "Glossy Finish",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4938",
+    "name": "Soft Sunset",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4939",
+    "name": "Ogre Green",
+    "rarityPermille": 20
+  }
+]

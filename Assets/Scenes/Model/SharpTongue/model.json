@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_5361",
+    "name": "Secret Look",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5362",
+    "name": "Glitch",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5363",
+    "name": "Teasing Look",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5364",
+    "name": "Zombie Bite",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5365",
+    "name": "Neon Club",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5366",
+    "name": "Melony",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5367",
+    "name": "Pop Art",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5368",
+    "name": "Punk Girl",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5369",
+    "name": "Karlach",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5370",
+    "name": "Sweety",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5371",
+    "name": "Frostbite",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5372",
+    "name": "Acid Witch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5373",
+    "name": "Redlight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5374",
+    "name": "Comics",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5375",
+    "name": "Padme",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5376",
+    "name": "Sweet Berry",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5377",
+    "name": "Ferrum Fatale",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5378",
+    "name": "Leopard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5379",
+    "name": "Galaxy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5380",
+    "name": "Minimalipstick",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5381",
+    "name": "Vampire",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5382",
+    "name": "Golden Girl",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5383",
+    "name": "Succubus",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5384",
+    "name": "Lizard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5385",
+    "name": "High Voltage",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5386",
+    "name": "Devilfish",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5387",
+    "name": "Night Club",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5388",
+    "name": "Coral Reef",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5389",
+    "name": "Sour Bite",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5390",
+    "name": "Spicy Mint",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5391",
+    "name": "Manga Smile",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5392",
+    "name": "Glamour",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5393",
+    "name": "Rainbow",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5394",
+    "name": "Mystique",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5395",
+    "name": "Femme Fatale",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5396",
+    "name": "Sunset",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5397",
+    "name": "Avatar",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5398",
+    "name": "Tangy Coil",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5399",
+    "name": "Cold Bite",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5400",
+    "name": "Daring Kiss",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5401",
+    "name": "Glossy Hot",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5402",
+    "name": "Lady Night",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5403",
+    "name": "Morticia",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5404",
+    "name": "Velvety",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5405",
+    "name": "Vegan Snake",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5406",
+    "name": "Pink Mamba",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5407",
+    "name": "Hypnotic",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5408",
+    "name": "Queen",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5409",
+    "name": "Hot Summer",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5410",
+    "name": "Pepelicious",
+    "rarityPermille": 25
+  }
+]

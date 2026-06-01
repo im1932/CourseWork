@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4940",
+    "name": "Aubergines",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4941",
+    "name": "Roadworks",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4942",
+    "name": "Semki",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4943",
+    "name": "Clown Flowers",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4944",
+    "name": "Funeral",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4945",
+    "name": "Jackpot",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4946",
+    "name": "Momo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4947",
+    "name": "Shawarma",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4948",
+    "name": "Sunflower Oil",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4949",
+    "name": "Vampire",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4950",
+    "name": "Van Gogh",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4951",
+    "name": "Boom Bloom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4952",
+    "name": "Dead Roses",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4953",
+    "name": "Duck Spa",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4954",
+    "name": "Fast Food",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4955",
+    "name": "Fireworks",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4956",
+    "name": "Moon Shrooms",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4957",
+    "name": "Sea Shanty",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4958",
+    "name": "Teddy Luxe",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4959",
+    "name": "Venus Flytrap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4960",
+    "name": "Cinnabon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4961",
+    "name": "Croissant",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4962",
+    "name": "Duty Free",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4963",
+    "name": "Forester",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4964",
+    "name": "Gummy Bears",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4965",
+    "name": "Viva Italia",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4966",
+    "name": "Zen Garden",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4967",
+    "name": "Cinema",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4968",
+    "name": "Edelweiss",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4969",
+    "name": "Fresh Cash",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4970",
+    "name": "Halloween",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4971",
+    "name": "Lotus Pay",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4972",
+    "name": "Orchids",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4973",
+    "name": "Rose Diamond",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4974",
+    "name": "Sakura",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4975",
+    "name": "Salami Set",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4976",
+    "name": "Tangerine",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4977",
+    "name": "Temaki",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4978",
+    "name": "Waffle Cone",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4979",
+    "name": "Art Therapy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4980",
+    "name": "Frankfurter",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4981",
+    "name": "Harvest",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4982",
+    "name": "Hollywood",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4983",
+    "name": "Lavender",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4984",
+    "name": "Payday",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4985",
+    "name": "Precious",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4986",
+    "name": "Provence",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4987",
+    "name": "Rich Lilac",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4988",
+    "name": "Rock Band",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4989",
+    "name": "Snake Den",
+    "rarityPermille": 30
+  }
+]

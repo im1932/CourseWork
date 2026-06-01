@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_1869",
+    "name": "Molten Core",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_1870",
+    "name": "Spinny Boi",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_1871",
+    "name": "Atomic Bomb",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1872",
+    "name": "Bubble Queen",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1873",
+    "name": "Cold Flame",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1874",
+    "name": "Eternal Life",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1875",
+    "name": "Fire Stone",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1876",
+    "name": "Love Seal",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1877",
+    "name": "Night King",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_1878",
+    "name": "8 Bit Diamond",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1879",
+    "name": "Dragon Soul",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1880",
+    "name": "Paper Topaz",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1881",
+    "name": "Pixel Emerald",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1882",
+    "name": "Sunstone",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1883",
+    "name": "Water Lily",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_1884",
+    "name": "Arabica",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1885",
+    "name": "El Dorado",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1886",
+    "name": "Event Horizon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1887",
+    "name": "Hot Cherry",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1888",
+    "name": "Pearl Eye",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1889",
+    "name": "Timekeeper",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1890",
+    "name": "Arc Reactor",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_1891",
+    "name": "Black Lotus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1892",
+    "name": "Blood Opal",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1893",
+    "name": "Death Star",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1894",
+    "name": "Fading Crown",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1895",
+    "name": "Feral Rage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1896",
+    "name": "Sentry Turret",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1897",
+    "name": "Bloodstone",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1898",
+    "name": "Jet Black",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1899",
+    "name": "Neon Signet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1900",
+    "name": "Render",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1901",
+    "name": "Brass Zircon",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_1902",
+    "name": "Old Bronze",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_1903",
+    "name": "Amethyst",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1904",
+    "name": "Dark Violet",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1905",
+    "name": "Elven Shade",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1906",
+    "name": "Malachite",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1907",
+    "name": "Malibu Pink",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1908",
+    "name": "Moonstone",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1909",
+    "name": "Nuclear Core",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1910",
+    "name": "Ogre's Kiss",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1911",
+    "name": "Pink Quartz",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1912",
+    "name": "Sapphire",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1913",
+    "name": "Silver Gold",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1914",
+    "name": "Snake Ruby",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1915",
+    "name": "Tanzanite",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_1916",
+    "name": "Fleur de Mer",
+    "rarityPermille": 42
+  },
+  {
+    "id": "model_1917",
+    "name": "Green Beryl",
+    "rarityPermille": 42
+  },
+  {
+    "id": "model_1918",
+    "name": "Helios",
+    "rarityPermille": 50
+  }
+]

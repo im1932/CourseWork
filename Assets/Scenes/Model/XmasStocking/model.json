@@ -1,0 +1,327 @@
+[
+  {
+    "id": "model_7261",
+    "name": "Abandoned",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7262",
+    "name": "Cash Balance",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7263",
+    "name": "Cowboy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7264",
+    "name": "Crypto Wallet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7265",
+    "name": "Fairy Tale",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7266",
+    "name": "Fireplace",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7267",
+    "name": "Gold Mine",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7268",
+    "name": "Halloween",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7269",
+    "name": "Heaven",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7270",
+    "name": "Malevich",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7271",
+    "name": "Monster",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7272",
+    "name": "Morgenstern",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7273",
+    "name": "Overdose",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7274",
+    "name": "Toxic Brew",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7275",
+    "name": "Shinobi",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_7276",
+    "name": "Circus",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_7277",
+    "name": "Gemstone",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_7278",
+    "name": "Arctic",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7279",
+    "name": "Bada-Boom!",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7280",
+    "name": "Banana Love",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7281",
+    "name": "Boggy Glow",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7282",
+    "name": "Electric Sock",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7283",
+    "name": "Emo Love",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7284",
+    "name": "Light Show",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7285",
+    "name": "Little Mouse",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7286",
+    "name": "Mushroom",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7287",
+    "name": "Pixel Tools",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7288",
+    "name": "Privet",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7289",
+    "name": "Radioactive",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7290",
+    "name": "Retro Disco",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7291",
+    "name": "Shine On!",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7292",
+    "name": "Shiny Peach",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7293",
+    "name": "Strawberry",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7294",
+    "name": "Swamp Party",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7295",
+    "name": "Universe",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7296",
+    "name": "Pink Glitter",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_7297",
+    "name": "Candy Shop",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7298",
+    "name": "Midnight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7299",
+    "name": "Outline",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7300",
+    "name": "Pink Ink",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7301",
+    "name": "Translucent",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7302",
+    "name": "Caramel Fest",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7303",
+    "name": "Cherry",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7304",
+    "name": "Darkvision",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7305",
+    "name": "Fresh Lemon",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7306",
+    "name": "Hot Winter",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7307",
+    "name": "Lavender",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7308",
+    "name": "Nightmirror",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7309",
+    "name": "Old School",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7310",
+    "name": "Orange Dusk",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7311",
+    "name": "Poison Ivy",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_7312",
+    "name": "Bloody",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7313",
+    "name": "Cold Feet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7314",
+    "name": "Frozen Moss",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7315",
+    "name": "Helltaker",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7316",
+    "name": "Kindergarten",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7317",
+    "name": "Lime Treats",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7318",
+    "name": "Mint Stitches",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7319",
+    "name": "Photo Negative",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7320",
+    "name": "Pink Faerie",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7321",
+    "name": "Tangerine",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7322",
+    "name": "Toffee",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7323",
+    "name": "Toxic Grape",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7324",
+    "name": "Vintage",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7325",
+    "name": "Wonderland",
+    "rarityPermille": 30
+  }
+]

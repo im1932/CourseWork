@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4760",
+    "name": "Ninja Mike",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4761",
+    "name": "Louis Vuittoad",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4762",
+    "name": "Steel Frog",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4763",
+    "name": "Gucci Leap",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4764",
+    "name": "Raphael",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4765",
+    "name": "Toading...",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4766",
+    "name": "Leonardo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4767",
+    "name": "Donatello",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4768",
+    "name": "Puppy Pug",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4769",
+    "name": "Midas Pepe",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4770",
+    "name": "Cozy Galaxy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4771",
+    "name": "Fifty Shades",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4772",
+    "name": "Magnate",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4773",
+    "name": "Emerald Plush",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4774",
+    "name": "Stripes",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4775",
+    "name": "Sketchy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4776",
+    "name": "Marble",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4777",
+    "name": "Christmas",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4778",
+    "name": "Bavaria",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4779",
+    "name": "Amalgam",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4780",
+    "name": "Birmingham",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4781",
+    "name": "Red Pepple",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4782",
+    "name": "Sunset",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4783",
+    "name": "X-Ray",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4784",
+    "name": "Frozen",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4785",
+    "name": "Princess",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4786",
+    "name": "Barcelona",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4787",
+    "name": "Yellow Purp",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4788",
+    "name": "Santa Pepe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4789",
+    "name": "Emo Boi",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4790",
+    "name": "Pink Galaxy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4791",
+    "name": "Milano",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4792",
+    "name": "Pepe La Rana",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4793",
+    "name": "Pink Latex",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4794",
+    "name": "Two Face",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4795",
+    "name": "Kung Fu Pepe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4796",
+    "name": "Red Menace",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4797",
+    "name": "Polka Dots",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4798",
+    "name": "Pumpkin",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4799",
+    "name": "Yellow Hug",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4800",
+    "name": "Hothead",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4801",
+    "name": "Tropical",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4802",
+    "name": "Eggplant",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4803",
+    "name": "Aqua Plush",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4804",
+    "name": "Pepemint",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4805",
+    "name": "Gummy Frog",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4806",
+    "name": "Spectrum",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4807",
+    "name": "Cold Heart",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4808",
+    "name": "Poison Dart",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4809",
+    "name": "Hue Jester",
+    "rarityPermille": 30
+  }
+]

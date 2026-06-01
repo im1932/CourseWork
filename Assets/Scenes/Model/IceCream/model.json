@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_2658",
+    "name": "Cryo Pepe",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_2659",
+    "name": "Poopsicle",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_2660",
+    "name": "Resistance",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_2661",
+    "name": "Golden Drake",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2662",
+    "name": "Kraken",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2663",
+    "name": "Crystal",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2664",
+    "name": "Emperor",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2665",
+    "name": "Gold Ingot",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2666",
+    "name": "Pharaoh",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2667",
+    "name": "Shivery",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2668",
+    "name": "Stardust",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2669",
+    "name": "Utya Pop",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2670",
+    "name": "BiteCoin",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2671",
+    "name": "Brain Freeze",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2672",
+    "name": "Divine Justice",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2673",
+    "name": "Fried Chicken",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2674",
+    "name": "Ghost Biters",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2675",
+    "name": "Granite",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2676",
+    "name": "Ice Craft",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2677",
+    "name": "TNT Stick",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2678",
+    "name": "Ton Cone",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2679",
+    "name": "Bubbles",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2680",
+    "name": "Cold Fusion",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2681",
+    "name": "Extra Spicy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2682",
+    "name": "Pawpsicle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2683",
+    "name": "Pigeon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2684",
+    "name": "Starlit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2685",
+    "name": "Apple Dip",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2686",
+    "name": "Beehive",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2687",
+    "name": "Cupid Aim",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2688",
+    "name": "Funky Disco",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2689",
+    "name": "Plastic Pop",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2690",
+    "name": "Whisker",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2691",
+    "name": "Banana",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2692",
+    "name": "Berry Split",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2693",
+    "name": "Bite-Size",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2694",
+    "name": "Choco Almond",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2695",
+    "name": "Citrus",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2696",
+    "name": "Cold Steel",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2697",
+    "name": "Crude Oil",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2698",
+    "name": "Cucumber",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2699",
+    "name": "Cyclone",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2700",
+    "name": "Fresh Berry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2701",
+    "name": "Kiwi Sorbet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2702",
+    "name": "Precious",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2703",
+    "name": "Starship",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2704",
+    "name": "Strawberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2705",
+    "name": "Trio Scoop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2706",
+    "name": "Vice Dream",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2707",
+    "name": "Watermelon",
+    "rarityPermille": 30
+  }
+]

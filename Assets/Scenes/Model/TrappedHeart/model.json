@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_6641",
+    "name": "Jinx",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6642",
+    "name": "PXL PNK",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6643",
+    "name": "Comic Book",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6644",
+    "name": "Jack-o-Love",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6645",
+    "name": "Stardust",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_6646",
+    "name": "Magic Kiss",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6647",
+    "name": "Glitch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6648",
+    "name": "Zap Core",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6649",
+    "name": "Love Bomb",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6650",
+    "name": "Premium",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6651",
+    "name": "Iron Pulse",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6652",
+    "name": "Goldie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6653",
+    "name": "Cozy Season",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6654",
+    "name": "Silver",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6655",
+    "name": "Tattoo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6656",
+    "name": "Fire and Ice",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6657",
+    "name": "Feline Fury",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6658",
+    "name": "Sweetheart",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6659",
+    "name": "Sweet Wrap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6660",
+    "name": "Toxic Love",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6661",
+    "name": "Silver Luxe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6662",
+    "name": "Mystic Mark",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6663",
+    "name": "Bloodvine",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6664",
+    "name": "Vampie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6665",
+    "name": "Love Potion",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6666",
+    "name": "Abyss Heart",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6667",
+    "name": "Bandaged",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6668",
+    "name": "Phantom",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6669",
+    "name": "Undead Beat",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6670",
+    "name": "Crime Scene",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6671",
+    "name": "Orange Blaze",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6672",
+    "name": "Heartworm",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6673",
+    "name": "Meadow",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6674",
+    "name": "Pink Twilight",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6675",
+    "name": "Grey Ember",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6676",
+    "name": "Purple Haze",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6677",
+    "name": "Patchwork",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6678",
+    "name": "Colorful Beats",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6679",
+    "name": "Patched Up",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6680",
+    "name": "Cold-Hearted",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6681",
+    "name": "Sandy Red",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6682",
+    "name": "Faded Relic",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6683",
+    "name": "Empty Silent",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6684",
+    "name": "Blood Stains",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6685",
+    "name": "Violet Shadow",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6686",
+    "name": "Blue Whisper",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6687",
+    "name": "Lovesick",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6688",
+    "name": "Mended Love",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6689",
+    "name": "Bejeweled",
+    "rarityPermille": 26
+  },
+  {
+    "id": "model_6690",
+    "name": "Valentine",
+    "rarityPermille": 26
+  }
+]

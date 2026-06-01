@@ -1,0 +1,352 @@
+[
+  {
+    "id": "model_5611",
+    "name": "Claw Crane",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_5612",
+    "name": "Jackbox",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_5613",
+    "name": "Aquarium",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5614",
+    "name": "Balloons",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5615",
+    "name": "Gummy Worms",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5616",
+    "name": "Ice Cube",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5617",
+    "name": "Love Naga",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5618",
+    "name": "Snake Wok",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_5619",
+    "name": "Bronze Award",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5620",
+    "name": "Cheese",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5621",
+    "name": "Furnace",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5622",
+    "name": "Gold Award",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5623",
+    "name": "Prison Cell",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5624",
+    "name": "Silver Award",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_5625",
+    "name": "Bento",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5626",
+    "name": "Berry Box",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5627",
+    "name": "Birthday",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5628",
+    "name": "Burger",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5629",
+    "name": "Candy Bubble",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5630",
+    "name": "Donut Box",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5631",
+    "name": "Jelly Snake",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5632",
+    "name": "Pink Boa",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5633",
+    "name": "Pixel Cobra",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5634",
+    "name": "Poison Ivy",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5635",
+    "name": "Popcorn",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5636",
+    "name": "Santa Cobrus",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5637",
+    "name": "Shopping",
+    "rarityPermille": 6
+  },
+  {
+    "id": "model_5638",
+    "name": "Best Hisses!",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5639",
+    "name": "Dream Big",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5640",
+    "name": "Fluorescent",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5641",
+    "name": "Fragile",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5642",
+    "name": "Green Spots",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5643",
+    "name": "Heart Box",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5644",
+    "name": "Neon Fang",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5645",
+    "name": "Shine Bright",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_5646",
+    "name": "Double Joy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5647",
+    "name": "Golden Fang",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5648",
+    "name": "Honey Bee",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5649",
+    "name": "Love Nest",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5650",
+    "name": "Player 456",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5651",
+    "name": "Shamrock",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5652",
+    "name": "Choco Surprise",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5653",
+    "name": "Copper",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5654",
+    "name": "Elegance",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5655",
+    "name": "Interstellar",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5656",
+    "name": "Shimmer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5657",
+    "name": "Sketch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5658",
+    "name": "Lemonade",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5659",
+    "name": "Morning Fog",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5660",
+    "name": "Black Box",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5661",
+    "name": "Bluebell",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5662",
+    "name": "Buttercup",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5663",
+    "name": "Cobra Noir",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5664",
+    "name": "Cotton Candy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5665",
+    "name": "Emerald",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5666",
+    "name": "Fantasy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5667",
+    "name": "Fresh Mint",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5668",
+    "name": "Fuchsia",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5669",
+    "name": "Holly Jolly",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5670",
+    "name": "Meadow",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5671",
+    "name": "Pink Bloom",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5672",
+    "name": "Polka Dot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5673",
+    "name": "Purple",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5674",
+    "name": "Raspberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5675",
+    "name": "Red Dash",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5676",
+    "name": "Red Ribbon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5677",
+    "name": "Scarlet Gold",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5678",
+    "name": "Seashore",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5679",
+    "name": "Secret Santa",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5680",
+    "name": "Sunshine",
+    "rarityPermille": 30
+  }
+]

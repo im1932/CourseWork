@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_3332",
+    "name": "Chimpool",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3333",
+    "name": "Golden Monkey",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3334",
+    "name": "Liberation",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3335",
+    "name": "Smash King",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3336",
+    "name": "Tired Primate",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_3337",
+    "name": "Cherub",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3338",
+    "name": "Count Macaqula",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3339",
+    "name": "La Baboon",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3340",
+    "name": "Olympia",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_3341",
+    "name": "Ape Puppet",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3342",
+    "name": "Bank Robber",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3343",
+    "name": "Busy Mom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3344",
+    "name": "Chimp Imp",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3345",
+    "name": "Gravity Bangs",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3346",
+    "name": "Jason",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3347",
+    "name": "Robo Kong",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3348",
+    "name": "Silverback",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_3349",
+    "name": "Abubu",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3350",
+    "name": "Bananas",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3351",
+    "name": "Belle Bang",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3352",
+    "name": "Cavegirl",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3353",
+    "name": "Caveman",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3354",
+    "name": "French Cafe",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3355",
+    "name": "Genie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3356",
+    "name": "Hex Witch",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3357",
+    "name": "Knight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3358",
+    "name": "Little Sister",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3359",
+    "name": "Monkey Mouse",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3360",
+    "name": "Retro Cartoon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3361",
+    "name": "Shaman",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_3362",
+    "name": "Alarm Ape",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3363",
+    "name": "Crystal",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3364",
+    "name": "Fool King",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3365",
+    "name": "Grayscale",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3366",
+    "name": "Hot Springs",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3367",
+    "name": "Howler",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3368",
+    "name": "Luminous",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3369",
+    "name": "Policeman",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3370",
+    "name": "Toddler",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_3371",
+    "name": "Artist",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3372",
+    "name": "Baby Kong",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3373",
+    "name": "Bellboy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3374",
+    "name": "Clash Elixir",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3375",
+    "name": "Coco Lime",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3376",
+    "name": "Early Adopter",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3377",
+    "name": "Farm Girl",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3378",
+    "name": "Jungle Pop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3379",
+    "name": "Patchwork",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3380",
+    "name": "Snow Yeti",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_3381",
+    "name": "Tourist",
+    "rarityPermille": 30
+  }
+]

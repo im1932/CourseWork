@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_486",
+    "name": "Monarch",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_487",
+    "name": "Red Lipstick",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_488",
+    "name": "Star Fighter",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_489",
+    "name": "Adult Toy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_490",
+    "name": "Diamond",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_491",
+    "name": "Leopard",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_492",
+    "name": "Night Bat",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_493",
+    "name": "Peach Flower",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_494",
+    "name": "Silver Spoon",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_495",
+    "name": "Tribal Skull",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_496",
+    "name": "Water Lily",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_497",
+    "name": "Cupid Ruby",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_498",
+    "name": "Grizzly Bear",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_499",
+    "name": "Ice Queen",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_500",
+    "name": "Poison Apple",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_501",
+    "name": "Victorian",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_502",
+    "name": "Baby Lou",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_503",
+    "name": "Biscuit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_504",
+    "name": "Black Metal",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_505",
+    "name": "Christmas",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_506",
+    "name": "Clown",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_507",
+    "name": "Cthulhu",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_508",
+    "name": "Cubic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_509",
+    "name": "Danger Bot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_510",
+    "name": "Event Horizon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_511",
+    "name": "First Ax",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_512",
+    "name": "Light Bulb",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_513",
+    "name": "Metal Chain",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_514",
+    "name": "Soccer",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_515",
+    "name": "The Ankh",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_516",
+    "name": "Void Watcher",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_517",
+    "name": "Abyss Binky",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_518",
+    "name": "Brass Knuckles",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_519",
+    "name": "Crystal Sky",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_520",
+    "name": "Crystal Wings",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_521",
+    "name": "Rancho",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_522",
+    "name": "Red Bull",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_523",
+    "name": "Shiny Armor",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_524",
+    "name": "Toxic Slime",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_525",
+    "name": "Bloodsucker",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_526",
+    "name": "Bullet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_527",
+    "name": "Gem Seeker",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_528",
+    "name": "Ice Pop",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_529",
+    "name": "Illuminati",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_530",
+    "name": "Irish Kiss",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_531",
+    "name": "Marmalade",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_532",
+    "name": "Regent",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_533",
+    "name": "Royal Heir",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_534",
+    "name": "Shellfish",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_535",
+    "name": "Violetta",
+    "rarityPermille": 30
+  }
+]

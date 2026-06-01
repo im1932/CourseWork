@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_4140",
+    "name": "Boulevard",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4141",
+    "name": "Producer",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4142",
+    "name": "Solid Bronze",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4143",
+    "name": "Fiery-Hot",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4144",
+    "name": "Nightmare",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4145",
+    "name": "Nebula",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4146",
+    "name": "Silver Zebra",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4147",
+    "name": "Sunset Idol",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4148",
+    "name": "Red Carpet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4149",
+    "name": "Makeup",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4150",
+    "name": "Grape Cola",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4151",
+    "name": "Trailer",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4152",
+    "name": "Golden Sky",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4153",
+    "name": "Violet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4154",
+    "name": "Patina",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4155",
+    "name": "Cold Feet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4156",
+    "name": "Hot Shots",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4157",
+    "name": "Fading Flare",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4158",
+    "name": "Zesty",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4159",
+    "name": "Nominee",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4160",
+    "name": "Silver Screen",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4161",
+    "name": "Blue Lagoon",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4162",
+    "name": "Emerald",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4163",
+    "name": "Regent",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4164",
+    "name": "Grenadine",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4165",
+    "name": "Radioactive",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4166",
+    "name": "Blue Sky",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4167",
+    "name": "Jokester",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4168",
+    "name": "Sour Gummy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4169",
+    "name": "Starlight",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4170",
+    "name": "Prestige",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4171",
+    "name": "Giraffe",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4172",
+    "name": "Hobgoblin",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4173",
+    "name": "Spirulina",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4174",
+    "name": "Red Dream",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4175",
+    "name": "Cobalt",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4176",
+    "name": "Premiere",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4177",
+    "name": "Obsidian",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4178",
+    "name": "Woody Allen",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4179",
+    "name": "Leopard",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4180",
+    "name": "Neon Police",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4181",
+    "name": "Molten Gold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4182",
+    "name": "Mango Tango",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4183",
+    "name": "Banana",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4184",
+    "name": "Pumpkin",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4185",
+    "name": "Finest Fish",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4186",
+    "name": "Amanita",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4187",
+    "name": "Ballerino",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4188",
+    "name": "Martian",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4189",
+    "name": "Gas Mask",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4190",
+    "name": "Khajiit",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4191",
+    "name": "Brain Slug",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4192",
+    "name": "Catwoman",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4193",
+    "name": "Android",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4194",
+    "name": "Rear End",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4195",
+    "name": "Skeleton",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4196",
+    "name": "Mars Attacks",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4197",
+    "name": "Stuntman",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4198",
+    "name": "Moai Figure",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4199",
+    "name": "Eye Candy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4200",
+    "name": "Blockbuster",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4201",
+    "name": "Flexible",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4202",
+    "name": "Golfer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4203",
+    "name": "Robocop",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4204",
+    "name": "Crusader",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4205",
+    "name": "Undead",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4206",
+    "name": "Poseidon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4207",
+    "name": "Dark Knight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4208",
+    "name": "Pigeon",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4209",
+    "name": "Mummy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4210",
+    "name": "Aztec God",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4211",
+    "name": "Caveman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4212",
+    "name": "Dark Side",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4213",
+    "name": "Pink Guard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4214",
+    "name": "Speaker",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4215",
+    "name": "Viking",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4216",
+    "name": "Static",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4217",
+    "name": "Chieftain",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4218",
+    "name": "Santa Claus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4219",
+    "name": "Pharaoh",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4220",
+    "name": "Best Comedy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4221",
+    "name": "Legionary",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4222",
+    "name": "Sprunki",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4223",
+    "name": "Seraphim",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4224",
+    "name": "Scream",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4225",
+    "name": "Cyclopes",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4226",
+    "name": "Welder",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4227",
+    "name": "Spidey",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4228",
+    "name": "Pirate",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4229",
+    "name": "Brainiac",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4230",
+    "name": "Astronaut",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4231",
+    "name": "Main Villain",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4232",
+    "name": "The Deep",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4233",
+    "name": "Dracula",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4234",
+    "name": "Tribal Idol",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4235",
+    "name": "Deep Freeze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4236",
+    "name": "Action Film",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4237",
+    "name": "Laser Scan",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4238",
+    "name": "Electric",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4239",
+    "name": "Christmas",
+    "rarityPermille": 20
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_4240",
+    "name": "Skibidi Toilet",
+    "rarityPermille": 1
+  },
+  {
+    "id": "model_4241",
+    "name": "TON Holder",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_4242",
+    "name": "Ammunition",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4243",
+    "name": "Sauron",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4244",
+    "name": "Witch Doctor",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4245",
+    "name": "Caustic",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4246",
+    "name": "Conspiracy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4247",
+    "name": "Gold Miner",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4248",
+    "name": "Hercules",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4249",
+    "name": "Hot Sauna",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4250",
+    "name": "Kitsune",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4251",
+    "name": "Mouse Hunt",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4252",
+    "name": "Obelix",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4253",
+    "name": "Potato Sack",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4254",
+    "name": "Viking Loot",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4255",
+    "name": "Cowboy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4256",
+    "name": "Pax Romana",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4257",
+    "name": "Scavenger",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4258",
+    "name": "Straw Hat",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4259",
+    "name": "Super Pixel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4260",
+    "name": "Tortilla Chips",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4261",
+    "name": "Bank Heist",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4262",
+    "name": "Blood Moon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4263",
+    "name": "Elizabeth II",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4264",
+    "name": "Fishing Net",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4265",
+    "name": "Love Potion",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4266",
+    "name": "Pumpkin",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4267",
+    "name": "Snowballs",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4268",
+    "name": "Leprechaun",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4269",
+    "name": "Mailbox",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4270",
+    "name": "Apiary",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4271",
+    "name": "Aquarium",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4272",
+    "name": "Broadside",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4273",
+    "name": "Champagne",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4274",
+    "name": "College Party",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4275",
+    "name": "Dim Sum",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4276",
+    "name": "Doctor Jones",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4277",
+    "name": "Donut Crime",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4278",
+    "name": "Elf Cup",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4279",
+    "name": "Fungi Soup",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4280",
+    "name": "Lucky Duck",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4281",
+    "name": "Metal Soul",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4282",
+    "name": "Porridge",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4283",
+    "name": "Red Hood",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4284",
+    "name": "Shogun",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4285",
+    "name": "Snake Charmer",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4286",
+    "name": "Tennis Set",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4287",
+    "name": "Toy Bucket",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4288",
+    "name": "Uzbek Pilaf",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_4289",
+    "name": "Witch Brew",
+    "rarityPermille": 30
+  }
+]

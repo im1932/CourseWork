@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_5311",
+    "name": "Bubblegum",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5312",
+    "name": "Garfield",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5313",
+    "name": "Misty Ash",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5314",
+    "name": "Fern",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5315",
+    "name": "Mentos",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5316",
+    "name": "Azuki Siam",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5317",
+    "name": "Salem",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5318",
+    "name": "Oreo",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5319",
+    "name": "Caramel",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5320",
+    "name": "Jaddy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5321",
+    "name": "Vampkitty",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5322",
+    "name": "Cat2O",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5323",
+    "name": "Purrrple",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5324",
+    "name": "Vice Kitty",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5325",
+    "name": "Cake",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5326",
+    "name": "Chili Whisk",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5327",
+    "name": "Cookie",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5328",
+    "name": "Yolkster",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_5329",
+    "name": "Blitzo",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5330",
+    "name": "Gecko Cat",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5331",
+    "name": "Goodbye Kitty",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5332",
+    "name": "El Tigre",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5333",
+    "name": "Bipolar Cat",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5334",
+    "name": "Jeopard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5335",
+    "name": "Ruby",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5336",
+    "name": "Copperclaw",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5337",
+    "name": "Ranni",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5338",
+    "name": "Phantom",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5339",
+    "name": "Silver Napper",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5340",
+    "name": "Obelisk",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_5341",
+    "name": "Meowdas",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5342",
+    "name": "Nebula",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5343",
+    "name": "Niko",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5344",
+    "name": "Esmeralda",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5345",
+    "name": "Caustic",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5346",
+    "name": "Celestia",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5347",
+    "name": "Endercat",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5348",
+    "name": "Pepe Paws",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5349",
+    "name": "Cathulhu",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5350",
+    "name": "Creeper",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5351",
+    "name": "Instacat",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5352",
+    "name": "Purrlion",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5353",
+    "name": "Nyan Cat",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5354",
+    "name": "Torracat",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5355",
+    "name": "Weedcat",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_5356",
+    "name": "Voodoo",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5357",
+    "name": "Cat Nukem",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5358",
+    "name": "Virus",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5359",
+    "name": "Puss in Boots",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_5360",
+    "name": "Vapurr",
+    "rarityPermille": 40
+  }
+]

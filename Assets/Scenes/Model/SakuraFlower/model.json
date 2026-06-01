@@ -1,0 +1,502 @@
+[
+    {
+        "id":  "model_5191",
+        "name":  "Flowey",
+        "rarityPermille":  1
+    },
+    {
+        "id":  "model_5192",
+        "name":  "Carnation",
+        "rarityPermille":  2
+    },
+    {
+        "id":  "model_5193",
+        "name":  "Dog Flower",
+        "rarityPermille":  2
+    },
+    {
+        "id":  "model_5194",
+        "name":  "Meower",
+        "rarityPermille":  2
+    },
+    {
+        "id":  "model_5195",
+        "name":  "Sunflower",
+        "rarityPermille":  2
+    },
+    {
+        "id":  "model_5196",
+        "name":  "Wilted",
+        "rarityPermille":  2
+    },
+    {
+        "id":  "model_5197",
+        "name":  "Zap Aster",
+        "rarityPermille":  2
+    },
+    {
+        "id":  "model_5198",
+        "name":  "Big Bang",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5199",
+        "name":  "Blazing Dusk",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5200",
+        "name":  "Bubblia",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5201",
+        "name":  "Bull\u0027s Eye",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5202",
+        "name":  "Dark Neo",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5203",
+        "name":  "Fire Bloom",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5204",
+        "name":  "Heartbeat",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5205",
+        "name":  "Icebound",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5206",
+        "name":  "Loves Or Not",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5207",
+        "name":  "Monsoon",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5208",
+        "name":  "Pixel Bloom",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5209",
+        "name":  "Sakura",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5210",
+        "name":  "Shake It",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5211",
+        "name":  "Snowdrop",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5212",
+        "name":  "Venus Flytrap",
+        "rarityPermille":  4
+    },
+    {
+        "id":  "model_5213",
+        "name":  "Myrtella",
+        "rarityPermille":  5
+    },
+    {
+        "id":  "model_5214",
+        "name":  "Jellybud",
+        "rarityPermille":  6
+    },
+    {
+        "id":  "model_5215",
+        "name":  "Wildflower",
+        "rarityPermille":  6
+    },
+    {
+        "id":  "model_5216",
+        "name":  "Glitch",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5217",
+        "name":  "Luminosia",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5218",
+        "name":  "Party Time",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5219",
+        "name":  "Ping Blossom",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5220",
+        "name":  "Pokerface",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5221",
+        "name":  "Savanna",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5222",
+        "name":  "Shimeria",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5223",
+        "name":  "Spotty Leo",
+        "rarityPermille":  7
+    },
+    {
+        "id":  "model_5224",
+        "name":  "Bronzula",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5225",
+        "name":  "Dark Loader",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5226",
+        "name":  "Goldensia",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5227",
+        "name":  "Morning Sun",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5228",
+        "name":  "Party Bloom",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5229",
+        "name":  "Peony",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5230",
+        "name":  "Plumeria",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5231",
+        "name":  "Red Poppy",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5232",
+        "name":  "Silveria",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5233",
+        "name":  "White Peony",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5234",
+        "name":  "Windy",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5235",
+        "name":  "Yellow Poppy",
+        "rarityPermille":  8
+    },
+    {
+        "id":  "model_5236",
+        "name":  "Aetheris",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5237",
+        "name":  "Allamanda",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5238",
+        "name":  "Brunnera",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5239",
+        "name":  "Bumblebee",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240",
+        "name":  "Clivia",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_1",
+        "name":  "Geranium",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_2",
+        "name":  "Gerbera",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_3",
+        "name":  "Hellebore",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_4",
+        "name":  "Hydrangea",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_5",
+        "name":  "Nightshade",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_6",
+        "name":  "Petunia",
+        "rarityPermille":  11
+    },
+    {
+        "id":  "model_5240_7",
+        "name":  "Anemone",
+        "rarityPermille":  12
+    },
+    {
+        "id":  "model_5240_8",
+        "name":  "Dahlia",
+        "rarityPermille":  12
+    },
+    {
+        "id":  "model_5240_9",
+        "name":  "Hollyhock",
+        "rarityPermille":  12
+    },
+    {
+        "id":  "model_5240_10",
+        "name":  "Hybrid",
+        "rarityPermille":  12
+    },
+    {
+        "id":  "model_5240_11",
+        "name":  "Lemon Queen",
+        "rarityPermille":  12
+    },
+    {
+        "id":  "model_5240_12",
+        "name":  "Crimsonia",
+        "rarityPermille":  13
+    },
+    {
+        "id":  "model_5240_13",
+        "name":  "Indigo",
+        "rarityPermille":  13
+    },
+    {
+        "id":  "model_5240_14",
+        "name":  "Oxalis",
+        "rarityPermille":  13
+    },
+    {
+        "id":  "model_5240_15",
+        "name":  "Tropicana",
+        "rarityPermille":  13
+    },
+    {
+        "id":  "model_5240_16",
+        "name":  "Aster",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_17",
+        "name":  "Aubrieta",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_18",
+        "name":  "Aurivelle",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_19",
+        "name":  "Azure",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_20",
+        "name":  "Barbia",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_21",
+        "name":  "Celestara",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_22",
+        "name":  "Cosmea",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_23",
+        "name":  "Eclipsia",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_24",
+        "name":  "Fabulous",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_25",
+        "name":  "False Bird",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_26",
+        "name":  "Flameris",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_27",
+        "name":  "Floravelle",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_28",
+        "name":  "Floraven",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_29",
+        "name":  "Floris",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_30",
+        "name":  "Ghostia",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_31",
+        "name":  "Hawaii",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_32",
+        "name":  "Hibiscus",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_33",
+        "name":  "Lanceolata",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_34",
+        "name":  "Lunaris",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_35",
+        "name":  "Marigold",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_36",
+        "name":  "Meadowlyn",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_37",
+        "name":  "Nectarium",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_38",
+        "name":  "Noctivis",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_39",
+        "name":  "Orchidra",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_40",
+        "name":  "Peach Perfect",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_41",
+        "name":  "Primrose",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_42",
+        "name":  "Seraphina",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_43",
+        "name":  "Solivine",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_44",
+        "name":  "Sylvaris",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_45",
+        "name":  "Twilight",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_46",
+        "name":  "Vanilla",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_47",
+        "name":  "Verdania",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_48",
+        "name":  "Violet",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_49",
+        "name":  "Violet Iris",
+        "rarityPermille":  15
+    },
+    {
+        "id":  "model_5240_50",
+        "name":  "Zephyra",
+        "rarityPermille":  15
+    }
+]

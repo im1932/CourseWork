@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_1819",
+    "name": "Billie Jean",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1820",
+    "name": "Puppet Master",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_1821",
+    "name": "Free Elf",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1822",
+    "name": "Goldfinger",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1823",
+    "name": "Grandma",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1824",
+    "name": "Quest Item",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_1825",
+    "name": "Gingerbread",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1826",
+    "name": "Mad Scientist",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1827",
+    "name": "Monsters",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1828",
+    "name": "Moon Prism",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1829",
+    "name": "Pepe Socks",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1830",
+    "name": "Radioactive",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1831",
+    "name": "Ratatouille",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1832",
+    "name": "Space Merc",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1833",
+    "name": "Spike",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1834",
+    "name": "SquareSocks",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1835",
+    "name": "This Is Fine",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1836",
+    "name": "Trader",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_1837",
+    "name": "Adventure",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1838",
+    "name": "Ballerina",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1839",
+    "name": "Barry Allen",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1840",
+    "name": "Biohazard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1841",
+    "name": "Brothers",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1842",
+    "name": "Dark Power",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1843",
+    "name": "Foundation",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1844",
+    "name": "Gunk Fight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1845",
+    "name": "Hermes",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1846",
+    "name": "Patriot",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1847",
+    "name": "Peg Leg",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1848",
+    "name": "Rebel Spirit",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1849",
+    "name": "The Office",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1850",
+    "name": "Twin Peaks",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_1851",
+    "name": "Alcatraz",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1852",
+    "name": "Bartender",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1853",
+    "name": "Black Panther",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1854",
+    "name": "Friend In Me",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1855",
+    "name": "Heavy Rain",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1856",
+    "name": "Shrunk",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1857",
+    "name": "Spider Web",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1858",
+    "name": "Sporty",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1859",
+    "name": "Stitches",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1860",
+    "name": "Towelie",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_1861",
+    "name": "Ambition",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1862",
+    "name": "Courage",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1863",
+    "name": "Drumsticks",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1864",
+    "name": "Garfield",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1865",
+    "name": "Intellect",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1866",
+    "name": "Leopard",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1867",
+    "name": "Loyalty",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_1868",
+    "name": "Passion",
+    "rarityPermille": 30
+  }
+]

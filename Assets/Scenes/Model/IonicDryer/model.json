@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_2874",
+    "name": "Air Force One",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2875",
+    "name": "Arc Reactor",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2876",
+    "name": "Beholder",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2877",
+    "name": "Simpsonic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_2878",
+    "name": "Gold Rush",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2879",
+    "name": "Gunslinger",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2880",
+    "name": "Pigeon Gun",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2881",
+    "name": "Plumbus",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2882",
+    "name": "Rough Sketch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2883",
+    "name": "Satellite",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2884",
+    "name": "Tyson",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2885",
+    "name": "Valentine",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_2886",
+    "name": "Dried Flowers",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2887",
+    "name": "Pink Voxel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2888",
+    "name": "Popcorn",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2889",
+    "name": "Scorchwing",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2890",
+    "name": "Square Dryer",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_2891",
+    "name": "Ace Machine",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2892",
+    "name": "Angel Blast",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2893",
+    "name": "Beetlejuice",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2894",
+    "name": "Bubble Blower",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2895",
+    "name": "Cooling Kiss",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2896",
+    "name": "Cyber Prism",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2897",
+    "name": "Fan-tom",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2898",
+    "name": "Noir Vape",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2899",
+    "name": "Saguaro",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2900",
+    "name": "Shooting Star",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2901",
+    "name": "Splatter",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2902",
+    "name": "Sugar Breeze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2903",
+    "name": "Taser",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2904",
+    "name": "Vortex",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_2905",
+    "name": "Flamethrower",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2906",
+    "name": "Glimmer",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2907",
+    "name": "Velvet XXL",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2908",
+    "name": "Volcano",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2909",
+    "name": "Wet Styling",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_2910",
+    "name": "Air Purrifier",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2911",
+    "name": "Barbiecore",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2912",
+    "name": "Catwalk",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2913",
+    "name": "Dry Wood",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2914",
+    "name": "Hot Bot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2915",
+    "name": "Love Burst",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2916",
+    "name": "Music Player",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2917",
+    "name": "Polka Dot",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2918",
+    "name": "Rad-Dry 9000",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2919",
+    "name": "Savannah",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2920",
+    "name": "Sound Wave",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2921",
+    "name": "Tiger Wave",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2922",
+    "name": "Turbo Heat",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_2923",
+    "name": "Zephyrus",
+    "rarityPermille": 30
+  }
+]

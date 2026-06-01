@@ -1,0 +1,402 @@
+[
+  {
+    "id": "model_6081",
+    "name": "Nosferatu",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6082",
+    "name": "Amour Touch",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6083",
+    "name": "Radiance",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6084",
+    "name": "Blooming Cap",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6085",
+    "name": "Shrek Shroom",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6086",
+    "name": "Square Cap",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6087",
+    "name": "Nitrous",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6088",
+    "name": "Pepe Mania",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6089",
+    "name": "Ice Cold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6090",
+    "name": "Ruby Glow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6091",
+    "name": "Zebra Cap",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6092",
+    "name": "Savannah",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6093",
+    "name": "Emerald Trip",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6094",
+    "name": "Royal Gold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6095",
+    "name": "RoboCap",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6096",
+    "name": "Die Agaric",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6097",
+    "name": "Evil Eye",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6098",
+    "name": "Ghost Jelly",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6099",
+    "name": "Sunset Glow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6100",
+    "name": "Safari",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6101",
+    "name": "Ocean Star",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6102",
+    "name": "Rainbow Glow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6103",
+    "name": "Mickey Cap",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6104",
+    "name": "Cloudy Night",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6105",
+    "name": "Bliss",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6106",
+    "name": "TigerвЂ™s Eye",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6107",
+    "name": "Acid Trip",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6108",
+    "name": "DвЂ™oh! Shroom",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6109",
+    "name": "Hot Stuff",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6110",
+    "name": "Mirage",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6111",
+    "name": "Sunspot",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6112",
+    "name": "Marshmallow",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6113",
+    "name": "Scaly Cap",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6114",
+    "name": "Teleshroom",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6115",
+    "name": "Wizard Cap",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6116",
+    "name": "MinerвЂ™s Bloom",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6117",
+    "name": "Safari Glam",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6118",
+    "name": "Hypnotoad",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6119",
+    "name": "Skin Cap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6120",
+    "name": "Kilt Cap",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6121",
+    "name": "Twister",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6122",
+    "name": "Wet Fungus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6123",
+    "name": "Polka Dot",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6124",
+    "name": "Dark Carnaval",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6125",
+    "name": "Dalmatin",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6126",
+    "name": "Red X",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6127",
+    "name": "Milka",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6128",
+    "name": "Copper Sea",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6129",
+    "name": "Lime Pop",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6130",
+    "name": "Liquid Metal",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6131",
+    "name": "Prime Day",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6132",
+    "name": "Prime Night",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6133",
+    "name": "Bag Pipe",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6134",
+    "name": "Lab Rat",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6135",
+    "name": "Mercury Drops",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6136",
+    "name": "Golden Dust",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6137",
+    "name": "Acidic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6138",
+    "name": "Mysctic",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6139",
+    "name": "Lava Lamp",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6140",
+    "name": "Sour Gummy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6141",
+    "name": "Bleached",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6142",
+    "name": "Sunburst",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6143",
+    "name": "Lemon Haze",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6144",
+    "name": "Monoshroom",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6145",
+    "name": "Periwinkle",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6146",
+    "name": "Cherry Drop",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6147",
+    "name": "Fungal Dew",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6148",
+    "name": "Nighteye",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6149",
+    "name": "Truffle Trip",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6150",
+    "name": "Pinecap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6151",
+    "name": "Cheeto",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6152",
+    "name": "Pink Neon",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6153",
+    "name": "Limelight",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6154",
+    "name": "Pixie Cap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6155",
+    "name": "Camo",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6156",
+    "name": "Cloudy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6157",
+    "name": "Merry Cap",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6158",
+    "name": "Herbalist",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6159",
+    "name": "Night Light",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6160",
+    "name": "DuskBloom",
+    "rarityPermille": 20
+  }
+]

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 2
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    packables:
+    - {fileID: 2800000, guid: 67ba35d2258093743894cfb03888c4df, type: 3}
+    - {fileID: 2800000, guid: 00796187c7fca204bb6cd3bd4d13f4f4, type: 3}
+    - {fileID: 2800000, guid: f40ec885d0a41ad47ac4d95bd1efc76d, type: 3}
+    - {fileID: 2800000, guid: c1156b81f63ec7b4d887030445c1a3e2, type: 3}
+    - {fileID: 2800000, guid: d261741841dce42419b71a5c8be825c5, type: 3}
+    - {fileID: 2800000, guid: eab6b259701961c4c986fdbd36087606, type: 3}
+    - {fileID: 2800000, guid: d57b1f2ee43462740907eb8bc9fe1d23, type: 3}
+    - {fileID: 2800000, guid: 70378ac641c5edf4881f88f74c106815, type: 3}
+    - {fileID: 2800000, guid: d9c3f1febad85874ba553f4e87a2532a, type: 3}
+    - {fileID: 2800000, guid: 505a7f4093f112644928449ee2b1a0b9, type: 3}
+    - {fileID: 2800000, guid: e7de482c495c8e64ead7053f1d54fffd, type: 3}
+    - {fileID: 2800000, guid: 49dc6590642cab84185b82fbf978b462, type: 3}
+    - {fileID: 2800000, guid: eeabc0247882eed43ba52fe85b342ddf, type: 3}
+    - {fileID: 2800000, guid: ea81f77675665b54a91baf1ad8e46661, type: 3}
+    - {fileID: 2800000, guid: 75560e75bad7e8143b6df684129653ee, type: 3}
+    - {fileID: 2800000, guid: caaf81273ff3d7147a3ad0f1e0eb45a8, type: 3}
+    - {fileID: 2800000, guid: 643910aba6f437144ba397d97e539821, type: 3}
+    - {fileID: 2800000, guid: 4fe87daa17f12b14b9e074ef8ebd7e15, type: 3}
+    - {fileID: 2800000, guid: 0607defd18149fb4ba5ba035e2719f4d, type: 3}
+    - {fileID: 2800000, guid: e9583800821f7d449804116e819291cf, type: 3}
+    - {fileID: 2800000, guid: 2cd7dc6af2246904d9ad0190acd1bbbc, type: 3}
+    - {fileID: 2800000, guid: 1b8b31ec779c7c341a1ea791eebd3bb3, type: 3}
+    - {fileID: 2800000, guid: 5af4a8d09974ce442b0f158b89f5b6ca, type: 3}
+    - {fileID: 2800000, guid: 85f3b59a083ce13448fd1e99bd868fd3, type: 3}
+    - {fileID: 2800000, guid: 51524cf34bc653a4ebc6b58eef2a2872, type: 3}
+    - {fileID: 2800000, guid: 06cb7098b41c2b340b01f4b935715bab, type: 3}
+    - {fileID: 2800000, guid: aede40fc92148f74aa345e3900a3cb94, type: 3}
+    - {fileID: 2800000, guid: 85493cb598ea62246a0d575c073a56a0, type: 3}
+    - {fileID: 2800000, guid: d894b794dbd741f458b1e768c0903dc2, type: 3}
+    - {fileID: 2800000, guid: ce9c251c7626ff74eb1787622d4f093c, type: 3}
+    - {fileID: 2800000, guid: d9481ef8c0a48fd4d956b164e1386ae1, type: 3}
+    - {fileID: 2800000, guid: 7de969484b7a56e4a9396156f545ee96, type: 3}
+    - {fileID: 2800000, guid: a048b280b00343e49b523006e3ba9b7e, type: 3}
+    - {fileID: 2800000, guid: 931933feab1fa2f439b1fbf9de6332da, type: 3}
+    - {fileID: 2800000, guid: a5f54cb8f53059a4f94a514eddf2f20d, type: 3}
+    - {fileID: 2800000, guid: 48a6a04eea2262a419b4d638eee21ad4, type: 3}
+    - {fileID: 2800000, guid: c56223c92b2903a4ba746ee96a7ce1fd, type: 3}
+    - {fileID: 2800000, guid: bea58bfdf9813ec438406f7bcd4117d9, type: 3}
+    - {fileID: 2800000, guid: c93354449571b44459c7ef8c0b91df04, type: 3}
+    - {fileID: 2800000, guid: 3313a22cdeba2c047b83ea5e0e3fd920, type: 3}
+    - {fileID: 2800000, guid: a3546908f52d7b1458212ac0fe79e8d5, type: 3}
+    - {fileID: 2800000, guid: 1187803560aee39418cd6722c93a68d0, type: 3}
+    - {fileID: 2800000, guid: d7f91bd6f7a69ae4790f2b3c0a01a62d, type: 3}
+    - {fileID: 2800000, guid: 9fc23a2e5abcd0f4d915127f36c56d7e, type: 3}
+    - {fileID: 2800000, guid: f8f5043398f36624c8ed5f470f85e230, type: 3}
+    - {fileID: 2800000, guid: ea5cfecbcb4bcc840889c6e8f5e69baa, type: 3}
+    - {fileID: 2800000, guid: 3d9d90e09e54507408341104a4b9173c, type: 3}
+    - {fileID: 2800000, guid: 8eaac662bda9104478c711ffb48d79e9, type: 3}
+    - {fileID: 2800000, guid: f6affbdd8c3f294489b48e5ea7cab3ca, type: 3}
+    - {fileID: 2800000, guid: eeb33947b9584324794bd752b132911e, type: 3}
+    - {fileID: 2800000, guid: 69de4f2190a7cc54e9155b32ddfa58b8, type: 3}
+  m_IsVariant: 0

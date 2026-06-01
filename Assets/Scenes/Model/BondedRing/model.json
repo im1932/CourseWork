@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_536",
+    "name": "Ring of Roots",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_537",
+    "name": "Asteroid",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_538",
+    "name": "Goldsmith",
+    "rarityPermille": 4
+  },
+  {
+    "id": "model_539",
+    "name": "Hourglass",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_540",
+    "name": "Neo Matrix",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_541",
+    "name": "Spatial Grid",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_542",
+    "name": "Fireball",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_543",
+    "name": "Highway",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_544",
+    "name": "Metal Forever",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_545",
+    "name": "Moon Dust",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_546",
+    "name": "Stratosphere",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_547",
+    "name": "Thunder Bolt",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_548",
+    "name": "Anaconda",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_549",
+    "name": "Cat Bed",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_550",
+    "name": "Cheese",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_551",
+    "name": "Duckling",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_552",
+    "name": "Froge Ring",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_553",
+    "name": "Golden Star",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_554",
+    "name": "Hamster Wheel",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_555",
+    "name": "Hot Wheel",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_556",
+    "name": "Kraken's Grip",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_557",
+    "name": "Mouse Wheel",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_558",
+    "name": "Neon Pulse",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_559",
+    "name": "Pixel Loot",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_560",
+    "name": "Rainbow",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_561",
+    "name": "Soap Bubbles",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_562",
+    "name": "Space Inside",
+    "rarityPermille": 18
+  },
+  {
+    "id": "model_563",
+    "name": "Astro Silver",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_564",
+    "name": "Atomic Core",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_565",
+    "name": "Dalmatian",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_566",
+    "name": "Duo Vision",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_567",
+    "name": "Eclipse",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_568",
+    "name": "Ironwood",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_569",
+    "name": "Magic Runes",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_570",
+    "name": "Neo Tribe",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_571",
+    "name": "Rainbow Halo",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_572",
+    "name": "Runewood",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_573",
+    "name": "Solid Magma",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_574",
+    "name": "Tiger Amulet",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_575",
+    "name": "Zebra",
+    "rarityPermille": 21
+  },
+  {
+    "id": "model_576",
+    "name": "Black Hole",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_577",
+    "name": "Bloody Mary",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_578",
+    "name": "Frostband",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_579",
+    "name": "Leopard",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_580",
+    "name": "Lime Factory",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_581",
+    "name": "Line Art",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_582",
+    "name": "Love Whisper",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_583",
+    "name": "Miami Art",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_584",
+    "name": "Spectrum",
+    "rarityPermille": 35
+  },
+  {
+    "id": "model_585",
+    "name": "Yin Yang",
+    "rarityPermille": 35
+  }
+]

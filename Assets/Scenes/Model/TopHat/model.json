@@ -1,0 +1,352 @@
+[
+  {
+    "id": "model_6501",
+    "name": "Pixel Perfect",
+    "rarityPermille": 2
+  },
+  {
+    "id": "model_6502",
+    "name": "Megawatt",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6503",
+    "name": "Constable",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6504",
+    "name": "Hypnosis",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6505",
+    "name": "Lucifer",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6506",
+    "name": "Solar System",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6507",
+    "name": "Grey Gatsby",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6508",
+    "name": "Polygon",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_6509",
+    "name": "Abracadabra",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6510",
+    "name": "Hat Toss",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6511",
+    "name": "Tree Stump",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6512",
+    "name": "Edison",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6513",
+    "name": "Prestige",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6514",
+    "name": "Pickle Jar",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6515",
+    "name": "Green Stars",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6516",
+    "name": "Romantic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6517",
+    "name": "Sceleritas Fel",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6518",
+    "name": "Is It Cake?",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6519",
+    "name": "Brainiac",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6520",
+    "name": "Alien Invasion",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6521",
+    "name": "Mr. Whiskers",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6522",
+    "name": "Hippie",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6523",
+    "name": "Bubble Top",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6524",
+    "name": "Snowstorm",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6525",
+    "name": "Atlantis",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_6526",
+    "name": "Celestial",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6527",
+    "name": "Performer",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6528",
+    "name": "Witch Doctor",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6529",
+    "name": "Glam Safari",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6530",
+    "name": "Blackjack",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6531",
+    "name": "Steampunk",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6532",
+    "name": "Antiquity",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6533",
+    "name": "Pink Bunny",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6534",
+    "name": "Submarine",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6535",
+    "name": "Dairy Dandy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6536",
+    "name": "Mad Hatter",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_6537",
+    "name": "Chronos",
+    "rarityPermille": 12
+  },
+  {
+    "id": "model_6538",
+    "name": "Huntsman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6539",
+    "name": "Silver Glass",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6540",
+    "name": "Elegance",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6541",
+    "name": "Leprechaun",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6542",
+    "name": "Bull Baron",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6543",
+    "name": "Uncle Sam",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6544",
+    "name": "Cranberry",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6545",
+    "name": "Blake",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_6546",
+    "name": "Lincoln",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6547",
+    "name": "Burned Brass",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6548",
+    "name": "Willy Wonka",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6549",
+    "name": "Crosswalk",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6550",
+    "name": "Limoncello",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6551",
+    "name": "Charlie",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6552",
+    "name": "Scrooge",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6553",
+    "name": "Clockwork",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6554",
+    "name": "Blood Veil",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6555",
+    "name": "Low Rider",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_6556",
+    "name": "Starlight",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6557",
+    "name": "Grandmaster",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6558",
+    "name": "Spectrum",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6559",
+    "name": "Dreamwave",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6560",
+    "name": "Purple Rain",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6561",
+    "name": "Victorian Era",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6562",
+    "name": "Golden Ratio",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6563",
+    "name": "Bloodline",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6564",
+    "name": "Graphite",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6565",
+    "name": "Cardinal",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6566",
+    "name": "Alabaster",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6567",
+    "name": "Maroon",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6568",
+    "name": "White Windsor",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6569",
+    "name": "Black Raven",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_6570",
+    "name": "Maestro",
+    "rarityPermille": 30
+  }
+]

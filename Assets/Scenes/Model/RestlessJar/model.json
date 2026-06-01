@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_5141",
+    "name": "Gift Holder",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_5142",
+    "name": "Kittens",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_5143",
+    "name": "Pepe Pod",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_5144",
+    "name": "Piggy Bank",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_5145",
+    "name": "Utya Duck",
+    "rarityPermille": 7
+  },
+  {
+    "id": "model_5146",
+    "name": "Frundles",
+    "rarityPermille": 9
+  },
+  {
+    "id": "model_5147",
+    "name": "Arcade",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5148",
+    "name": "Booster",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5149",
+    "name": "Chained Soul",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5150",
+    "name": "Happy Pills",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5151",
+    "name": "Miniland",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5152",
+    "name": "Mocktail",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5153",
+    "name": "Neon Crystals",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5154",
+    "name": "Painkillers",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5155",
+    "name": "Repair Kit",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5156",
+    "name": "Snack Bones",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5157",
+    "name": "Soul Shards",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5158",
+    "name": "Succulents",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5159",
+    "name": "Sweet Dreams",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5160",
+    "name": "Tiny Tulips",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5161",
+    "name": "Uranium",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5162",
+    "name": "Witchcraft",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_5163",
+    "name": "Cherry Punch",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_5164",
+    "name": "Pickles",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_5165",
+    "name": "Popcorn",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_5166",
+    "name": "Tomatoes",
+    "rarityPermille": 17
+  },
+  {
+    "id": "model_5167",
+    "name": "Tricky Treats",
+    "rarityPermille": 22
+  },
+  {
+    "id": "model_5168",
+    "name": "Aquarium",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5169",
+    "name": "Autumn Candle",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5170",
+    "name": "Bubble Bugs",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5171",
+    "name": "Choco Cookies",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5172",
+    "name": "Coffee Beans",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5173",
+    "name": "Fireflies",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5174",
+    "name": "Gummy Bears",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5175",
+    "name": "Honey Bees",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5176",
+    "name": "Hot Tea",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5177",
+    "name": "Mini Blocks",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5178",
+    "name": "Silver Moths",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5179",
+    "name": "Solar System",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5180",
+    "name": "Tornado",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_5181",
+    "name": "Blueberry",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5182",
+    "name": "Charcoal",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5183",
+    "name": "Cold Mint",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5184",
+    "name": "Cotton Candy",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5185",
+    "name": "Marshmallow",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5186",
+    "name": "Pineapple",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5187",
+    "name": "Pop Art",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5188",
+    "name": "Sketch",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5189",
+    "name": "Sugar Free",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_5190",
+    "name": "Chocolate",
+    "rarityPermille": 33
+  }
+]

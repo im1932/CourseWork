@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_7041",
+    "name": "Bitcoin",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7042",
+    "name": "Deep State",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7043",
+    "name": "Resistance",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7044",
+    "name": "Circus",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7045",
+    "name": "Fast Charge",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7046",
+    "name": "Honey Bee",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7047",
+    "name": "Ogre Snack",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7048",
+    "name": "Starfish",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7049",
+    "name": "Sugar Daddy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7050",
+    "name": "Toncoin",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7051",
+    "name": "Trump Cake",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7052",
+    "name": "Christmas",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7053",
+    "name": "Demoman",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7054",
+    "name": "Dracula",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7055",
+    "name": "Gummy Bears",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7056",
+    "name": "Hellspawn",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7057",
+    "name": "Maneki Neko",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7058",
+    "name": "Poopy Pie",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7059",
+    "name": "Stardust",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7060",
+    "name": "Sweetheart",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7061",
+    "name": "Tarot Cards",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7062",
+    "name": "Trippy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7063",
+    "name": "Alien Slime",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7064",
+    "name": "Bag End",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7065",
+    "name": "Biohazard",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7066",
+    "name": "Cream Scream",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7067",
+    "name": "Half-Life",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_7068",
+    "name": "Arizona",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7069",
+    "name": "Bitter Sweet",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7070",
+    "name": "Hawaii",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7071",
+    "name": "Jolly Roger",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7072",
+    "name": "Minion",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7073",
+    "name": "Paradise",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7074",
+    "name": "Spiritwood",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7075",
+    "name": "Sponge Duck",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7076",
+    "name": "Unicorn",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7077",
+    "name": "Wasteland",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_7078",
+    "name": "Blueberry Hill",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7079",
+    "name": "Cherry Top",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7080",
+    "name": "Cloud Nine",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7081",
+    "name": "Fantastic Four",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7082",
+    "name": "First Bite",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7083",
+    "name": "Heaven Seven",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7084",
+    "name": "High Five",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7085",
+    "name": "March Eight",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7086",
+    "name": "Rising Dead",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7087",
+    "name": "Six Senses",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7088",
+    "name": "Triple Treat",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7089",
+    "name": "Two Sweet!",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_7090",
+    "name": "Zero Sugar",
+    "rarityPermille": 30
+  }
+]

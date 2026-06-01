@@ -1,0 +1,252 @@
+[
+  {
+    "id": "model_101",
+    "name": "Nightmare",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_102",
+    "name": "Terminator",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_103",
+    "name": "Bad Fortune",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_104",
+    "name": "Calavera",
+    "rarityPermille": 3
+  },
+  {
+    "id": "model_105",
+    "name": "Clockwork",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_106",
+    "name": "Creeper Berry",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_107",
+    "name": "Sleepy Hollow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_108",
+    "name": "Party Soul",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_109",
+    "name": "Cobweb",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_110",
+    "name": "Smiley",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_111",
+    "name": "Fiesta",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_112",
+    "name": "Divinity",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_113",
+    "name": "Starman",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_114",
+    "name": "Half Alive",
+    "rarityPermille": 8
+  },
+  {
+    "id": "model_115",
+    "name": "Starborn",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_116",
+    "name": "Ink Skull",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_117",
+    "name": "Wild Desire",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_118",
+    "name": "Gentleman",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_119",
+    "name": "Void Totem",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_120",
+    "name": "Dead Apple",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_121",
+    "name": "Twisted Heart",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_122",
+    "name": "Hellfire",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_123",
+    "name": "Polka Dead",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_124",
+    "name": "Dead Kitty",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_125",
+    "name": "Cactus",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_126",
+    "name": "Cute Monster",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_127",
+    "name": "Happy End",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_128",
+    "name": "Phantom",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_129",
+    "name": "Nightfall",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_130",
+    "name": "Sunset Veil",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_131",
+    "name": "Bubblegum",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_132",
+    "name": "Corpse Mint",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_133",
+    "name": "Deadly Sweet",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_134",
+    "name": "Chromatic",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_135",
+    "name": "Red Death",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_136",
+    "name": "Frost Wraith",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_137",
+    "name": "Radiant",
+    "rarityPermille": 30
+  },
+  {
+    "id": "model_138",
+    "name": "Neon Green",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_139",
+    "name": "Indigo Husk",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_140",
+    "name": "Metal Shade",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_141",
+    "name": "Solar Stone",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_142",
+    "name": "Diablo",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_143",
+    "name": "Herbal Glow",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_144",
+    "name": "Brass Fossil",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_145",
+    "name": "Tangerine",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_146",
+    "name": "Ruby Eyes",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_147",
+    "name": "Deadman",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_148",
+    "name": "Rose Quartz",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_149",
+    "name": "Bone White",
+    "rarityPermille": 40
+  },
+  {
+    "id": "model_150",
+    "name": "Zombie",
+    "rarityPermille": 40
+  }
+]

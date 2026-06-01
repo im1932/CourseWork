@@ -1,0 +1,502 @@
+[
+  {
+    "id": "model_7161",
+    "name": "Alchemy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7162",
+    "name": "Arctic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7163",
+    "name": "Arts Major",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7164",
+    "name": "Banished",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7165",
+    "name": "Bat Swarm",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7166",
+    "name": "Black Magic",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7167",
+    "name": "Bouquet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7168",
+    "name": "Candelabra",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7169",
+    "name": "Cat Familiar",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7170",
+    "name": "Cherub",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7171",
+    "name": "Christmas",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7172",
+    "name": "Circus",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7173",
+    "name": "Cobweb",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7174",
+    "name": "Cone of Cold",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7175",
+    "name": "Confetti",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7176",
+    "name": "Cthulhu",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7177",
+    "name": "Daphnaie",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7178",
+    "name": "Dark Side",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7179",
+    "name": "DJ Witch",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7180",
+    "name": "Fae Touched",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7181",
+    "name": "Freyja",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7182",
+    "name": "Green Flag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7183",
+    "name": "Halftone",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7184",
+    "name": "Hat Shot",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7185",
+    "name": "Hatroulette",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7186",
+    "name": "Holiday",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7187",
+    "name": "Illusion",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7188",
+    "name": "Jumpscare",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7189",
+    "name": "Merlin",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7190",
+    "name": "Mine Time",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7191",
+    "name": "Mordor",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7192",
+    "name": "Necromancy",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7193",
+    "name": "Obi-Wan",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7194",
+    "name": "Observer",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7195",
+    "name": "Patchwork",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7196",
+    "name": "Phantom",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7197",
+    "name": "Polka Dot",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7198",
+    "name": "Radagast",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7199",
+    "name": "Rainbow",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7200",
+    "name": "Red Flag",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7201",
+    "name": "Sneak Attack",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7202",
+    "name": "SorciГЁre",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7203",
+    "name": "Sorting Cat",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7204",
+    "name": "Spyglass",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7205",
+    "name": "Sylvester",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7206",
+    "name": "Ultraviolet",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_7207",
+    "name": "Canvas",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7208",
+    "name": "Downtown",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7209",
+    "name": "Hex Taxi",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7210",
+    "name": "Hypnosis",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7211",
+    "name": "Nebula Mist",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7212",
+    "name": "Pinstripe",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7213",
+    "name": "Striped",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7214",
+    "name": "Techno",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_7215",
+    "name": "Aeromancy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7216",
+    "name": "Baba Yaga",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7217",
+    "name": "Beetroot",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7218",
+    "name": "Blood Mage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7219",
+    "name": "Cat's Grasp",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7220",
+    "name": "Classic",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7221",
+    "name": "Color Spray",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7222",
+    "name": "Dragonfruit",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7223",
+    "name": "Ectoplasm",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7224",
+    "name": "Ember Touch",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7225",
+    "name": "Ethereal",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7226",
+    "name": "Folklore",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7227",
+    "name": "Guava",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7228",
+    "name": "Hallowed",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7229",
+    "name": "Harvest",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7230",
+    "name": "Hobbit",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7231",
+    "name": "Incense",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7232",
+    "name": "Junk Mage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7233",
+    "name": "Lemon Aid",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7234",
+    "name": "Little Wizard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7235",
+    "name": "Lorendale",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7236",
+    "name": "Luminous",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7237",
+    "name": "Mad Wizard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7238",
+    "name": "Maleficar",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7239",
+    "name": "Manacost",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7240",
+    "name": "Martian Night",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7241",
+    "name": "Midnight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7242",
+    "name": "Morgana",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7243",
+    "name": "Morrigan",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7244",
+    "name": "Narnia",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7245",
+    "name": "Old Ochre",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7246",
+    "name": "Orchard",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7247",
+    "name": "Picasso",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7248",
+    "name": "Pink Pixie",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7249",
+    "name": "Pyromancy",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7250",
+    "name": "Sanctuary",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7251",
+    "name": "Sand Cloak",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7252",
+    "name": "Seaside",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7253",
+    "name": "Smoke Veil",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7254",
+    "name": "Spellcaster",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7255",
+    "name": "Twilight",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7256",
+    "name": "Ube Tea",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7257",
+    "name": "Vintage",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7258",
+    "name": "Wild Magic",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7259",
+    "name": "Witch Hazel",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_7260",
+    "name": "Young Witch",
+    "rarityPermille": 15
+  }
+]

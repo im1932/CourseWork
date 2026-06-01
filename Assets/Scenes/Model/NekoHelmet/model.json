@@ -1,0 +1,302 @@
+[
+  {
+    "id": "model_4490",
+    "name": "White Rabbit",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4491",
+    "name": "Turbo Frog",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4492",
+    "name": "Sky Diver",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4493",
+    "name": "Wild Cat",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4494",
+    "name": "Bulldog Bob",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4495",
+    "name": "Dalmatian",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4496",
+    "name": "Mad Clown",
+    "rarityPermille": 5
+  },
+  {
+    "id": "model_4497",
+    "name": "Formula One",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4498",
+    "name": "Unicorn",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4499",
+    "name": "Sonic Rave",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4500",
+    "name": "Retro-Future",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4501",
+    "name": "Dullahan",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4502",
+    "name": "Road Queen",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4503",
+    "name": "Kawaii",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4504",
+    "name": "Love Ghost",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4505",
+    "name": "Hell Rider",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4506",
+    "name": "Princess",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4507",
+    "name": "Queen Bee",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4508",
+    "name": "Maneki Neko",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4509",
+    "name": "Cookie Monster",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4510",
+    "name": "Astronaut",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4511",
+    "name": "Frostbear",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4512",
+    "name": "Disco Ball",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4513",
+    "name": "Savage",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4514",
+    "name": "Glitch",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4515",
+    "name": "Wild Daisy",
+    "rarityPermille": 10
+  },
+  {
+    "id": "model_4516",
+    "name": "Grey Shark",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4517",
+    "name": "Ladybug",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4518",
+    "name": "Steampunk",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4519",
+    "name": "Gold Rush",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4520",
+    "name": "Starry Sky",
+    "rarityPermille": 15
+  },
+  {
+    "id": "model_4521",
+    "name": "Twister",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4522",
+    "name": "Chrome",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4523",
+    "name": "Lightspeed",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4524",
+    "name": "Techno",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4525",
+    "name": "Strawberry",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4526",
+    "name": "Biker Girl",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4527",
+    "name": "Poison Ivy",
+    "rarityPermille": 20
+  },
+  {
+    "id": "model_4528",
+    "name": "Blackout",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_4529",
+    "name": "Whiteout",
+    "rarityPermille": 23
+  },
+  {
+    "id": "model_4530",
+    "name": "Night Race",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4531",
+    "name": "Cotton Drift",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4532",
+    "name": "Jade Breeze",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4533",
+    "name": "Databreak",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4534",
+    "name": "Tokyo Sunset",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4535",
+    "name": "Red Shift",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4536",
+    "name": "Lagoon",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4537",
+    "name": "Nebula",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4538",
+    "name": "Hornet",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4539",
+    "name": "Panther",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4540",
+    "name": "Ultravolt",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4541",
+    "name": "Optimus Prime",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4542",
+    "name": "Hothead",
+    "rarityPermille": 25
+  },
+  {
+    "id": "model_4543",
+    "name": "Shockwave",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_4544",
+    "name": "Lime Juice",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_4545",
+    "name": "Copper Alloy",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_4546",
+    "name": "Acid Punch",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_4547",
+    "name": "Silver Surfer",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_4548",
+    "name": "Caffeine",
+    "rarityPermille": 27
+  },
+  {
+    "id": "model_4549",
+    "name": "Solar Glare",
+    "rarityPermille": 27
+  }
+]
